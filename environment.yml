@@ -1,0 +1,14 @@
+name: chatbot
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.12
+  - pip
+  - tqdm
+  - requests
+  - rich
+  - typer
+  - ujson
+  - pydantic
+  - smart-open
+
