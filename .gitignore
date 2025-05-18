@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv/
+venv/
+ENV/
+env/
+*.log
+
+# Micromamba envs (if placed in project folder)
+micromamba_env/
+*.mamba
+
+# SQLite Database
+data/database.db
+data/backup/
+
+# Uploads (persisted elsewhere or backed up manually)
+data/uploads/
+
+# Jupyter Notebooks checkpoints (if you use any)
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
