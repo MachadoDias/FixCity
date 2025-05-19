@@ -1,4 +1,4 @@
-Pré-requisitos: Instalar o miniforge para gerar um ambiente isolado e baixar as dependências (https://github.com/conda-forge/miniforge)  
+Pré-requisitos: Instalar o miniforge para gerar um ambiente isolado e baixar as dependências (https://github.com/mamba-org/micromamba-releases)  
 Passos:  
 1 - Clone esse repositório  
 2 - No cmd, acesse a pasta cd  
