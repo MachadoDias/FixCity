@@ -2,10 +2,6 @@
 {"text": "Tem uma lâmpada queimada em frente a minha casa está queimada","cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0, "seguranca":0.0 }}
 {"text": "Minha avó precisa de uma consulta no oculista","cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0, "seguranca":0.0}}
 {"text": "Minha rua têm uma arvore e ela está soltando muita folha e está toda suja","cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0, "seguranca":0.0}}
-{"text": "Tem um buraco na rua na rua do tiro de guerra","cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0, "limpeza": 0.0, "seguranca":0.0 }}
-{"text": "Tem uma lâmpada queimada em frente a minha casa está queimada","cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0, "seguranca":0.0 }}
-{"text": "Minha avó precisa de uma consulta no oculista","cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0, "seguranca":0.0}}
-{"text": "Minha rua têm uma arvore e ela está soltando muita folha e está toda suja","cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0, "seguranca":0.0}}
 {"text": "alguém pode arrumar a rua aqui? no Inatel tá cheio de buraco, tá complicado", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
 {"text": "essa rua da Santa Luzia tá toda esburacada, como q resolve isso?", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
 {"text": "quebraram a calçada aqui no Jardim América pra obra e largaram tudo assim", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
