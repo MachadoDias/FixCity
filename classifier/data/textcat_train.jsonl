@@ -1,29 +1,25 @@
-{"text": "Tem um buraco na rua na rua do tiro de guerra","cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0, "limpeza": 0.0, "seguranca":0.0 }}
-{"text": "Tem uma lâmpada queimada em frente a minha casa está queimada","cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0, "seguranca":0.0 }}
-{"text": "Minha avó precisa de uma consulta no oculista","cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0, "seguranca":0.0}}
-{"text": "Minha rua têm uma arvore e ela está soltando muita folha e está toda suja","cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0, "seguranca":0.0}}
-{"text": "alguém pode arrumar a rua aqui? no Inatel tá cheio de buraco, tá complicado", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "essa rua da Santa Luzia tá toda esburacada, como q resolve isso?", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "quebraram a calçada aqui no Jardim América pra obra e largaram tudo assim", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "passa aqui na rua do Cruzeiro, tá só poeira, ninguém aguenta mais", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "moro no bairro do Inatel e a rua aqui tá detonada, tá precisando asfaltar logo", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "minha tia tá mal e o posto no Jardim das Rosas tá fechado, e agora?", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "o médico faltou de novo aqui no bairro Santa Clara, ninguém consegue consulta", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "preciso marcar exame pra minha mãe, aqui no Bela Vista tá tudo lotado", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "vc sabe se ainda tem vacina no Inatel? queria levar meu pai lá", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "ninguém atende o postinho aqui do Nova Esperança, isso é normal?", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "tem 3 postes apagados aqui na rua da escola no Jardim das Palmeiras", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "no Inatel a iluminação da praça não funciona, tá tudo escuro lá", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "essa rua aqui no Bela Vista tá no escuro, ninguém consegue ver nada à noite", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "moro perto do campo no Santa Luzia, e a luz do poste tá queimada faz dias", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "a iluminação da quadra aqui no bairro Jardim das Orquídeas tá horrível", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0,"seguranca":0.0}}
-{"text": "tá feio aqui no Bela Vista, lixo espalhado por tudo que é canto, tem como mandar alguem pra limpar?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0,"seguranca":0.0}}
-{"text": "a praça do Inatel tá imunda, ninguém limpa esse lugar?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0,"seguranca":0.0}}
-{"text": "tem sofá jogado aqui na rua da Santa Clara, podem dar um jeito nisso ?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0,"seguranca":0.0}}
-{"text": "o caminhão de lixo parou de passar aqui no Jardim América, ninguém resolve?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0,"seguranca":0.0}}
-{"text": "moro no Nova Esperança, e o pessoal tá jogando lixo no terreno baldio", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0,"seguranca":0.0}}
-{"text": "no Inatel tá perigoso andar depois das 7, assalto direto por aqui", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":1.0}}
-{"text": "essa semana já roubaram 2 casas aqui no Bela Vista, não tem polícia não?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":1.0}}
-{"text": "bairro Santa Clara tá cada dia mais perigoso, não vejo uma viatura aqui", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":1.0}}
-{"text": "tem tráfico rolando perto da escola aqui no Nova Esperança, alguém tem que ver isso", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":1.0}}
-{"text": "já vi 3 assaltos só esse mês aqui no Jardim das Palmeiras, tá fora de controle", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0,"seguranca":1.0}}
+{"text": "Tem um buraco na rua na rua do tiro de guerra","cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0, "limpeza": 0.0 }}
+{"text": "Tem uma lâmpada queimada em frente a minha casa está queimada","cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0 }}
+{"text": "Minha avó precisa de uma consulta no oculista","cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "Minha rua têm uma arvore e ela está soltando muita folha e está toda suja","cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0}}
+{"text": "alguém pode arrumar a rua aqui? no Inatel tá cheio de buraco, tá complicado", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "essa rua da Santa Luzia tá toda esburacada, como q resolve isso?", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "quebraram a calçada aqui no Jardim América pra obra e largaram tudo assim", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "passa aqui na rua do Cruzeiro, tá só poeira, ninguém aguenta mais", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "moro no bairro do Inatel e a rua aqui tá detonada, tá precisando asfaltar logo", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "minha tia tá mal e o posto no Jardim das Rosas tá fechado, e agora?", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "o médico faltou de novo aqui no bairro Santa Clara, ninguém consegue consulta", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "preciso marcar exame pra minha mãe, aqui no Bela Vista tá tudo lotado", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "vc sabe se ainda tem vacina no Inatel? queria levar meu pai lá", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "ninguém atende o postinho aqui do Nova Esperança, isso é normal?", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza": 0.0}}
+{"text": "tem 3 postes apagados aqui na rua da escola no Jardim das Palmeiras", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0}}
+{"text": "no Inatel a iluminação da praça não funciona, tá tudo escuro lá", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0}}
+{"text": "essa rua aqui no Bela Vista tá no escuro, ninguém consegue ver nada à noite", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0}}
+{"text": "moro perto do campo no Santa Luzia, e a luz do poste tá queimada faz dias", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0}}
+{"text": "a iluminação da quadra aqui no bairro Jardim das Orquídeas tá horrível", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza": 0.0}}
+{"text": "tá feio aqui no Bela Vista, lixo espalhado por tudo que é canto, tem como mandar alguem pra limpar?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0}}
+{"text": "a praça do Inatel tá imunda, ninguém limpa esse lugar?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0}}
+{"text": "tem sofá jogado aqui na rua da Santa Clara, podem dar um jeito nisso ?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0}}
+{"text": "o caminhão de lixo parou de passar aqui no Jardim América, ninguém resolve?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0}}
+{"text": "moro no Nova Esperança, e o pessoal tá jogando lixo no terreno baldio", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0}}
+
