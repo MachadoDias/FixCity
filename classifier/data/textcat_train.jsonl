@@ -22,4 +22,89 @@
 {"text": "tem sofá jogado aqui na rua da Santa Clara, podem dar um jeito nisso ?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0}}
 {"text": "o caminhão de lixo parou de passar aqui no Jardim América, ninguém resolve?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0}}
 {"text": "moro no Nova Esperança, e o pessoal tá jogando lixo no terreno baldio", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza": 1.0}}
+{"text": "tem buraco enorme na rua do tiro de guerra, isso ta complicado", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "a calçada aqui perto da minha casa tá quebrada, pode arrumar?", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "a rua tá cheia de buraco, ninguém faz nada pra consertar", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "obra parou e deixou a rua toda suja, ninguém limpou ainda", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "depois da chuva o asfalto levantou e formou buraco grande", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "tem um buraco na saída da minha rua que tá perigoso", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "tem entulho na rua e tá atrapalhando o trânsito, podem ver?", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "a ponte da estrada tá com parte quebrada, cuidado aí", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "buraco enorme perto do ponto de ônibus, ninguém faz nada", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "a rua tá afundando e tá complicado passar de carro", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "tem pedaço da calçada solto, pode arrumar pra evitar acidente?", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "obras pararam e deixaram a rua cheia de lama, ninguém limpa", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "o asfalto tá quebrando toda hora, tem que ver isso aí", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "material de obra tá espalhado na rua, tá perigoso", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "a estrada do bairro tá toda destruída, precisa urgente", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "a rua virou poeira porque não fizeram asfalto até agora", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "obra tá abandonada e o local tá perigoso pra quem passa", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "buraco perto do ponto de ônibus tá enorme, alguém resolve?", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "calçada quebrada dificulta passagem, arruma isso aí por favor", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "tem buraco novo que abriu depois da última chuva na rua aqui", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "a rua tá cheia de entulho e ninguém limpa, tá ruim pra passar", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "tem pedaço da calçada que tá solto e pode causar acidente", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "a obra tá atrasada e o trânsito tá complicado na região", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "a rua virou lama porque a obra não terminou e tá complicado", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "tem entulho no meio da rua que tá atrapalhando os carros", "cats": {"obras": 1.0,"saude": 0.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "minha mae tá com febre e não consegue consulta no posto daqui", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "o posto tá fechado hoje, meu pai precisa de remédio urgente", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "não tem médico no posto do bairro desde semana passada", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "minha tia precisa de vacina, mas o posto daqui tá lotado demais", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "alguém sabe se o posto tá aberto hj? preciso levar meu filho", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "o enfermeiro não tá atendendo direito no posto do bairro", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "falta remédio no posto e ninguém resolve o problema", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "o consultorio aqui tá sem médico faz dias, e a gente sofre", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "preciso marcar exame, mas o posto do bairro tá sempre cheio", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "tem algum médico de plantão hoje no posto da praça?", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "não tem enfermeira no posto do bairro e isso tá complicado", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "preciso de consulta urgente e o posto tá fechado", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "não tem vacina disponível no posto aqui perto", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "o médico faltou de novo na unidade de saúde", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "tem fila enorme pra atendimento no posto do bairro", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "preciso urgente de atendimento médico, onde procuro?", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "minha avó não consegue consulta oftalmo, tá muito difícil", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":0.0,"limpeza":0.0}}
+{"text": "posto de saúde tá sem luz, atendimento tá parado", "cats": {"obras": 0.0,"saude": 1.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "tem umas lâmpadas apagadas na rua do hospital, podem arrumar?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "os postes da praça tão apagados faz dias", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "a luz da rua do mercado não acende mais", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "tá tudo escuro no bairro depois das 7 da noite", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "poste queimado na esquina da minha casa", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "iluminação da praça tá péssima, precisa de manutenção", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "lâmpada queimada na rua do colégio, alguém resolve?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "tem lixo acumulado na calçada da minha rua, alguém pode limpar?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem monte de papel e resto de comida na praça, tá feio isso", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "a rua tá cheia de lixo, precisa passar o caminhão com urgência", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem sofá velho jogado na rua do bairro, podem recolher?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "lixo acumulado na frente da minha casa, ninguém passa pra limpar", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "o caminhão do lixo não passou essa semana no bairro", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem muita sujeira perto da escola, tá precisando limpeza urgente", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "o terreno baldio aqui perto tá cheio de lixo jogado", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "a praça aqui do bairro tá toda suja e ninguém limpa", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem muita folha e galho na calçada, atrapalha quem passa", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem muita poeira na rua por causa da obra, alguém pode ajudar?", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem lixo espalhado pelo bairro, precisa de limpeza urgente", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "a calçada tá cheia de mato, ninguém corta", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "lixeira pública tá transbordando e ninguém limpa", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem lixo jogado na rua e ninguém passa pra recolher", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem muita sujeira na praça que ninguém limpa faz tempo", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem resto de obra jogado na rua, ninguém recolhe", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem sofá e lixo grande na rua, tá feio", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "o bairro tá cheio de lixo acumulado, precisa urgente limpar", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem muita sujeira na rua, ninguém passa pra limpar", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "as lâmpadas da rua da escola tão queimadas faz dias", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "a praça aqui tá no escuro porque não tem iluminação", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "tem postes apagados na rua da feira", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "a lâmpada do poste perto da minha casa queimou", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "tem poste sem luz na rua do campo", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "a rua tá escura demais a noite", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "poste da praça tá apagado", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "a iluminação pública da minha rua não funciona", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "a rua do mercado tá sem luz", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":1.0,"limpeza":0.0}}
+{"text": "lixo acumulado na praça do bairro", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "a rua tá cheia de lixo, ninguém limpa", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem muito lixo jogado perto do ponto de ônibus", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "o caminhão de lixo não passou aqui essa semana", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "tem sofá jogado na rua do bairro", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
+{"text": "a calçada tá cheia de lixo e mato", "cats": {"obras": 0.0,"saude": 0.0,"iluminacao":0.0,"limpeza":1.0}}
 
