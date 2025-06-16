@@ -1,5 +1,6 @@
 const venom = require('venom-bot');
-venom 
+import {messageHandler} from './handler.js';
+venom
     .create({
   session: "session-name",
   puppeteerOptions: {
@@ -11,7 +12,5 @@ venom
     .catch(error => console.error(error))
 
 function start(client){
-    client.sendText("5535997286802@c.us", "ejdjeifjiemjdwimj")
-    .then(result => console.log(result))
-    .catch(error => console.error(error))
+    client.onMessage(messageHandler);
 }
