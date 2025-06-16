@@ -1,0 +1,60 @@
+{"text": "bom dia, aki é a julia santos, preciso de ajuda", "entities": [[15, 27, "NOME"]]}
+{"text": "tem um buraco gigante na rua sao paulo 150", "entities": [[27, 43, "ENDERECO"]]}
+{"text": "sou o rodrigo almeida e a calçada tá toda quebrada", "entities": [[7, 22, "NOME"]]}
+{"text": "lampada queimada na av. brasil perto do banco", "entities": [[22, 31, "ENDERECO"]]}
+{"text": "me chamo fernanda vieira", "entities": [[9, 24, "NOME"]]}
+{"text": "fizeram um buraco na av. xv de novembro hj cedo", "entities": [[22, 37, "ENDERECO"]]}
+{"text": "é o pedro henrique, qria registrar um problema", "entities": [[5, 19, "NOME"]]}
+{"text": "alagamento na rua das laranjeiras", "entities": [[14, 32, "ENDERECO"]]}
+{"text": "aki é a paula souza, a lixeira ta transbordando", "entities": [[9, 20, "NOME"]]}
+{"text": "problema com bueiro na av. paulista 300", "entities": [[24, 38, "ENDERECO"]]}
+{"text": "boa tarde, aki quem fala é o carlos eduardo", "entities": [[24, 38, "NOME"]]}
+{"text": "a rua minas gerais ta com vazamento", "entities": [[2, 17, "ENDERECO"]]}
+{"text": "sou a isabela costa e o poste caiu hj", "entities": [[7, 20, "NOME"]]}
+{"text": "tem entulho jogado na av. rio branco 90", "entities": [[22, 36, "ENDERECO"]]}
+{"text": "chamo joao vitor, problema com agua suja", "entities": [[6, 16, "NOME"]]}
+{"text": "aki é o lucas silva, tem como arrumar isso?", "entities": [[9, 20, "NOME"]]}
+{"text": "tem um buraco enorme na r. das flores 45", "entities": [[25, 40, "ENDERECO"]]}
+{"text": "bom dia, sou a mariana alves e preciso de ajuda", "entities": [[13, 26, "NOME"]]}
+{"text": "rua jose bonifacio 120 alagada dnv", "entities": [[0, 20, "ENDERECO"]]}
+{"text": "é o pedro henrique aki, a lixeira ta cheia", "entities": [[5, 19, "NOME"]]}
+{"text": "av paulista 123 td alagado", "entities": [[0, 15, "ENDERECO"]]}
+{"text": "meu nome é ana clara", "entities": [[12, 21, "NOME"]]}
+{"text": "na r. das laranjeiras tem mt entulho", "entities": [[3, 20, "ENDERECO"]]}
+{"text": "aki quem fala é o rodrigo pires", "entities": [[18, 31, "NOME"]]}
+{"text": "tá td escuro na av brasil perto do mercado", "entities": [[16, 25, "ENDERECO"]]}
+{"text": "sou o marcelo oliveira, o poste caiu", "entities": [[7, 22, "NOME"]]}
+{"text": "problema na rua espirito santo 78", "entities": [[13, 32, "ENDERECO"]]}
+{"text": "aqui é a julia mendes", "entities": [[10, 22, "NOME"]]}
+{"text": "alagamento na r goias", "entities": [[13, 20, "ENDERECO"]]}
+{"text": "é o tiago costa, vcs conseguem resolver?", "entities": [[5, 17, "NOME"]]}
+{"text": "vazamento na rua pernambuco 55 hj cedo", "entities": [[13, 30, "ENDERECO"]]}
+{"text": "me chamo renato souza", "entities": [[9, 21, "NOME"]]}
+{"text": "o pessoal jogou entulho na av. rio branco", "entities": [[26, 41, "ENDERECO"]]}
+{"text": "bom dia, sou a carol dias", "entities": [[13, 23, "NOME"]]}
+{"text": "tampa de bueiro sumiu na rua acre 200", "entities": [[24, 34, "ENDERECO"]]}
+{"text": "oi, sou a ana paula e tem um poste queimado na r. das acácias 54", "entities": [[8, 17, "NOME"], [43, 62, "ENDERECO"]]}
+{"text": "bom dia, aqui é o rafael silva, a calçada na av. são miguel 130 tá quebrada", "entities": [[16, 29, "NOME"], [49, 69, "ENDERECO"]]}
+{"text": "tem lixo espalhado na rua joão passos, eu sou a carla melo", "entities": [[38, 48, "ENDERECO"], [53, 63, "NOME"]]}
+{"text": "sou o pedro costa, a lâmpada da rua vitória régia 202 tá apagada", "entities": [[7, 17, "NOME"], [38, 60, "ENDERECO"]]}
+{"text": "aqui é a juliana ferreira, a rua das bromélias 89 tá cheia de buraco", "entities": [[10, 27, "NOME"], [37, 56, "ENDERECO"]]}
+{"text": "alô, sou o felipe rodrigues, tem esgoto entupido na av. das palmeiras 44", "entities": [[13, 29, "NOME"], [56, 78, "ENDERECO"]]}
+{"text": "boa tarde, me chamo lucas santos e a rua ipê 120 tá cheia de mato", "entities": [[20, 31, "NOME"], [37, 44, "ENDERECO"]]}
+{"text": "oi, aqui é a maria clara, tem lixo na praça do sol 15", "entities": [[11, 22, "NOME"], [33, 46, "ENDERECO"]]}
+{"text": "sou o carlos alves, poste apagado na rua são domingos 98", "entities": [[7, 19, "NOME"], [38, 58, "ENDERECO"]]}
+{"text": "meu nome é isabela rocha, temLL buraco na rua goiás 112", "entities": [[11, 26, "NOME"], [42, 54, "ENDERECO"]]}
+{"text": "oi, sou o joão pedro, a rua santa luzia 45 tá com vazamento", "entities": [[8, 18, "NOME"], [25, 43, "ENDERECO"]]}
+{"text": "aqui é a paula medeiros, a calçada da rua dos lírios 67 tá quebrada", "entities": [[10, 23, "NOME"], [41, 62, "ENDERECO"]]}
+{"text": "sou o felipe melo, lixo acumulado na av. dos coqueiros 78", "entities": [[7, 20, "NOME"], [39, 63, "ENDERECO"]]}
+{"text": "bom dia, sou a daniela campos, poste apagado na rua das violetas 95", "entities": [[16, 30, "NOME"], [52, 73, "ENDERECO"]]}
+{"text": "me chamo rafael moreira, tem esgoto entupido na rua das palmeiras 22", "entities": [[10, 25, "NOME"], [50, 72, "ENDERECO"]]}
+{"text": "sou a luana cardoso, buraco na avenida primavera 34", "entities": [[7, 20, "NOME"], [33, 55, "ENDERECO"]]}
+{"text": "oi, aqui é o gabriel moura, a praça das flores 12 tá suja", "entities": [[11, 26, "NOME"], [34, 52, "ENDERECO"]]}
+{"text": "sou o diego silva, luz apagada na rua carvalho 77", "entities": [[7, 18, "NOME"], [39, 55, "ENDERECO"]]}
+{"text": "meu nome é elisa freitas, lixo espalhado na rua dos pinheiros 50", "entities": [[11, 26, "NOME"], [47, 70, "ENDERECO"]]}
+{"text": "oi, sou a camila melo, poste quebrado na avenida são joão 80", "entities": [[8, 19, "NOME"], [37, 60, "ENDERECO"]]}
+{"text": "aqui é o bruno leite, a rua cambará 23 tá cheia de mato", "entities": [[10, 21, "NOME"], [30, 43, "ENDERECO"]]}
+{"text": "sou a gabi santos, a calçada na rua da paz 15 tá quebrada", "entities": [[7, 18, "NOME"], [37, 50, "ENDERECO"]]}
+{"text": "bom dia, sou o lucas almeida, tem lixo na praça verde 7", "entities": [[16, 29, "NOME"], [43, 57, "ENDERECO"]]}
+{"text": "me chamo marcelo costa, problema na avenida das acácias 110", "entities": [[10, 24, "NOME"], [44, 67, "ENDERECO"]]}
+{"text": "sou a ana carolina, tem buraco na rua dos cravos 65", "entities": [[7, 19, "NOME"], [38, 55, "ENDERECO"]]}
