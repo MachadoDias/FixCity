@@ -12,5 +12,5 @@ venom
     .catch(error => console.error(error))
 
 function start(client){
-    client.onMessage(messageHandler);
+    client.onMessage((message) => messageHandler(client, message));
 }
