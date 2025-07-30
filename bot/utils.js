@@ -1,10 +1,11 @@
-export function getCurrentTimestamp() {
+function getCurrentTimestamp() {
   return new Date().toISOString();
 }
-export function logError(error) {
+function logError(error) {
   console.error(`[ERRO - ${getCurrentTimestamp()}]:`, error.message);
 }
 
-export function generateDemandId() {
+function generateDemandId() {
   return Date.now().toString();
 }
+module.exports = {getCurrentTimestamp, logError, generateDemandId};

@@ -16,8 +16,10 @@ def init_db():
              CREATE TABLE IF NOT EXISTS demands (
                  id INTEGER PRIMARY KEY AUTOINCREMENT,
                  title TEXT NOT NULL,
+                 image_path TEXT,
                  description TEXT,
                  requester TEXT,
+                 requester_contact TEXT,
                  location TEXT,
                  status TEXT DEFAULT 'pending',
                  created_at TEXT DEFAULT CURRENT_TIMESTAMP
@@ -36,8 +38,8 @@ def create_demand(data: Dict[str, Any]) -> Dict[str, Any]:
          conn = get_connection()
          cursor = conn.cursor()
          cursor.execute(
-             'INSERT INTO demands (title, description, requester, location) VALUES (?, ?, ?, ?)',
-             (data['title'], data.get('description'), data.get('requester'), data.get('location'))
+             'INSERT INTO demands (title, description, requester, requester_contact, location, image_path) VALUES (?, ?, ?, ?, ?, ?)',
+             (data['title'], data.get('description'), data.get('requester'),data.get('requester_contact'), data.get('location'), data.get('image_path'))
          )
          conn.commit()
          new_id = cursor.lastrowid

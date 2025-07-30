@@ -1,33 +1,42 @@
-import { logError, generateDemandId } from './utils.js';
-import { classifyText } from './api/classifier.js';
-import { saveDemand } from './api/backend.js';
-import { setUserState, getUserState, clearUserState } from './state.js';
+const { logError, generateDemandId } = require('./utils.js');
+const { classifyText } = require('./api/classifier.js');
+const { saveDemand } = require('./api/backend.js');
+const { setUserState, getUserState, clearUserState } = require('./state.js');
 
-export async function messageHandler(client, message) {
+async function messageHandler(client, message) {
     try {
-        if (message.type === 'image' && message.mimetype) {
-            const media = await client.downloadMedia(message);
+        const previousState = getUserState(message.from);
+        
+        const fs = require('fs');
+        const mime = require('mime-types');
 
-            const extension = message.mimetype.split('/')[1] || 'jpg';
+        if (message.isMedia === true || message.isMMS === true) {
+            const buffer = await client.decryptFile(message);
+            const extension = mime.extension(message.mimetype) || 'jpg';
             const filename = `uploads/${generateDemandId()}.${extension}`;
-            const fs = await import('fs');
-            const buffer = Buffer.from(media, 'base64');
-            fs.writeFileSync(filename, buffer);
 
-            await client.sendText(message.from, '🖼️ Imagem recebida! Ela será anexada à sua demanda.');
+            fs.writeFile(filename, buffer, (err) => {
+                if (err) {
+                    logError(err);
+                    client.sendText(message.from, '❌ Erro ao salvar a imagem.');
+                } else {
+                    console.log('🖼️ Imagem salva em:', filename);
+                    client.sendText(message.from, '🖼️ Imagem recebida! Ela será anexada à sua demanda.');
 
-            const previousState = getUserState(message.from);
-            if (previousState) {
-                setUserState(message.from, {
-                    ...previousState,
-                    image_path: filename
-                });
-            } else {
-                setUserState(message.from, {
-                    originalText: '',
-                    image_path: filename
-                });
-            }
+                    const previousState = getUserState(message.from);
+                    if (previousState) {
+                        setUserState(message.from, {
+                            ...previousState,
+                            image_path: filename
+                        });
+                    } else {
+                        setUserState(message.from, {
+                            originalText: '',
+                            image_path: filename
+                        });
+                    }
+                }
+            });
 
             return;
         }
@@ -35,7 +44,6 @@ export async function messageHandler(client, message) {
         if (message.isGroupMsg || !message.body) return;
 
         const userId = message.from;
-        const previousState = getUserState(userId);
 
         // Usuário está em uma conversa de acompanhamento
         if (previousState) {
@@ -46,13 +54,13 @@ export async function messageHandler(client, message) {
             const hasLocation = updatedClassification.local_demanda;
 
             if (hasName && hasLocation) {
-                const previousState = getUserState(userId); // lá em cima
 
                 const newDemand = {
                     id: generateDemandId(),
                     text: message.body,
                     image_path: previousState?.image_path || null,
-                    ...classification,
+                    contato_cidadao: userId,
+                    ...updatedClassification,
                 };
 
                 await saveDemand(newDemand);
@@ -85,7 +93,8 @@ export async function messageHandler(client, message) {
                 id: generateDemandId(),
                 text: message.body,
                 image_path: previousState?.image_path || null,
-                ...updatedClassification,
+                contato_cidadao: userId,
+                ...classification,
             };
 
 
@@ -106,3 +115,4 @@ export async function messageHandler(client, message) {
         await client.sendText(message.from, 'Ocorreu um erro ao processar sua solicitação');
     }
 }
+module.exports = { messageHandler };
