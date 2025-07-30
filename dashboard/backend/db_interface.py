@@ -2,7 +2,7 @@ import sqlite3
 from sqlite3 import Connection, Row
 from typing import List, Dict, Any
 
-DB_PATH = 'demands.db'
+DB_PATH = 'data/demands.db'
 
 def get_connection() -> Connection:
          conn = sqlite3.connect(DB_PATH)
