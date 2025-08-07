@@ -37,22 +37,28 @@ async function messageHandler(client, message) {
       const updatedText = (previousState.originalText || '') + ' ' + message.body;
       const classification = await classifyText(updatedText);
 
-      const nameMatch = classification.nome_cidadao || updatedText.match(/(?:meu nome é|nome é|me chamo|sou)\s+([A-ZÁÀÂÃÉÊÍÓÔÕÚÇ][a-záàâãéêíóôõúç]+)(?:\s+([A-ZÁÀÂÃÉÊÍÓÔÕÚÇ][a-záàâãéêíóôõúç]+))?/i);
-      const locationMatch = classification.local_demanda || updatedText.match(/(?:na\s+)?(?:rua|av|avenida|praça|r\.)\s+([a-záàâãéêíóôõúç\s]+?)(?:\s+\d+|$|\s+foi|\s+tem|\s+está)/i);
+      // Prioriza modelo Python, usa regex como fallback
+      const hasName = classification.nome_cidadao || 
+        (classification.confidence < 0.7 ? updatedText.match(/(?:meu nome é|nome é|me chamo|sou)\s+([A-ZÁÀÂÃÉÊÍÓÔÕÚÇ][a-záàâãéêíóôõúç]+)(?:\s+([A-ZÁÀÂÃÉÊÍÓÔÕÚÇ][a-záàâãéêíóôõúç]+))?/i) : null);
       
-      const hasName = nameMatch ? (typeof nameMatch === 'string' ? nameMatch : (nameMatch[1] + (nameMatch[2] ? ' ' + nameMatch[2] : '')).trim()) : null;
-      const hasLocation = locationMatch ? (typeof locationMatch === 'string' ? locationMatch : locationMatch[1]?.trim()) : null;
+      const hasLocation = classification.local_demanda || 
+        (classification.confidence < 0.7 ? updatedText.match(/(?:na\s+)?(?:rua|av|avenida|praça|r\.)\s+([a-záàâãéêíóôõúç\s]+?)(?:\s+\d+|$|\s+foi|\s+tem|\s+está)/i) : null);
+      
+      const finalName = typeof hasName === 'string' ? hasName : 
+        (hasName && hasName[1] ? (hasName[1] + (hasName[2] ? ' ' + hasName[2] : '')).trim() : null);
+      const finalLocation = typeof hasLocation === 'string' ? hasLocation : 
+        (hasLocation && hasLocation[1] ? hasLocation[1].trim() : null);
 
-      if (hasName && hasLocation) {
+      if (finalName && finalLocation) {
         const newDemand = {
           id: generateDemandId(),
           text: updatedText,
           image_path: previousState?.image_path || null,
           contato_cidadao: userId,
           setor: classification.setor,
-          nome_cidadao: hasName,
-          local_demanda: hasLocation,
-
+          nome_cidadao: finalName,
+          local_demanda: finalLocation,
+          confidence: classification.confidence
         };
 
         await saveDemand(newDemand);
@@ -60,8 +66,8 @@ async function messageHandler(client, message) {
         clearUserState(userId);
       } else {
         const missing = [];
-        if (!hasName) missing.push('seu nome completo');
-        if (!hasLocation) missing.push('o endereço da ocorrência');
+        if (!finalName) missing.push('seu nome completo');
+        if (!finalLocation) missing.push('o endereço da ocorrência');
         await client.sendText(userId, `Ainda preciso de ${missing.join(' e ')}.`);
         setUserState(userId, {
           ...previousState,
@@ -76,13 +82,19 @@ async function messageHandler(client, message) {
     console.log('Mensagem recebida:', message.body);
     const classification = await classifyText(message.body);
 
-    const nameMatch = classification.nome_cidadao || message.body.match(/(?:meu nome é|nome é|me chamo|sou)\s+([A-ZÁÀÂÃÉÊÍÓÔÕÚÇ][a-záàâãéêíóôõúç]+)(?:\s+([A-ZÁÀÂÃÉÊÍÓÔÕÚÇ][a-záàâãéêíóôõúç]+))?/i);
-    const locationMatch = classification.local_demanda || message.body.match(/(?:na\s+)?(?:rua|av|avenida|praça|r\.)\s+([a-záàâãéêíóôõúç\s]+?)(?:\s+\d+|$|\s+foi|\s+tem|\s+está)/i);
+    // Prioriza modelo Python, usa regex apenas se confiança baixa
+    const hasName = classification.nome_cidadao || 
+      (classification.confidence < 0.7 ? message.body.match(/(?:meu nome é|nome é|me chamo|sou)\s+([A-ZÁÀÂÃÉÊÍÓÔÕÚÇ][a-záàâãéêíóôõúç]+)(?:\s+([A-ZÁÀÂÃÉÊÍÓÔÕÚÇ][a-záàâãéêíóôõúç]+))?/i) : null);
     
-    const hasName = nameMatch ? (typeof nameMatch === 'string' ? nameMatch : (nameMatch[1] + (nameMatch[2] ? ' ' + nameMatch[2] : '')).trim()) : null;
-    const hasLocation = locationMatch ? (typeof locationMatch === 'string' ? locationMatch : locationMatch[1]?.trim()) : null;
+    const hasLocation = classification.local_demanda || 
+      (classification.confidence < 0.7 ? message.body.match(/(?:na\s+)?(?:rua|av|avenida|praça|r\.)\s+([a-záàâãéêíóôõúç\s]+?)(?:\s+\d+|$|\s+foi|\s+tem|\s+está)/i) : null);
+    
+    const finalName = typeof hasName === 'string' ? hasName : 
+      (hasName && hasName[1] ? (hasName[1] + (hasName[2] ? ' ' + hasName[2] : '')).trim() : null);
+    const finalLocation = typeof hasLocation === 'string' ? hasLocation : 
+      (hasLocation && hasLocation[1] ? hasLocation[1].trim() : null);
 
-    if (hasName && hasLocation) {
+    if (finalName && finalLocation) {
       const state = getUserState(userId);
 
       const newDemand = {
@@ -91,8 +103,9 @@ async function messageHandler(client, message) {
         image_path: state?.image_path || null,
         contato_cidadao: userId,
         setor: classification.setor,
-        nome_cidadao: hasName,
-        local_demanda: hasLocation,
+        nome_cidadao: finalName,
+        local_demanda: finalLocation,
+        confidence: classification.confidence
       };
 
       await saveDemand(newDemand);
@@ -100,8 +113,8 @@ async function messageHandler(client, message) {
       clearUserState(userId);
     } else {
       const missing = [];
-      if (!hasName) missing.push('seu nome completo');
-      if (!hasLocation) missing.push('o endereço da ocorrência');
+      if (!finalName) missing.push('seu nome completo');
+      if (!finalLocation) missing.push('o endereço da ocorrência');
       const ajuda = `Entendi sua solicitação sobre '${classification.setor}'. Para registrar, me envie ${missing.join(' e ')}.`;
       await client.sendText(userId, ajuda);
       setUserState(userId, {

@@ -1,0 +1,10 @@
+{"text": "O poste aqui quebrou, meu nome é Nayra e foi aqui na rua tenente Anibal Medeiros", "entities": [[30, 35, "NOME"], [52, 79, "ENDERECO"]], "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 1.0, "limpeza": 0.0}}
+{"text": "sou a Maria Silva, tem buraco na rua das palmeiras 123", "entities": [[6, 17, "NOME"], [33, 55, "ENDERECO"]], "cats": {"obras": 1.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "me chamo Pedro Santos, lixo na av brasil 456", "entities": [[9, 21, "NOME"], [31, 45, "ENDERECO"]], "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 1.0}}
+{"text": "nome é Ana Costa, posto fechado na rua sao joao 789", "entities": [[7, 16, "NOME"], [35, 52, "ENDERECO"]], "cats": {"obras": 0.0, "saude": 1.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "sou o Carlos Oliveira, poste caiu na praca central", "entities": [[6, 21, "NOME"], [33, 47, "ENDERECO"]], "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 1.0, "limpeza": 0.0}}
+{"text": "meu nome é Fernanda Lima, calcada quebrada na rua das flores", "entities": [[11, 25, "NOME"], [43, 59, "ENDERECO"]], "cats": {"obras": 1.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "me chamo Roberto Silva, tem entulho na av paulista", "entities": [[9, 22, "NOME"], [35, 47, "ENDERECO"]], "cats": {"obras": 1.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "sou a Juliana Santos, lampada queimada na rua minas gerais", "entities": [[6, 20, "NOME"], [39, 55, "ENDERECO"]], "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 1.0, "limpeza": 0.0}}
+{"text": "nome é Lucas Pereira, preciso de consulta na rua goias", "entities": [[7, 20, "NOME"], [42, 51, "ENDERECO"]], "cats": {"obras": 0.0, "saude": 1.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "me chamo Camila Rocha, lixeira cheia na praca da liberdade", "entities": [[9, 21, "NOME"], [36, 54, "ENDERECO"]], "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 1.0}}

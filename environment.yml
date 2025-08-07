@@ -13,4 +13,5 @@ dependencies:
   - ujson
   - pydantic
   - smart-open
+  - spacy
 

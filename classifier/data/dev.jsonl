@@ -1,0 +1,34 @@
+{"text": "boa tarde, me chamo lucas santos e a rua ipê 120 tá cheia de mato", "entities": [[20, 31, "NOME"], [37, 44, "ENDERECO"]]}
+{"text": "alô, sou o felipe rodrigues, tem esgoto entupido na av. das palmeiras 44", "entities": [[13, 29, "NOME"], [56, 78, "ENDERECO"]]}
+{"text": "tem lixo espalhado na rua joão passos, eu sou a carla melo", "entities": [[38, 48, "ENDERECO"], [53, 63, "NOME"]]}
+{"text": "me chamo marcelo costa, problema na avenida das acácias 110", "entities": [[10, 24, "NOME"], [44, 67, "ENDERECO"]]}
+{"text": "a rua tá escura demais a noite", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 1.0, "limpeza": 0.0}}
+{"text": "meu nome é isabela rocha, temLL buraco na rua goiás 112", "entities": [[11, 26, "NOME"], [42, 54, "ENDERECO"]]}
+{"text": "tem lixo espalhado pelo bairro, precisa de limpeza urgente", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 1.0}}
+{"text": "av paulista 123 td alagado", "entities": [[0, 15, "ENDERECO"]]}
+{"text": "tá tudo escuro no bairro depois das 7 da noite", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 1.0, "limpeza": 0.0}}
+{"text": "bom dia, sou a daniela campos, poste apagado na rua das violetas 95", "entities": [[16, 30, "NOME"], [52, 73, "ENDERECO"]]}
+{"text": "boa tarde, aki quem fala é o carlos eduardo", "entities": [[24, 38, "NOME"]]}
+{"text": "fizeram um buraco na av. xv de novembro hj cedo", "entities": [[22, 37, "ENDERECO"]]}
+{"text": "a iluminação da quadra aqui no bairro Jardim das Orquídeas tá horrível", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 1.0, "limpeza": 0.0}}
+{"text": "tem poste sem luz na rua do campo", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 1.0, "limpeza": 0.0}}
+{"text": "meu nome é elisa freitas, lixo espalhado na rua dos pinheiros 50", "entities": [[11, 26, "NOME"], [47, 70, "ENDERECO"]]}
+{"text": "sou o felipe melo, lixo acumulado na av. dos coqueiros 78", "entities": [[7, 20, "NOME"], [39, 63, "ENDERECO"]]}
+{"text": "aki é o lucas silva, tem como arrumar isso?", "entities": [[9, 20, "NOME"]]}
+{"text": "o consultorio aqui tá sem médico faz dias, e a gente sofre", "cats": {"obras": 0.0, "saude": 1.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "o posto tá fechado hoje, meu pai precisa de remédio urgente", "cats": {"obras": 0.0, "saude": 1.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "a praça aqui do bairro tá toda suja e ninguém limpa", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 1.0}}
+{"text": "a obra tá atrasada e o trânsito tá complicado na região", "cats": {"obras": 1.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "tem monte de papel e resto de comida na praça, tá feio isso", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 1.0}}
+{"text": "preciso marcar exame pra minha mãe, aqui no Bela Vista tá tudo lotado", "cats": {"obras": 0.0, "saude": 1.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "bom dia, sou a carol dias", "entities": [[13, 23, "NOME"]]}
+{"text": "o médico faltou de novo aqui no bairro Santa Clara, ninguém consegue consulta", "cats": {"obras": 0.0, "saude": 1.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "Tem um buraco na rua na rua do tiro de guerra", "cats": {"obras": 1.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "tem pedaço da calçada que tá solto e pode causar acidente", "cats": {"obras": 1.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "a calçada tá cheia de mato, ninguém corta", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 1.0}}
+{"text": "iluminação da praça tá péssima, precisa de manutenção", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 1.0, "limpeza": 0.0}}
+{"text": "me chamo fernanda vieira", "entities": [[9, 24, "NOME"]]}
+{"text": "vazamento na rua pernambuco 55 hj cedo", "entities": [[13, 30, "ENDERECO"]]}
+{"text": "preciso urgente de atendimento médico, onde procuro?", "cats": {"obras": 0.0, "saude": 1.0, "iluminacao": 0.0, "limpeza": 0.0}}
+{"text": "os postes da praça tão apagados faz dias", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 1.0, "limpeza": 0.0}}
+{"text": "moro no Nova Esperança, e o pessoal tá jogando lixo no terreno baldio", "cats": {"obras": 0.0, "saude": 0.0, "iluminacao": 0.0, "limpeza": 1.0}}

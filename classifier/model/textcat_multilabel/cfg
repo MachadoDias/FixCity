@@ -1,0 +1,9 @@
+{
+  "labels":[
+    "obras",
+    "saude",
+    "iluminacao",
+    "limpeza"
+  ],
+  "threshold":0.5
+}
