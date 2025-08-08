@@ -1,5 +1,5 @@
 const { logError, generateDemandId } = require('./utils.js');
-const { classifyText } = require('./api/classifier.js');
+const { classifyText } = require('./api/classifier_ai.js');
 const { saveDemand } = require('./api/backend.js');
 const { setUserState, getUserState, clearUserState } = require('./state.js');
 

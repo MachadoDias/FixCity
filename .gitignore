@@ -28,11 +28,11 @@ micromamba_env/
 *.mamba
 
 # SQLite Database
-data/database.db
-data/backup/
+data/demands.db
 
 # Uploads (persisted elsewhere or backed up manually)
 data/uploads/
+
 
 # Jupyter Notebooks checkpoints (if you use any)
 .ipynb_checkpoints/

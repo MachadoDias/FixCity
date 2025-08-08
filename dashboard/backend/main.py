@@ -4,7 +4,6 @@ import db_interface as db
 
 app = Flask(__name__)
 CORS(app)
-
      # Inicializa o banco no startup
 db.init_db()
 
