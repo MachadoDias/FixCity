@@ -15,25 +15,18 @@ def train_model():
     """Treina o modelo usando spaCy"""
     
     # Carrega dados
-    train_data = load_data('classifier/data/train.jsonl')
-    dev_data = load_data('classifier/data/dev.jsonl')
+    train_data = load_data('classifier/data/train_clean.jsonl')
     
     # Cria modelo em branco
     nlp = spacy.blank("pt")
     
     # Adiciona componentes
-    ner = nlp.add_pipe("ner")
     textcat = nlp.add_pipe("textcat_multilabel")
     
     # Adiciona labels
     labels = ["obras", "saude", "iluminacao", "limpeza"]
     for label in labels:
         textcat.add_label(label)
-    
-    # Adiciona entidades
-    ner_labels = ["NOME", "ENDERECO"]
-    for label in ner_labels:
-        ner.add_label(label)
     
     # Prepara exemplos de treino
     examples = []
@@ -43,13 +36,7 @@ def train_model():
         # Prepara categorias
         cats = item.get("cats", {})
         
-        # Prepara entidades
-        entities = []
-        if "entities" in item:
-            for start, end, label in item["entities"]:
-                entities.append((start, end, label))
-        
-        example = Example.from_dict(doc, {"cats": cats, "entities": entities})
+        example = Example.from_dict(doc, {"cats": cats})
         examples.append(example)
     
     # Inicializa o modelo
@@ -63,7 +50,7 @@ def train_model():
         print(f"Época {i+1}, Perdas: {losses}")
     
     # Salva modelo
-    output_dir = "classifier/model"
+    output_dir = "classifier/modelo_setor"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     

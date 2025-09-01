@@ -1,0 +1,1400 @@
+{"text": "Carlos Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Julia Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luis Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia19", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana34", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "78210", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "VB", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio Kobayashi Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Telefone 74", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "NAEY", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisca Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucas Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "56640", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "31314", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Joao Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Praia 311", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcos Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Felipe", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Rocha Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola72", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "GBLO", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "72931", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio Costa Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leticia Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luiz Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Livro4", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Carro 84", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Eduardo Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rua Cidade 381", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador84", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Maria Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia Costa Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "QC", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel Rossi Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Julia Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Julia Costa Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Camila Pereira Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcelo Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcelo Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rodrigo Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fernanda Schneider Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Felipe", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucas", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amanda Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Tanaka Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Cidade 282", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruna Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "UI", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "42578", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone96", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "KF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Praia 349", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Banana 294", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vanessa Cavalcante Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Paulo Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador48", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Computador 229", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jessica Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor33", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "SPMX", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruna", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcia Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luis Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Cidade 313", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Camila Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jose Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jose Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "34438", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Raimundo Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raimundo Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "PMX", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Escola 144", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "60231", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "55199", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose Kobayashi Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jose Silva Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "39743", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Cidade 477", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisca Mendes Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Felipe Barbosa Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana39", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana92", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Paulo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade8", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Gabriel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriana Alves Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia38", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "16776", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone72", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "34393", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "39320", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "30019", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucas Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jessica", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciana Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "15954", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FDWK", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana77", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Praia 246", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rodrigo Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carro38", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Julia Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Felipe Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ana Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcia Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carro71", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Praia 467", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Gabriel Martins Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Computador 185", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo Santos Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luis Saito Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Livro 372", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafael Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio Lima Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carro41", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "51961", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Computador 320", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "RWRP", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia79", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Gabriel Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "OIS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Livro 455", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Felipe Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "91938", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rodrigo Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Felipe Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "90410", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio Rodrigues Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "33161", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisca Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Patricia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Fernandes Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carlos Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "GJH", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Gabriel Martins Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciana Schneider Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "KBAC", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia17", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "YVMZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "52513", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "25795", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Paulo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcia Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Ricci Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriana Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Camila Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "XVG", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "35292", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Costa Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Escola 257", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose Romano Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "JCN", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruno Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel Gomes Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "32267", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcia Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "6165", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sandra", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Livro 408", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Maria Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador50", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Raimundo Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro Fernandes Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Computador 316", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone4", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sandra Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "XEX", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Camila Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Schmidt Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Livro 407", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonia Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Computador 78", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador34", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vanessa Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luciana Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "HRJ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonia Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Camila Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luiz Rodrigues Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana62", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luis Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ESWE", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "JZBP", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Daniel Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Rodrigues Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jessica Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Livro 315", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fernanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos Bianchi Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rodrigo Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luis Schneider Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana70", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisca Müller Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raimundo Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Escola 397", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor32", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo Martins Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafael Alves Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "2956", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "EVL", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "YLA", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Cidade 310", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Telefone 28", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Livro 90", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Adriana Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "5254", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Praia 335", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruno Schneider Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "WIB", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luciana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Banana 231", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonia Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucas Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriana Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcia Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruno Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Computador 259", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Livro 291", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonio Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Julia Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana Ricci Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Carro 411", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Julia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade57", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "CGH", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "VUGT", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vanessa Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "WTF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Eduardo Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Maria Carvalho Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "94473", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Computador 258", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Telefone 150", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "81253", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor36", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Paulo Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Daniel Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcelo Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leticia Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fernanda Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Felipe Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sandra Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcia Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eduardo Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafael Tanaka Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Gabriel Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Livro 98", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "YOEM", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Telefone21", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mariana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia95", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vanessa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonio Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vanessa Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafael Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "8341", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mariana Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BI", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Gabriel Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana13", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luis", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "PZK", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Aline Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vanessa Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Bianchi Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luis Rocha Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana83", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro33", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luiz Oliveira Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raimundo Schmidt Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Cidade 366", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Praia 301", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Computador 458", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jessica Cavalcante Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana Gomes Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "FR", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "1044", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia Dias Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Banana 184", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Eduardo Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Julia Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jose", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Camila Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafael", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Paulo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola71", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Daniel Alves Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna Dias Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Banana 304", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "33365", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83671", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Gomes Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luis Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "31174", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rafael Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola90", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana40", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro11", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "33457", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rodrigo Romano Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana Martins Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcelo Dias Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucas Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amanda Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcia Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor62", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Escola 258", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Aline Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leticia Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amanda Rocha Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "39640", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luis Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raimundo Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Carro 134", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fernanda Saito Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Banana 328", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriana Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Livro 223", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "11154", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisca Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Telefone11", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonia Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "VCNY", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "WZR", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Maria Oliveira Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carlos Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Livro 32", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Adriana Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Daniel Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Telefone 35", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola83", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "JO", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "WRC", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jessica Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Escola 334", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "42471", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Camila Lima Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonio Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Amor 288", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jessica Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Felipe", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Joao Rodrigues Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luiz Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruno Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Patricia Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Felipe Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Julia Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone10", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luiz", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "DJP", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Escola 490", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Telefone 255", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonio Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Escola 380", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Raimundo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Livro 166", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriana Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador96", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "41620", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sandra Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Aline", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcia Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "53055", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Daniel Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carro9", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sandra Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Telefone 47", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Livro68", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcos Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Banana 129", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "SVG", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Raimundo Cavalcante Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno Schmidt Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Computador 26", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rodrigo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Adriana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro Kobayashi Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jessica Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcelo Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rua Praia 232", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone92", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "DL", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leticia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel Ribeiro Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "CBYS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eduardo Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Banana 382", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruna Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mariana Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "15407", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucas Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Livro 70", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ana Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leticia Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Cidade 356", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Joao Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia Tanaka Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "44678", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador50", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IWC", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Daniel Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jessica Dias Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Telefone 253", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Livro 323", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia Ribeiro Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "IKM", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro84", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador28", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Eduardo Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rua Banana 338", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro72", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "21977", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Camila", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Livro96", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "QH", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rafael Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "10592", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "72866", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carlos Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruno Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Carro 154", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Aline Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "69849", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo Saito Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vanessa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "55969", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Paulo Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Patricia Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amanda Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia Schmidt Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "JY", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ICWT", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "50061", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Livro 380", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sandra", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Schmidt Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "JIZU", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciana Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Telefone 78", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NXW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Telefone 4", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "EL", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vanessa Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "69397", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "REU", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NG", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "61393", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "70243", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Eduardo Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Praia 410", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luiz Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Telefone 346", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "33898", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "96903", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Daniel Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rua Praia 67", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana1", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo Mendes Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciana Barbosa Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raimundo Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Cidade 272", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Daniel Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Pereira Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruno Ferreira Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana Cavalcante Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "JQ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcos Lima Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Livro89", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana81", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raimundo Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "IP", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "18518", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone62", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisca Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia Ferreira Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "FZY", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "58479", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanda Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Santos Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Banana 139", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "9357", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "12552", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Paulo Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "78248", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola58", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcelo Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola3", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Camila Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola13", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Adriana Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Computador 262", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "HUF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Julia Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jose Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vanessa Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone2", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Cidade 203", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mariana Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro62", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luiz Souza Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "KOM", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Computador 234", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone77", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Patricia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "70850", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia52", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "58803", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "11747", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "12486", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor2", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Telefone 157", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "DXX", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "90693", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "DZV", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro29", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "ANGV", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Eduardo Müller Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eduardo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carro41", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fernanda Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade5", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia52", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Daniel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia Santos Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "90400", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro77", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone74", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "46049", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Felipe Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "TILI", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rodrigo Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rafael Dias Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "29231", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leticia Santos Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luis Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "QMQ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "82388", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rodrigo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriana Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rua Banana 104", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "PQFH", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Daniel Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonio Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana68", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NXF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Praia 262", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Cidade 256", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Camila Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Felipe Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "DF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia20", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rodrigo Mendes Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rodrigo Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fernanda Ribeiro Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcia Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca Martins Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador45", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanda Mendes Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luciana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "85909", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "CIJI", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador19", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "JJN", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ATPG", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mariana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana63", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "51492", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Cidade 8", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro Dias Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcia Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "ZP", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carlos Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel Dias Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Paulo Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciana Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor33", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "53121", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Felipe", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "10142", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rafael Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonio Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "XC", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Carro 210", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ana Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carro73", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "RZU", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Adriana Ribeiro Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "IS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "69307", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "71023", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vanessa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luis Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "LU", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Cidade 249", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "PC", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcos Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "54301", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor96", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno Martins Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "88083", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade2", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NG", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "97177", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Escola 190", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "MY", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "50145", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcelo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "TF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "WNSW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "VFJ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83502", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Praia 483", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcos Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jose Gomes Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eduardo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Praia 15", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "77336", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Joao Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola60", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Raimundo Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Computador 259", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Livro 57", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "15980", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriana Fernandes Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcia Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raimundo Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "78078", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "XSN", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rafael Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "RO", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Maria Barbosa Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana81", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "58132", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "47735", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Cidade 336", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "VLV", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Julia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eduardo Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vanessa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia Souza Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcos Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia12", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia11", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Raimundo Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Livro 334", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "20118", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mariana Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Julia Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praia44", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fernanda Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "75066", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Computador 259", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Lucas Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "MAP", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vanessa Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanda Carvalho Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rua Cidade 414", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luiz Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Schneider Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Telefone 387", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia Dias Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jose Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "65687", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro52", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carlos Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leticia Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amanda Bianchi Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia Alves Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "MOEO", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisca Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jose Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rodrigo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana83", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro81", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor34", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador73", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "OWLJ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisca Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "31638", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador23", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luciana Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana Saito Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "AHMN", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Banana 472", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "RGJ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "71374", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "43954", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "WKD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Eduardo Alves Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rodrigo Cavalcante Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola53", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Felipe", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "80777", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "XK", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro65", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "91349", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Joao Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luciana Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Rodrigues Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Banana 151", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Raimundo Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucas Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "YSXX", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sandra Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "PF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luis Ferreira Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Camila", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luis Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Telefone 40", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Maria Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eduardo Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luiz Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "ZTL", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia18", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Livro 302", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Praia 352", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisco", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "NA", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Cidade 393", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luciana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciana Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "56094", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NO", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Computador 290", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luciana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raimundo Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Computador 348", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "6846", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Praia 230", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "61092", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luis Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rodrigo Mendes Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jessica Lima Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "WF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fernanda Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eduardo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fernanda Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucas", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "PW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanda Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcelo Santos Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amanda Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leticia Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "96908", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luiz", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Bianchi Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Maria", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ana Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "71406", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ana Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Camila Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Martins Gomes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luis Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fernanda Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "YGUD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor89", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Escola 310", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana73", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jessica", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafael Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vanessa Rocha Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "76081", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro38", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vanessa Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro70", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Felipe Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "50508", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "80281", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonia Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "58440", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "YHKM", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "MTNZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Felipe", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Escola 210", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "68057", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rafael Ricci Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor23", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Eduardo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador13", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone19", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ana Mendes Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Livro 5", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Camila", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Camila Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "11374", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rafael", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "HOZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "35632", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mariana Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Amor 196", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia Santos Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade15", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "EYA", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "CI", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jessica", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Julia Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Julia Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "UF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "35791", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mariana Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fernanda Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jessica Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriana Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "26125", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "RIJ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador56", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Computador 291", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Camila Santos Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jose Pereira Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Julia Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rua Cidade 255", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "SMGG", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rafael Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fernanda Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "13240", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Joao Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rafael Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciana Schneider Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Patricia Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca Cavalcante Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "HD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Camila Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonia Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafael Bianchi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador49", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "67774", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jessica Ribeiro Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BO", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "85678", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fernanda Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Kobayashi Costa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "CJLD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonia Romano Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "GDCB", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Antonio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "59824", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joao Pereira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Travessa Cidade 356", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Amor 236", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jessica Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vanessa Santos Ricci", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Praça Carro 202", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Francisca Lima Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana Fernandes Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "1065", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Jose", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "LWOG", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Camila Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Gabriel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "76171", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fernanda Saito Rodrigues", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Mendes Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Ribeiro Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade30", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fernanda Cavalcante", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "14804", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carlos Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "8530", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "9499", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "65448", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luis", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafael Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruno Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Praia 111", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Leticia Santos Dias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Cidade 71", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Gabriel Mendes Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Maria Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Luis Mendes Souza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "82706", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Julia Fernandes Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carlos Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "TPI", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Paulo Tanaka", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "GUFD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Carro 157", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Raimundo Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "JS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pedro Romano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Computador26", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sandra Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana Ricci Alves", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Camila Rocha", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ENDT", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carlos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Avenida Computador 378", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Praia 177", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcelo Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia Saito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Costa Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carro94", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Julia Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antonia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "39538", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Aline Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone67", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fernanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Gabriel Gomes Martins", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco Ferreira Mendes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Silva Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna Müller", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Ferreira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "DWAH", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Barbosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel Santos Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "IM", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mariana Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucas Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro26", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Juliana Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "TMK", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "DCL", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Escola 249", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Amor 374", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola10", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Eduardo Kobayashi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel Fernandes", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jose Carvalho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Adriana Santos Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}

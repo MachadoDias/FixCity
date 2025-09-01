@@ -18,23 +18,14 @@
   },
   "labels":{
     "ner":[
-      "ENDERECO",
-      "NOME"
-    ],
-    "textcat_multilabel":[
-      "obras",
-      "saude",
-      "iluminacao",
-      "limpeza"
+      "IS_ADDRESS"
     ]
   },
   "pipeline":[
-    "ner",
-    "textcat_multilabel"
+    "ner"
   ],
   "components":[
-    "ner",
-    "textcat_multilabel"
+    "ner"
   ],
   "disabled":[
 

@@ -1,0 +1,1400 @@
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "74909", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz, 6846 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida do Sol, 9984", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "63343", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 98", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João 13", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Andradas, 839 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas, 8205 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 7746 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 2119 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 509 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 7457", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Sol, 108 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol, 6661", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas, 7029 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 7672 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 865 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 3876 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Sol, 5863", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 4754 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol, 7555", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Cravos, 3647 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol, 6918 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia 39", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Andradas, 549 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos, 7016 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "67174", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Cravos, 1563 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 59", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz, 3339 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 7430 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 4600 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade, 1717 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores, 4496", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Sol, 5238", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 4580", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 5041", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 2848 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Flores, 8165 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Flores, 1481 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Andradas, 567 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, 6070", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Cravos, 1249 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "68485", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Liberdade, 8660", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 7275", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Flores - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 969 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "56690", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "93866", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 6102 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "66865", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores, 7605", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praia 40", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Paz - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 3932 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz, 6160", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Amor 44", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro 53", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone 46", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Liberdade, 8867", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Andradas - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Cravos, 7850 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 9054", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Flores, 7624", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "9065", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Sol, 6191", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Sol, 2888 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Paz, 8718", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Andradas, 7432", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "21618", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz, 4649", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Andradas, 10 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Cravos - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, 8018 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "47903", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz, 2124 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Cravos, 93", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa do Sol, 5346", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 8288 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 3905 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 4663 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores, 5564", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Cravos, 3178", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "77656", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Paz, 401 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "46041", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro 97", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "14553", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Andradas - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 1417", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador 99", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Liberdade, 8729 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Andradas, 7337", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 3015 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "14553", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 74", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores, 8619", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, 5494 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "67174", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Flores, 3276", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "92898", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 7734", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 4747 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "5390", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 529 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 2880 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 3359 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz, 804 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola 10", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 1211", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Cravos, 4743 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "68199", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Andradas - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 6287", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Cravos, 2540", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 6663 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 7471", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Sol, 3467 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Flores, 3217 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Sol, 3589 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João 31", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone 13", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Flores - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 2114 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Cravos - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, 4737", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 35", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "18952", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Flores, 440", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Flores - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 6348 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos, 8592 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 9140 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "21618", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Sol, 3700 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Paz, 9749 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Sol, 3420 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "24153", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Andradas, 7146 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Sol, 615 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro 70", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol, 3712", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Sol, 5106", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Flores, 5499 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro 49", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "27217", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "62096", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores, 6277", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador 73", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Paz, 7577 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, 7685 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "46041", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João 6", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Cravos, 3521 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 3413 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 7", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz, 3705 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Sol - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos, 8854 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 5987", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Paz, 1671", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 14", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "2264", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Liberdade - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas, 4474", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 7501", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Andradas - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Amor 22", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 968 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Liberdade, 2493 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "19087", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores, 4608", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 2666 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Flores, 1357", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Andradas, 8444 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, 6407", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol, 4445", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Sol, 8034", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "47903", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Liberdade, 3653 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Sol, 8859 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Paz - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João 26", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 2756", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor 48", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 3251 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "18952", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "82956", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Andradas - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Andradas, 75", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Andradas, 4959 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 9308 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 9127", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol, 341 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade, 3409 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, 3394", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Cravos - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Cravos - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 9016 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Flores - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "21618", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 25", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Liberdade - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Cravos, 8904", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Sol - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Flores, 7002 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Paz - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 32", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Paz, 3222", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz, 9509", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade, 75 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Sol, 471 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Paz, 1430 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 1298", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "63343", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola 95", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol, 6138", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Paz, 6419", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Liberdade, 1203 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 7993", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 9641 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "87746", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "18952", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol, 2791", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone 47", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "11097", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade, 7947", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro 67", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol, 9484", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 2191 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Flores - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Cravos - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos, 8338 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 9636", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "24951", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 6117 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Andradas, 2122 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 26", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador 22", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade, 4491", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "24084", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Andradas, 3299 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos, 4379 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Cravos, 9134 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Flores, 8042 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "73985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Cravos, 1184 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Liberdade - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol, 5475 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, 660 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Andradas, 373 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua das Flores, 5550 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos, 1491", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "33783", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 3007 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 1562 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Liberdade, 1452 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol, 3470", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 2763 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "63560", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola 55", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol, 126 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Sol, 7435 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Cravos - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "63519", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador 45", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 98", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 3031 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos, 822 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Cravos, 6678 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Cravos, 6320 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "66865", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "8086", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Andradas, 5376 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Flores, 5385", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Liberdade, 2589 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Liberdade - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 25", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 93", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "73002", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "74678", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 4198 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 3056", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Cravos - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 3395", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro 88", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 34 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Cravos, 7417", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Paz, 7218", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Paz, 5272", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 81", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Andradas, 9428 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Andradas - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 7956 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, 2394 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "65840", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "35493", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade, 588", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 9183 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "55816", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "37126", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Liberdade - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 1270 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Escola 39", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz, 4181", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone 84", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Flores, 2628", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Paz, 2179", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Flores - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, 2161", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "62766", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz, 990", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro 50", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz, 5994 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores, 9298 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "8327", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Paz, 7709 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Cravos, 835", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Sol, 791", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 3081 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João 86", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Flores, 5738 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Liberdade - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Liberdade, 5993 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone 88", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Liberdade - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Paz, 6287 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 9351 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "94853", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Flores, 1147 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 2504 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Cravos, 9227 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 227 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 79", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 6863 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "21312", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Andradas, 6668 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol, 7193 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Cravos, 9694 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz, 7618", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 9350 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador 64", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Liberdade, 1422 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone 80", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Andradas, 8215 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 80", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 794 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 4567", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "31318", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "728", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 2260 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "63869", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Sol - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Cravos, 9204", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Sol, 5019 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Paz, 9927", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, 5986", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria 49", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos, 6019 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 9718 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "81652", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Liberdade, 2888 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador 48", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Sol, 2044 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Cravos, 3816 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "1687", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores, 8786 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 5868 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas, 7901", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Liberdade, 5670 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, 2684 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Cravos - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, 2447 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 3870 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro 55", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa do Sol, 8672 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Cravos - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 89", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade, 2873 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 244 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 8631 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos, 3907 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Cravos, 7297", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro 81", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor 85", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Andradas, 929 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria 85", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 31", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 9992 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 2093", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 8048 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 5929 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, 673 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade, 5513", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Cravos - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia 82", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "47402", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Liberdade - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol, 5896", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, 4176 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 7557 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol, 1008 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Flores - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "74878", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol, 8665", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, 9779 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "32445", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 7", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Andradas, 912", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 9703", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores, 5862 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 9398 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol, 5486", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro 51", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Paz, 4700 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "81652", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Andradas, 6389", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Andradas, 1030", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Liberdade, 4987 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Liberdade, 1751 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 7614 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 1791 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 5559", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 4727", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Sol, 4103 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 9208 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Andradas, 7036 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Flores, 3965 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Paz, 676 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 30", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor 39", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Liberdade, 7848", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz, 9301", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 75", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Andradas - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, 2434 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "93866", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Andradas, 9308 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol, 462", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, 4509 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas, 3669 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João 52", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa do Sol - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol, 5350 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 7234 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador 84", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola 7", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 8512", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "66865", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "36847", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Sol, 3233", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 7902 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Paz, 6046 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro 71", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 88", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores, 5885", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 96", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "57394", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "16345", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores, 4233 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 2500 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "94862", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz, 9138 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro 88", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Sol, 1993 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praia 40", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 1969", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor 22", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "61852", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 5131 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 8774", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João 29", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Paz, 7168 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João 57", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Cravos, 7662 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, 4440 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Liberdade, 7060 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "68255", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Liberdade, 1444 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro 84", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Liberdade, 5056", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Cravos, 1312 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Cravos, 2167", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Andradas, 6239", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "27217", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "4870", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 7885 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador 48", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas, 9955 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol, 4381", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "82956", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas, 9191", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Sol, 732 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "62766", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia 23", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Paz, 1256 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 6781", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol, 4550 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Liberdade - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 5368 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 41", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro 12", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 99", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone 38", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Andradas, 8485", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 8974 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 9228 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 8582 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Paz, 5515", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Cravos, 6399", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 8140 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Andradas, 5259 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 8792 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Cravos, 583 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade, 3465 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Cravos - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 3799 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Sol - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Andradas, 2881 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Cravos, 176", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade, 2611 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos, 7096 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 8485 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "93866", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Sol, 2270 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "25766", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 13", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor 76", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Cravos, 6271 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Paz, 3193 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz, 4804 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Liberdade - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol, 4855", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, 2061 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 2899", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Cravos, 2325 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Liberdade, 7267", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol, 6085 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, 3596", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, 7663 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone 62", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas, 9959 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol, 180 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "7838", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 206", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, 4589 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 5285 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Sol, 7973", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "14040", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Cravos - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Paz, 5644", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol, 8059 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Cravos, 5598 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Andradas, 1418 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 2388 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 3023 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Flores, 8016 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Andradas, 9432", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 9479 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, 6311", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "91035", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 55", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos, 30 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Sol, 6712", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Sol, 523 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Cravos, 7360", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas, 5474 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol, 2361 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Cravos, 5232", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, 5474 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro 28", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Andradas, 3276 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 7024 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 8496", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Sol, 3483 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praia 51", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 4009 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz, 6173 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 92", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 2716", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, 1145 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol, 4822 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Paz, 9285 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Flores, 4746 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "19087", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "24951", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Cravos - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Andradas - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "55500", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 7228", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Andradas, 7360 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, 6278 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Andradas, 1864", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João 76", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Liberdade, 7762", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 6851 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Sol, 2799 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 96", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 3561 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade, 4217 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 8524", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Cravos - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Paz, 1851 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 7449 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "53783", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Flores - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Paz, 7703 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João 2", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "63519", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa do Sol - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Cravos, 1076 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Cravos, 4681 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Paz, 4708 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Cravos, 9318 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "29805", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Paz, 7283 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Sol - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Paz, 8330 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "74678", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua das Flores, 7495 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores, 4052", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Sol, 2090 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 6626", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol, 7678 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "41879", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Andradas, 3064", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro 83", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Paz, 6549", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas, 568", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 3739 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 4313", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 605 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "61852", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Andradas, 5196 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Sol, 612", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "62766", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Flores, 4732 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 8488 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João 20", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador 29", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João 51", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 1204 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol, 8459", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador 81", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Andradas, 8228 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 8937 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Liberdade, 5580", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "64491", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "2264", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Cravos, 8856", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria 48", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Cravos, 609 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, 4972 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade, 6136", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Cravos, 5021", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz, 3155 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola 16", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Cravos, 8887 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "94853", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 3938 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Cravos, 6685 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praia 62", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone 41", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Liberdade - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Cravos, 6342 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "38316", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Andradas, 9145 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Cravos, 6165 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Sol, 7181", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos, 1797 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, 6238 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 9162", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "20369", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Flores, 2876 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Flores, 1758", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola 74", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Cravos, 2819", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Sol, 6482 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, 3335", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Liberdade, 3944 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "713", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Liberdade, 7821", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol, 3049 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa do Sol, 7410 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz, 6033 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 6985", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "20369", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Sol, 2515 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Paz - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol, 2967", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Cravos - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 9016 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Andradas - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz, 8529 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador 29", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos, 7955 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Liberdade - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Amor 37", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Cravos, 5092 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Sol, 2902 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Flores - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Escola 89", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 46", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol, 7281 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos, 2347 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida do Sol, 2628", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Liberdade, 4226 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz, 4395 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 4084 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 138 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade, 813 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João 79", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Andradas, 9792", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "94853", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Sol - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro 88", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "55816", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "66009", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas, 3566 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "53905", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol, 8068 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa do Sol, 184", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Sol, 5229 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 5801", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz, 9401 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Andradas - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Sol, 6018 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "57394", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Andradas, 6804 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz, 7537", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Flores - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos, 8189 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 7265", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 560", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Andradas - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores, 5042 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "24153", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 7454", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Liberdade, 7957 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade, 7473", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas, 9608 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Flores, 1170", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, 3008 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone 69", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 9083", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 6368 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "18952", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Liberdade - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "10602", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "46041", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "5390", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "38316", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "23701", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada dos Cravos - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "71797", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola 96", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol, 641 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Paz - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Flores - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Andradas, 6178", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro 12", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "28625", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua das Flores, 5814 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 5419 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Cravos, 8100 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz, 7527 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 7742", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 1858 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 8254 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Liberdade - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praia 61", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida dos Cravos, 1404 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 1814 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Sol - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Amor 58", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "87746", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Liberdade - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 2836", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 1012", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "27490", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Flores, 6535", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "92898", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Liberdade, 5506", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Paz, 4152", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores, 1380 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Liberdade, 5443 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Cravos, 2133 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Sol, 5496", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 802 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Cravos - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai você?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro 51", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Flores, 2374 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Cravos, 81", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida do Sol, 6935 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, 8116 - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Liberdade, 7683", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 539", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 3520 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 2137 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Sol, 2692", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Sol, 9283 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Cravos - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Paz, 2412", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Cravos, 8570 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Cravos, 1485", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "73002", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 4567 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praia 80", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores, 5405 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João 68", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Cravos, 1711", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 4141 - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, 5216", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 7672 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 7400", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Liberdade, 9761", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 4916", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Cravos, 444", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "27490", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Amor 41", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Andradas, 8441", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "23701", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Paz, 7453", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Sol, 6972", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucas Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 79", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Sol, 9594", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, 4964 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Flores, 4751", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Livro 2", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Paz, 8317 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 9900 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 3345 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 1337 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "20835", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Paz, 6597 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "38039", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "20018", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "24946", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Paz - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Telefone 8", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 7470 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas, 5019 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores, 2212", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz, 326", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 2847 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Cravos - Jardim das Acácias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Cravos - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia 2", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Liberdade, 8573 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Flores, 499 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Cravos - Cidade Alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
