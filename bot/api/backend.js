@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 async function saveDemand(data) {
   const payload = {
     title: data.setor || 'Demanda',
-    description: data.text,
+    description: data.descricao,
     requester: data.nome_cidadao,
     requester_contact: data.contato_cidadao,
     location: data.local_demanda,
