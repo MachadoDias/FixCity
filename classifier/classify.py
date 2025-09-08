@@ -2,7 +2,7 @@ import spacy
 import os
 
 class DemandClassifier:
-    def __init__(self, model_path="classifier/model"):
+    def __init__(self, model_path="classifier/modelo_setor"):
         """Inicializa o classificador"""
         self.model_path = model_path
         self.nlp = None
@@ -62,11 +62,7 @@ def main():
     
     # Testes
     test_texts = [
-        "tem um buraco enorme na rua aqui",
-        "a luz do poste não funciona",
-        "preciso de consulta médica urgente",
-        "tem muito lixo na praça",
-        "sou a Maria Santos, problema na rua das palmeiras 45"
+       "tamo na escuridao aqui na rua"
     ]
     
     print("=== TESTE DO CLASSIFICADOR ===\n")
@@ -76,10 +72,14 @@ def main():
         if result:
             print(f"Texto: {result['text']}")
             print(f"Categoria: {result['category']} (confiança: {result['confidence']:.3f})")
+            print(f"Todos os scores: {result['all_scores']}")
             if result['entities']:
                 print("Entidades encontradas:")
                 for ent in result['entities']:
                     print(f"  - {ent['text']} ({ent['label']})")
+            print("-" * 50)
+        else:
+            print(f"Erro ao classificar: {text}")
             print("-" * 50)
 
 if __name__ == "__main__":

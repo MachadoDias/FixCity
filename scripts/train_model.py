@@ -15,7 +15,7 @@ def train_model():
     """Treina o modelo usando spaCy"""
     
     # Carrega dados
-    train_data = load_data('classifier/data/train_clean.jsonl')
+    train_data = load_data('classifier/data/textcat_clean.jsonl')
     
     # Cria modelo em branco
     nlp = spacy.blank("pt")
