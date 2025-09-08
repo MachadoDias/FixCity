@@ -53,4 +53,16 @@ function fallbackClassify(text) {
   };
 }
 
+function verifyDescription(text, setor){
+
+}
+
+function verifyAddress(address){
+
+}
+
+function verifyName(name){
+
+}
+
 module.exports = {classifyText};
