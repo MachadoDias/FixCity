@@ -17,15 +17,16 @@
     "mode":"default"
   },
   "labels":{
-    "ner":[
-      "IS_ADDRESS"
+    "textcat":[
+      "IS_ADDRESS",
+      "NOT_ADDRESS"
     ]
   },
   "pipeline":[
-    "ner"
+    "textcat"
   ],
   "components":[
-    "ner"
+    "textcat"
   ],
   "disabled":[
 
