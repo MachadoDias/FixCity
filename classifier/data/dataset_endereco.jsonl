@@ -3648,3 +3648,1142 @@
 {"text": "Travessa XV de Novembro n 1225", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "estrada do centro número 2137", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "capitão lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá, tudo bem?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como você está?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí, beleza?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado pela ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua Tenente Aníbal Medeiros, 113", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua tenente Aníbal Medeiros, número 113", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. Tenente Aníbal Medeiros, 113", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. Paulista, 1000", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Paulista, número 1000", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Sé, s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Santos, 123 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 45", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Municipal, km 5", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia BR-101, km 200", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "12345", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mercado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não sei onde fica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como faço para chegar?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Onde fica isso?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida Tenente Aníbal Medeiros, número 8167", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Brasil, 898 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda XV de Novembro, 4775 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua XV de Novembro, número 6671", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, 684", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Tenente Aníbal Medeiros, 7643 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, 7774 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. XV de Novembro, 1112", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. São João, 5581", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. dos Andradas, 6141", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. XV de Novembro, 9446", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. José Bonifácio, 2113", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz, 8961", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, número 3011", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Dom Pedro II, 7200 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Sete de Setembro, 8229", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Brasil, 1849 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. das Flores, 5070", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Brasil, 4340", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz, 8032 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 8433 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida São João, número 5083", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Sete de Setembro, número 4788", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Tenente Aníbal Medeiros, número 4741", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 7217", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Getúlio Vargas, número 9123", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Santos Dumont, 8901", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 7622", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, 7665 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Getúlio Vargas, 6403 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Dom Pedro II, número 7784", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo São João, 5286 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda XV de Novembro, número 2384", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, 5583 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida São João, número 4381", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Getúlio Vargas, 4723", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São João, 4855 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São João, 4698 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. da Liberdade, 2133", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. XV de Novembro, 5375", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade, 1575 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Dom Pedro II, 8998", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Flores, 268 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Sete de Setembro, 5880", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Brasil, 4938", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. Getúlio Vargas, 52", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Tenente Aníbal Medeiros, número 8899", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça XV de Novembro, 9520", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. dos Andradas, 7524", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 3314 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. das Flores, 248", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. dos Andradas, 4241", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. José Bonifácio, 897", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. das Flores, 2957", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida São João, número 8220", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Getúlio Vargas, 9070 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada XV de Novembro, 883", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 6983", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, 6599", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Sete de Setembro, 8035", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sete de Setembro, número 3537", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. das Flores, 738", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sete de Setembro, 7856 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Bonifácio, 8176", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Tenente Aníbal Medeiros, 3575 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Tenente Aníbal Medeiros, 1147", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo XV de Novembro, 2637 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda XV de Novembro, 6217 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida São João, número 1264", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, 4808", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. XV de Novembro, 337", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, número 6033", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo XV de Novembro, 3573", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 6462", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. da Liberdade, 5689", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Tenente Aníbal Medeiros, 4541", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia XV de Novembro, 7413 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. das Flores, 2181", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo José Bonifácio, número 3914", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia São João, número 9470", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. José Bonifácio, 1789", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. José Bonifácio, 2082", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. da Paz, 2274", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Getúlio Vargas, 2472 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Brasil, 8906", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa São João, 6612 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Paz, 7826 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Dom Pedro II, número 9265", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua XV de Novembro, 5070 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Santos Dumont, 5143 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, 2673 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Santos Dumont, 6811", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo XV de Novembro, número 8427", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo XV de Novembro, 6663", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. da Liberdade, 6332", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. Getúlio Vargas, 8241", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Getúlio Vargas, número 3880", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 3036 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Sete de Setembro, número 5450", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Brasil, 4121 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia José Bonifácio, número 6082", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Liberdade, 1698 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Flores, 9449 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Santos Dumont, 3687 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. José Bonifácio, 1682", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas, 3634", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda José Bonifácio, 9744 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Santos Dumont, número 2496", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda José Bonifácio, 287 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Santos Dumont, número 8449", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Dom Pedro II, 7668 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 2498 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Tenente Aníbal Medeiros, número 6288", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Dom Pedro II, 6707 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia das Flores, 2798", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Getúlio Vargas, número 7889", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. Sete de Setembro, 8139", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São João, número 1927", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Getúlio Vargas, 1606", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Brasil, 7732", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz, número 7616", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sete de Setembro, número 1864", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Liberdade, número 8326", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo São João, número 1763", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sete de Setembro, número 3014", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, número 256", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida São João, número 9128", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Tenente Aníbal Medeiros, 6427 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Getúlio Vargas, 9369", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Dom Pedro II, número 3304", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. Dom Pedro II, 9526", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Tenente Aníbal Medeiros, 5323", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 4346", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. da Liberdade, 1347", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 5699", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo São João, 9956 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Bonifácio, número 3851", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda XV de Novembro, 5815", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz, número 1211", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. Santos Dumont, 8042", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz, 3307", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. da Paz, 2105", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça XV de Novembro, 6732", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. da Paz, 1242", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Santos Dumont, 9666 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Dom Pedro II, 750", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Tenente Aníbal Medeiros, 21 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, número 361", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Brasil, número 8727", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. XV de Novembro, 9195", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, número 8530", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Dom Pedro II, 3723", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, 6044", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, número 2200", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Santos Dumont, 9498 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, número 9588", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, número 3810", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Sete de Setembro, número 2382", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São João, 2624", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, número 813", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. Santos Dumont, 7927", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Tenente Aníbal Medeiros, 114", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 6587 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. Getúlio Vargas, 201", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Getúlio Vargas, 4676", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 2668 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo José Bonifácio, 7300", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia São João, número 5080", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa XV de Novembro, 8463 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sete de Setembro, número 9056", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Brasil, 9435", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. José Bonifácio, 1487", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Getúlio Vargas, 3072", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São João, número 6242", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Santos Dumont, 8396 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sete de Setembro, número 1227", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. Brasil, 3809", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. das Flores, 2869", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. XV de Novembro, 1917", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Paz, 4771", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Getúlio Vargas, 9507", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda José Bonifácio, 1329 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Sete de Setembro, 3077", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda XV de Novembro, número 5018", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. São João, 6374", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, 3185", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Dom Pedro II, 2758", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Tenente Aníbal Medeiros, 2037", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 3272 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Liberdade, 4627", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Getúlio Vargas, 7032", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 660 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua XV de Novembro, número 4097", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 3970", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Brasil, 1139 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 5457", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Getúlio Vargas, 3211", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia dos Andradas, 9197 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. Dom Pedro II, 4252", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. Tenente Aníbal Medeiros, 5358", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida José Bonifácio, número 7935", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Sete de Setembro, 472", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, número 6872", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São João, 4795", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. dos Andradas, 7981", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Liberdade, número 22", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. das Flores, 3017", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Santos Dumont, 2076", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, 2919", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia dos Andradas, 8176 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, 2271", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, 4242 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. dos Andradas, 5474", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. dos Andradas, 4266", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Getúlio Vargas, 7625", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade, número 7080", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Dom Pedro II, 3511", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. Santos Dumont, 5924", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. São João, 3144", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Bonifácio, número 9445", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. da Paz, 6690", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 3261 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo XV de Novembro, 7176 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. Sete de Setembro, 6344", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, 1697 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Getúlio Vargas, número 5045", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça dos Andradas, número 3833", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Santos Dumont, 6984", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Getúlio Vargas, 6104", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São João, 4619 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Getúlio Vargas, número 4181", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda XV de Novembro, 9375 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Getúlio Vargas, número 9412", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Tenente Aníbal Medeiros, 9393", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Dom Pedro II, 1828 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Tenente Aníbal Medeiros, 9185 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Dom Pedro II, 9473", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda São João, 4671 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, 7883 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Dom Pedro II, número 3525", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia XV de Novembro, 9280", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Brasil, 9719 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça José Bonifácio, 3895 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça José Bonifácio, número 9438", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 9355 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Bonifácio, número 5343", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Dom Pedro II, 3006", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Dom Pedro II, 7989 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. São João, 6034", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Sete de Setembro, número 5935", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua XV de Novembro, número 8715", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 1975", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Liberdade, 2827", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Sete de Setembro, 475", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, número 1498", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Getúlio Vargas, 4672", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. São João, 2147", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Getúlio Vargas, 5661", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Tenente Aníbal Medeiros, 3726 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. das Flores, 1499", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Dom Pedro II, 1842 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Getúlio Vargas, número 8967", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Paz, 8650 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Paz, número 5354", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Dom Pedro II, 3117", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, número 8096", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. José Bonifácio, 3240", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Paz, 2061", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Tenente Aníbal Medeiros, 3479", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, número 7775", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. da Paz, 8837", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Dom Pedro II, 2265", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. da Liberdade, 1385", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Brasil, 9017", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Tenente Aníbal Medeiros, 6009 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. das Flores, 9529", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Tenente Aníbal Medeiros, 1487", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Tenente Aníbal Medeiros, número 9285", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Getúlio Vargas, 6123 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. Tenente Aníbal Medeiros, 8966", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 9276", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, número 9617", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia São João, 4335 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. dos Andradas, 8729", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sete de Setembro, 5307 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. Dom Pedro II, 6414", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Dom Pedro II, 5433 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia XV de Novembro, 4764", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 5079", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. das Flores, 6898", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. Santos Dumont, 952", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Sete de Setembro, número 7089", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. Getúlio Vargas, 8699", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sete de Setembro, número 1172", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. XV de Novembro, 5008", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça José Bonifácio, número 4040", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 330 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. São João, 2092", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São João, número 7665", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Brasil, número 3623", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Tenente Aníbal Medeiros, 859", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. das Flores, 8086", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, número 441", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça XV de Novembro, número 3033", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça XV de Novembro, número 9136", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Santos Dumont, 5755", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Santos Dumont, 9886 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Getúlio Vargas, 3047 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia São João, 6065", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. da Paz, 7527", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida José Bonifácio, 8269", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 4964 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Santos Dumont, 3394", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, número 5928", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São João, número 5543", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo XV de Novembro, número 4524", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, número 5815", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, número 9322", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 3069", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. São João, 6684", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Dom Pedro II, 7630 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Dom Pedro II, 9681 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Dom Pedro II, 383 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Getúlio Vargas, número 3329", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça XV de Novembro, número 6619", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. da Liberdade, 4077", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo São João, 9669 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Dom Pedro II, número 1361", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Dom Pedro II, 8287", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Andradas, número 5111", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas, 8308 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, 7986", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Flores, número 5395", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, 1957", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Tenente Aníbal Medeiros, 3230 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Flores, 6766", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. Getúlio Vargas, 1830", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda José Bonifácio, número 7011", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Flores, 2029", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, número 5256", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, número 6633", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Liberdade, 7311", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Sete de Setembro, 9045 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Dom Pedro II, número 2458", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Tenente Aníbal Medeiros, 9696 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada São João, 767 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. dos Andradas, 9812", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Getúlio Vargas, 3362", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Brasil, número 5702", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. dos Andradas, 3672", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça XV de Novembro, 9788", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Getúlio Vargas, número 735", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, 6163 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. XV de Novembro, 5186", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 5012", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia José Bonifácio, número 1531", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada São João, 2395", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, número 368", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz, 9668", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 4884 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, número 8820", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, 6652", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Liberdade, 7575 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Getúlio Vargas, 4222", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. Tenente Aníbal Medeiros, 4932", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. José Bonifácio, 5806", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada José Bonifácio, 5305 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada XV de Novembro, 6117", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, número 5759", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, número 8808", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Brasil, 9283 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Tenente Aníbal Medeiros, número 2188", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa XV de Novembro, 5767", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia das Flores, 2911 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia XV de Novembro, 6845 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada José Bonifácio, 3449", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Dom Pedro II, número 9268", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. São João, 365", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça José Bonifácio, 4256", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 8013 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda José Bonifácio, 6646 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Brasil, 7000", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida São João, número 4045", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. Getúlio Vargas, 1856", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Sete de Setembro, 5314", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Santos Dumont, 2556", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Getúlio Vargas, número 6452", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Tenente Aníbal Medeiros, 8360 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Tenente Aníbal Medeiros, 3580", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada José Bonifácio, 2212 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo São João, 5879", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. das Flores, 7094", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Brasil, número 2148", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo XV de Novembro, 24 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. Tenente Aníbal Medeiros, 8339", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Brasil, 6052 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Dom Pedro II, número 1567", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda José Bonifácio, 1821", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, número 6396", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. Santos Dumont, 8645", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Dom Pedro II, 504", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, número 9134", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São João, 5976", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. José Bonifácio, 5848", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 8776", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 7531 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Bonifácio, número 8200", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Getúlio Vargas, número 2594", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Brasil, 2534 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Getúlio Vargas, número 5611", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. XV de Novembro, 2391", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Santos Dumont, 1032", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Sete de Setembro, número 8693", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia das Flores, 7848 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, 2276", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, 2550 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Brasil, número 3020", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Sete de Setembro, 6819", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, 5557", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Getúlio Vargas, 1035", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Getúlio Vargas, 9685", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Tenente Aníbal Medeiros, 2988 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Santos Dumont, 118 - Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, 2655", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia José Bonifácio, 3622 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Getúlio Vargas, 2635", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Getúlio Vargas, número 6766", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. Sete de Setembro, 1483", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. da Paz, 9021", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Al. Tenente Aníbal Medeiros, 6159", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. dos Andradas, 8189", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Dom Pedro II, 3074", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Liberdade, 7974 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Sete de Setembro, 6367", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada José Bonifácio, número 5585", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Liberdade, 7106", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Flores, 2247 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça XV de Novembro, número 4510", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, 7202", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida José Bonifácio, 1597", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Sete de Setembro, 1721 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Santos Dumont, número 3441", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia das Flores, 8086", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, 8691 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua XV de Novembro, número 3219", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Andradas, número 9154", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, 5361 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Santos Dumont, 9601", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. da Liberdade, 615", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 475", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa São João, 4511", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade, número 6401", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia José Bonifácio, 8728 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. da Liberdade, 6467", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sete de Setembro, 9148", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. Tenente Aníbal Medeiros, 5688", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 6824 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. da Liberdade, 7299", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, número 2661", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade, número 3736", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Santos Dumont, 181 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo XV de Novembro, 9345 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Brasil, 6536 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Getúlio Vargas, número 2087", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 4550 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Brasil, número 3946", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Brasil, número 3372", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Tenente Aníbal Medeiros, 2419", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Brasil, 2354 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda São João, 7510", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Tenente Aníbal Medeiros, número 8876", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Paz, 824", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. Sete de Setembro, 2035", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. da Liberdade, 5532", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda XV de Novembro, 8393", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Est. Tenente Aníbal Medeiros, 3664", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Santos Dumont, 1668", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa São João, 4534 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rod. da Paz, 882", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Getúlio Vargas, número 5367", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São João, 994", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas, 1813 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Getúlio Vargas, 1369 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tv. da Paz, 9142", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Bonifácio, 9312", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Sete de Setembro, 2443 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida José Bonifácio, 5218", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, 1308 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Dom Pedro II, 3792", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. das Flores, 2779", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada José Bonifácio, 5884 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Liberdade, número 6100", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 1115 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Tenente Aníbal Medeiros, 4645", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, 1191 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, 2535", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Dom Pedro II, 8188", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Dom Pedro II, número 1155", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Getúlio Vargas, 4801 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, número 8675", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Julia Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "86543", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "30088", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "69899", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "87529", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "94683", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "4688", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "84163", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "13507", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "96181", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "60067", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "44513", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "44726", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "77902", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "60072", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "35323", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "2681", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "28723", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "13649", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "61415", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "65096", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "94464", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "24722", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "51664", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "21768", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "99837", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "77132", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "4915", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "20353", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "2314", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "89801", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "76583", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "51108", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "64942", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "70891", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "57088", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "59810", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "80256", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "54497", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "37669", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "26370", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "67157", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "61556", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "26686", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "39526", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "67761", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "23288", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "72392", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25300", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "12863", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "73964", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "81715", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "7728", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "57097", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "50628", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "80849", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "51516", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "81790", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "88220", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "37630", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "65424", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "49969", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "21743", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "23784", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "46976", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "27317", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "27695", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "51235", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "90000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "52761", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "45283", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "96072", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "89776", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "40571", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "30453", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "28638", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "65417", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "88591", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "1053", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "85004", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "57542", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "54498", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "72944", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "855", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "39723", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "97245", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "11164", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "57912", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "4409", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "65788", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "98668", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "3282", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "32354", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "76785", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "78760", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "91704", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "47994", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "53025", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "8550", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "94338", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25940", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja 43", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Casa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Casa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja 6", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola 12", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco 62", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia 13", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Faculdade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Faculdade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Casa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja 19", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Casa 75", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Faculdade 68", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone 78", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hospital 72", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Trabalho 59", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja 43", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco 49", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Trabalho 99", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro 25", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mercado 61", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Faculdade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Casa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone 12", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mercado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Trabalho", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola 58", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor 23", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja 31", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mercado 58", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mercado 91", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Faculdade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Faculdade 32", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mercado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Trabalho 32", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Casa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hospital 78", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Faculdade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mercado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Faculdade 65", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igreja", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Trabalho 7", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mercado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone 46", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Casa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor 16", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Faculdade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Escola 2", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Casa 74", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Trabalho", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não conheço aqui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estou perdido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não sei onde fica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estou perdido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não conheço aqui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Onde fica isso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não conheço aqui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como chego lá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não sei onde fica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como chego lá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não sei onde fica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estou perdido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não sei onde fica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não sei onde fica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como faço para chegar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como faço para chegar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não conheço aqui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como faço para chegar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não conheço aqui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estou perdido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estou perdido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Onde fica isso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não conheço aqui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não sei onde fica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Onde fica isso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como faço para chegar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Onde fica isso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estou perdido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como chego lá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não sei onde fica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estou perdido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estou perdido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Onde fica isso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não conheço aqui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}

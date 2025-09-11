@@ -62,36 +62,45 @@ class DemandClassifier:
                 results.append(result)
         return results
 
-def classify_address_simple(text):
-    """Classificação simples de endereços usando regras"""
-    text_lower = text.lower()
+class AddressClassifier:
+    def __init__(self, model_path="classifier/modelo_endereco"):
+        """Inicializa o classificador de endereços"""
+        self.model_path = model_path
+        self.nlp = None
+        self.load_model()
     
-    # Palavras que indicam endereço
-    address_keywords = [
-        'rua', 'avenida', 'alameda', 'travessa', 'praça', 'largo', 'estrada', 'rodovia',
-        'av.', 'r.', 'al.', 'tv.', 'pç.', 'lg.', 'est.', 'rod.',
-        'número', 'numero', 'nº', 'n°', ','
-    ]
+    def load_model(self):
+        """Carrega o modelo treinado"""
+        try:
+            if os.path.exists(self.model_path):
+                self.nlp = spacy.load(self.model_path)
+                return True
+            else:
+                return False
+        except Exception as e:
+            return False
     
-    # Verifica se tem palavras de endereço
-    has_address_words = any(keyword in text_lower for keyword in address_keywords)
-    
-    # Verifica se tem números (possível numeração)
-    has_numbers = any(char.isdigit() for char in text)
-    
-    # Verifica se não são apenas cumprimentos/conversas
-    greeting_words = ['bom dia', 'boa tarde', 'boa noite', 'olá', 'oi', 'como vai', 'tudo bem', 'obrigado']
-    is_greeting = any(greeting in text_lower for greeting in greeting_words)
-    
-    if is_greeting:
-        return {'category': 'NOT_ADDRESS', 'confidence': 0.9}
-    
-    if has_address_words and has_numbers:
-        return {'category': 'IS_ADDRESS', 'confidence': 0.8}
-    elif has_address_words:
-        return {'category': 'IS_ADDRESS', 'confidence': 0.6}
-    else:
-        return {'category': 'NOT_ADDRESS', 'confidence': 0.7}
+    def classify(self, text):
+        """Classifica se o texto é um endereço"""
+        if not self.nlp:
+            return None
+        
+        doc = self.nlp(text)
+        
+        if doc.cats:
+            best_category = max(doc.cats.items(), key=lambda x: x[1])
+            category = best_category[0]
+            confidence = best_category[1]
+        else:
+            category = "NOT_ADDRESS"
+            confidence = 0.0
+        
+        return {
+            "text": text,
+            "category": category,
+            "confidence": confidence,
+            "all_scores": dict(doc.cats) if doc.cats else {}
+        }
 
 def main():
     """Função principal para teste"""
@@ -139,25 +148,37 @@ def main():
     
     print("\n" + "-" * 50 + "\n")
     
-    # Teste endereço (classificação simples)
-    print("2. TESTE ENDEREÇO (CLASSIFICAÇÃO SIMPLES):")
+    # Teste endereço (AI)
+    print("2. TESTE ENDEREÇO (AI):")
+    
+    addr_model_path = "modelo_endereco" if os.path.exists("modelo_endereco") else "classifier/modelo_endereco"
+    classifier_addr = AddressClassifier(addr_model_path)
+    
+    if not classifier_addr.nlp:
+        print("❌ ERRO: Modelo de endereço não encontrado!")
+        print("Execute: python scripts/train_address_model.py")
+        return
+    else:
+        print("✅ Modelo de endereço carregado")
     
     test_addresses = [
-        "Rua Tenente Aníbal Medeiros, 113",
-        "rua tenente Aníbal Medeiros ,número 113", 
-        "Rua das Flores, 123 - Centro",
-        "Bom dia, como vai?"
+        "Rua do por do sol, nº ta entre 1 e 10", "Como vc está",
+        "Rua do Ismilinguido, n[umero 666]"
     ]
     
     for addr in test_addresses:
-        result = classify_address_simple(addr)
-        status = "✅ ENDEREÇO" if result['category'] == 'IS_ADDRESS' else "❌ NÃO-ENDEREÇO"
-        print(f"Texto: {addr}")
-        print(f"{status} ({result['confidence']:.3f})")
-        print("-" * 30)
+        result = classifier_addr.classify(addr)
+        if result:
+            status = "✅ ENDEREÇO" if result['category'] == 'IS_ADDRESS' else "❌ NÃO-ENDEREÇO"
+            print(f"Texto: {addr}")
+            print(f"{status} ({result['confidence']:.3f})")
+            print(f"Scores: {result['all_scores']}")
+            print("-" * 30)
+        else:
+            print(f"❌ Falha ao classificar: {addr}")
+            print("-" * 30)
     
-    print("\n💡 SOLUÇÃO: Usando classificação baseada em regras.")
-    print("Para melhor precisão, treine um modelo textcat com o dataset fornecido.")
+    print("\n💡 SOLUÇÃO: 100% AI - sem regex!")
 
 if __name__ == "__main__":
     main()
