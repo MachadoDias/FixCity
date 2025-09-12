@@ -1,4 +1,4 @@
-import spacy
+import spacy # type: ignore
 import os
 
 class DemandClassifier:
