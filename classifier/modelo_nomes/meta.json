@@ -17,15 +17,16 @@
     "mode":"default"
   },
   "labels":{
-    "ner":[
-      "IS_NAME"
+    "textcat":[
+      "IS_NAME",
+      "NOT_NAME"
     ]
   },
   "pipeline":[
-    "ner"
+    "textcat"
   ],
   "components":[
-    "ner"
+    "textcat"
   ],
   "disabled":[
 

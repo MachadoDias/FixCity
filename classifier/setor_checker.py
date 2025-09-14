@@ -51,7 +51,7 @@ def main():
     text = sys.argv[1]
     classifier = DemandClassifier()
     result = classifier.classify(text)
-    if result and result.category == sys.argv[2]:
+    if result and result["category"] == sys.argv[2]:
         print(json.dumps(True))
     else:
         print(json.dumps(False))

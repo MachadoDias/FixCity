@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "IS_NAME",
+    "NOT_NAME"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}

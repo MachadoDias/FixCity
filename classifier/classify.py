@@ -102,6 +102,46 @@ class AddressClassifier:
             "all_scores": dict(doc.cats) if doc.cats else {}
         }
 
+class NameClassifier:
+    def __init__(self, model_path="classifier/modelo_nomes"):
+        """Inicializa o classificador de nomes"""
+        self.model_path = model_path
+        self.nlp = None
+        self.load_model()
+    
+    def load_model(self):
+        """Carrega o modelo treinado"""
+        try:
+            if os.path.exists(self.model_path):
+                self.nlp = spacy.load(self.model_path)
+                return True
+            else:
+                return False
+        except Exception as e:
+            return False
+    
+    def classify(self, text):
+        """Classifica se o texto é um nome"""
+        if not self.nlp:
+            return None
+        
+        doc = self.nlp(text)
+        
+        if doc.cats:
+            best_category = max(doc.cats.items(), key=lambda x: x[1])
+            category = best_category[0]
+            confidence = best_category[1]
+        else:
+            category = "NOT_NAME"
+            confidence = 0.0
+        
+        return {
+            "text": text,
+            "category": category,
+            "confidence": confidence,
+            "all_scores": dict(doc.cats) if doc.cats else {}
+        }
+
 def main():
     """Função principal para teste"""
     
@@ -162,13 +202,15 @@ def main():
         print("✅ Modelo de endereço carregado")
     
     test_addresses = [
-        "Rua do por do sol, nº ta entre 1 e 10", "Como vc está",
-        "Rua do Ismilinguido, n[umero 666]"
+        "Praça Central do Bairro São José, próxima à Rua das Flores, nº 128.", "Rua das Acácias, nº 45, Bairro Jardim das Flores.",
+        "Rua das Palmeiras, 75, Bairro São José"
     ]
     
     for addr in test_addresses:
         result = classifier_addr.classify(addr)
         if result:
+            if result['confidence'] >= 0.9 and result['category'] == 'IS_ADDRESS':
+                print("nwbbkwdjkdnjwk")
             status = "✅ ENDEREÇO" if result['category'] == 'IS_ADDRESS' else "❌ NÃO-ENDEREÇO"
             print(f"Texto: {addr}")
             print(f"{status} ({result['confidence']:.3f})")
@@ -176,6 +218,41 @@ def main():
             print("-" * 30)
         else:
             print(f"❌ Falha ao classificar: {addr}")
+            print("-" * 30)
+    
+    print("\n" + "-" * 50 + "\n")
+    
+    # Teste nome (AI)
+    print("3. TESTE NOME (AI):")
+    
+    name_model_path = "modelo_nomes" if os.path.exists("modelo_nomes") else "classifier/modelo_nomes"
+    classifier_name = NameClassifier(name_model_path)
+    
+    if not classifier_name.nlp:
+        print("❌ ERRO: Modelo de nome não encontrado!")
+        print("Execute: python scripts/train_name_model.py")
+        return
+    else:
+        print("✅ Modelo de nome carregado")
+    
+    test_names = [
+        "João Silva",
+        "Maria Santos",
+        "Pedro Oliveira",
+        "Ana Costa",
+        "Carlos Ferreira"
+    ]
+    
+    for name in test_names:
+        result = classifier_name.classify(name)
+        if result:
+            status = "✅ NOME" if result['category'] == 'IS_NAME' else "❌ NOT_NOME"
+            print(f"Texto: {name}")
+            print(f"{status} ({result['confidence']:.3f})")
+            print(f"Scores: {result['all_scores']}")
+            print("-" * 30)
+        else:
+            print(f"❌ Falha ao classificar: {name}")
             print("-" * 30)
     
     print("\n💡 SOLUÇÃO: 100% AI - sem regex!")

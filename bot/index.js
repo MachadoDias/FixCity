@@ -1,22 +1,15 @@
-const venom = require('venom-bot');
+const {Client} = require('whatsapp-web.js');
+const qrcode = require('qrcode-terminal')
 const { messageHandler } = require('./handler.js');
-
-venom
-  .create({
-    session: 'session-name',
-    headless: 'new',
-    puppeteerOptions: {
-      executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-      args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-gpu']
-    }
-  })
-  .then((client) => start(client))
-  .catch((error) => console.error(error));
-
-function start(client) {
-  client.onMessage((message) =>{
-    messageHandler(client, message);
-    console.log("mensagem crua:", message);
-    client.sendText(message.from, "bjseejhedj");
-  }); 
-}
+const client = new Client();
+client.on('qr', (qr) => {
+  qrcode.generate(qr, {small: true});
+});
+client.on('ready', () => {
+  console.log('client is ready');
+});
+client.on('message', msg => {
+  console.log("msg recebida");
+  messageHandler(client, msg);
+});
+client.initialize();

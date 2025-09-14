@@ -50,7 +50,7 @@ def main():
     text = sys.argv[1]
     classifier = NameClassifier()
     result = classifier.classify(text)
-    if result and result.category == "IS_NAME" and result.confidence > 0.9:
+    if result and result["category"] == "IS_NAME" and result["confidence"] >= 0.9:
         print(json.dumps(True))
     else:
         print(json.dumps(False))
