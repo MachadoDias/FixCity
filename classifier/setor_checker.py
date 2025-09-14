@@ -1,5 +1,7 @@
 import spacy # type: ignore
 import os
+import sys
+import json
 
 class DemandClassifier:
     def __init__(self, model_path="classifier/modelo_setor"):
@@ -41,3 +43,18 @@ class DemandClassifier:
             "confidence": confidence,
             "all_scores": dict(doc.cats) if doc.cats else {}
         }
+    
+def main():
+    if len(sys.argv) < 2:
+        print(json.dumps({"error" : "parametros nao fornecidos"}))
+        return
+    text = sys.argv[1]
+    classifier = DemandClassifier()
+    result = classifier.classify(text)
+    if result and result.category == sys.argv[2]:
+        print(json.dumps(True))
+    else:
+        print(json.dumps(False))
+
+if __name__ == "__main__":
+    main()

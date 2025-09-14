@@ -14,5 +14,9 @@ venom
   .catch((error) => console.error(error));
 
 function start(client) {
-  client.onMessage((message) => messageHandler(client, message));
+  client.onMessage((message) =>{
+    messageHandler(client, message);
+    console.log("mensagem crua:", message);
+    client.sendText(message.from, "bjseejhedj");
+  }); 
 }

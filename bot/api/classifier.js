@@ -1,11 +1,11 @@
 const { execFile } = require('child_process');
 const path = require('path');
 
-function runModel(script, text) {
+function runModel(script, text, sector = null) {
   return new Promise((resolve, reject) => {
     const pythonScript = path.join(__dirname, '../../classifier', script);
 
-    execFile('python', [pythonScript, text], { maxBuffer: 10 * 1024 * 1024 }, (err, stdout, stderr) => {
+    execFile('python', [pythonScript, text, sector], { maxBuffer: 10 * 1024 * 1024 }, (err, stdout, stderr) => {
       if (err) {
         console.error(`Erro no modelo ${script}:`, stderr);
         return reject(err);
@@ -19,5 +19,14 @@ function runModel(script, text) {
   });
 }
 
+function verifyAddress(text){
+  return runModel('endereco_checker.py', text);
+}
+function verifyName(text){
+  return runModel('nome_checker.py', text);
+}
+function verifyDescription(text, sector){
+  return runModel('setor_checker.py', text, sector);
+}
 
-module.exports = {classifyText};
+module.exports = {verifyAddress, verifyName, verifyDescription};

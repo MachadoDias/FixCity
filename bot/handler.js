@@ -3,21 +3,22 @@ const { verifyDescription, verifyAddress, verifyName } = require('./api/classifi
 const { saveDemand } = require('./api/backend.js');
 const { setUserState, getUserState, clearUserState, setUserData, getUserData } = require('./state.js');
 
-const sectors = ["ILUMINACAO", "LIMPEZA", "OBRAS", "SAUDE"];
+const sectors = ["iluminacao", "limpeza", "obras", "saude"];
 
 // msg inicial -> desc problema -> endereco -> nome -> foto
 
 async function messageHandler(client, message) {
     try {
+        console.log("mensagem recebida");
         const userId = message.from;
         const userState = getUserState(userId);
 
         if (message.isGroupMsg || !message.body) return;
 
         if (!userState) {
-            await client.sendText(userId, "👋 Olá, seja bem-vindo(a) ao nosso atendimento!Para começarmos, por favor, informe o setor da sua demanda: \n1 Iluminação \n2 Limpeza \n3 Obras \n4 Saúde \nDigite o número do setor correspondente à sua solicitação");
+            await client.sendText(userId, "👋 Olá, seja bem-vindo(a) ao nosso atendimento! Para começarmos, por favor, informe o setor da sua demanda: \n1 Iluminação \n2 Limpeza \n3 Obras \n4 Saúde \nDigite o número do setor correspondente à sua solicitação");
             setUserData(userId, {});
-            setUserState(useId, "waitingSector");
+            setUserState(userId, "waitingSector");
         }
         else {
             switch (userState.state) {

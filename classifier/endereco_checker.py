@@ -1,5 +1,7 @@
 import spacy # type: ignore
 import os
+import sys
+import json
 
 class AddressClassifier:
     def __init__(self, model_path="classifier/modelo_endereco"):
@@ -40,3 +42,18 @@ class AddressClassifier:
             "confidence": confidence,
             "all_scores": dict(doc.cats) if doc.cats else {}
         }
+    
+def main():
+    if len(sys.argv) < 2:
+        print(json.dumps({"error" : "parametros nao fornecidos"}))
+        return
+    text = sys.argv[1]
+    classifier = AddressClassifier()
+    result = classifier.classify(text)
+    if result and result.category == "IS_ADDRESS" and result.confidence > 0.9:
+        print(json.dumps(True))
+    else:
+        print(json.dumps(False))
+
+if __name__ == "__main__":
+    main()    

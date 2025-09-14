@@ -1,9 +1,11 @@
 import spacy # type: ignore
 import os
+import sys
+import json
 
-class AddressClassifier:
+class NameClassifier:
     def __init__(self, model_path="classifier/modelo_nomes"):
-        """Inicializa o classificador de endereços"""
+        """Inicializa o classificador de nomes"""
         self.model_path = model_path
         self.nlp = None
         self.load_model()
@@ -40,3 +42,18 @@ class AddressClassifier:
             "confidence": confidence,
             "all_scores": dict(doc.cats) if doc.cats else {}
         }
+
+def main():
+    if len(sys.argv) < 2:
+        print(json.dumps({"error" : "parametros nao fornecidos"}))
+        return
+    text = sys.argv[1]
+    classifier = NameClassifier()
+    result = classifier.classify(text)
+    if result and result.category == "IS_NAME" and result.confidence > 0.9:
+        print(json.dumps(True))
+    else:
+        print(json.dumps(False))
+
+if __name__ == "__main__":
+    main()
