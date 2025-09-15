@@ -168,11 +168,7 @@ def main():
         print("✅ Modelo carregado com sucesso")
     
     test_demands = [
-        "tamo na escuridao aqui na rua",
-        "o asfalto da rua está todo quebrado",
-        "tem um buraco gigante na calçada",
-        "a iluminação pública não funciona",
-        "preciso de ajuda com documentos"
+    "Vacina faltando"
     ]
     
     for text_setor in test_demands:
