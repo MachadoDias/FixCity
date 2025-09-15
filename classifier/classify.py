@@ -168,9 +168,9 @@ def main():
         print("✅ Modelo carregado com sucesso")
     
     test_demands = [
-        "tamo na escuridao aqui na rua",
-        "o asfalto da rua está todo quebrado",
-        "tem um buraco gigante na calçada",
+        "postinho sem vacina",
+        "vacina faltando",
+        "",
         "a iluminação pública não funciona",
         "preciso de ajuda com documentos"
     ]

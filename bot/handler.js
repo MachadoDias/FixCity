@@ -12,7 +12,7 @@ async function messageHandler(client, message) {
         const userId = message.from;
         const userState = getUserState(userId);
 
-        if (message.fromMe || !message.body) return;
+        if (message.fromMe) return;
 
         if (!userState) {
             await client.sendMessage(userId, "👋 Olá, seja bem-vindo(a) ao nosso atendimento! Para começarmos, por favor, informe o setor da sua demanda: \n1 Iluminação \n2 Limpeza \n3 Obras \n4 Saúde \nDigite o número do setor correspondente à sua solicitação");
@@ -66,6 +66,8 @@ async function messageHandler(client, message) {
                 case "askingForImage":
                     if (message.body == 1) {
                         setUserState(userId, "waitingImage");
+                        client.sendMessage(userId, "Ok, envie sua imagem");
+                        break;
                     }
                     else if (message.body == 2) {
                         const userData = getUserData(userId);
@@ -82,9 +84,11 @@ async function messageHandler(client, message) {
                         break;
                     }
                 case "waitingImage":
+                    console.log("entrou no switch");
                     const fs = require('fs');
                     const mime = require('mime-types');
-                    if (message.type === 'image' && message.hasMedia) {
+                    if (message.hasMedia) {
+                        console.log("entrou no if");
                         const media = await message.downloadMedia();
                         const buffer = Buffer.from(media.data, 'base64');
                         const extension = mime.extension(message.mimetype) || 'jpg';
