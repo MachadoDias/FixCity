@@ -168,7 +168,7 @@ def main():
         print("✅ Modelo carregado com sucesso")
     
     test_demands = [
-    "Vacina faltando"
+   "cachorro morrendo"
     ]
     
     for text_setor in test_demands:

@@ -7074,7 +7074,6 @@
 {"text": "Preciso de ajuda pra recolher a sujeira da rua", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
 {"text": "Preciso que lava a praça após o evento", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
 {"text": "Preciso que da uma limpada na praça aqui", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
-{"text": "Tem muito rato auqi na rua", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
 {"text": "Tem muito rato aqui na rua", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
 {"text": "Tem muito rato auqi perto dos lixo", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
 {"text": "Tem muito rato", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
@@ -7088,8 +7087,81 @@
 {"text": "Tem criança passando mal na escola depois de comer", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
 {"text": "Ta com um cheiro químico forte aqui", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
 {"text": "Tem varias pessoas com gripe aqui, tem como vacinar?", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
-
-
-
-
-
+{"text": "Vacina faltando", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Vacina em falta", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Precisa construir uma lombada aqui", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Precisa da cponstrucao de uma lombada aqui", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "As escadas da praça tão quebrada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "As escadas da praça estão quebrada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Tem inflitração no túnel", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Tem inflitração na praça", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Tem inflitração na escola", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Tem inflitração na lugar", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "O corrimão quebrou aqui na escada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "O corrimão quebrou aqui", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "O corrimão ta quebrado", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Limpeza de móveis velhos que deixaram na rua", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "Limpeza de móveis que deixaram no caminho", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "Limpeza do córrego que tá cheio de garrafa", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "Limpeza do córrego que tá cheio de entulho", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "Limpeza do córrego que tá cheio de lixo", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "Limpeza do córrego", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "Entulho bloqueando o caminho", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "destroço no caminho", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "cheiro vindo do esgoto aberto", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "cheiro vindo do esgoto", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "cheiro de esgoto aberto", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Manutenção na rede de iluminação", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Refletores do ginásio", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Poste novo mas nenhum ta ligado", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Substuição de lâmpada fraca", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Substuição de luz fraca", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Poste da zona rural não está ligando", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Vistoria em poste antigo de madeira", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Da uma olhada nos postes antigos", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Hospital sem ar condicionado na sala de espera", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Hospital sem estrutura na sala de espera", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Relato de água barrenta saindo das torneiras", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Relato de água suja na torneira", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Relato de água suja no chuveiro", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Vacinação antirrábica para animais de rua", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Vacina para os animais", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Vacina para os cachorros", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Vacina para os gatos", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Pessoas com intoxicação alimentar depois do evento", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Pessoas com intoxicação alimentar", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Posto de sáude sem médicos para atender", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Inspeção sanitária em mercado com carne exposta", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Inspeção sanitária no mercado", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Inspeção sanitária no lugar", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Inspeção sanitária na escola", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Inspeção sanitária", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Detetização contra mosquitos na região do lago", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Detetização", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Detetização contra dengue", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "buraco cheio de água seja com cheiro forte", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Poste apagado", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Paciente caiu e se machucou", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Entulho ta bloqueando a entrada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Pedra ta bloqueando a entrada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Obstaculo ta bloqueando a entrada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Poste caiu e abriu uma cratera", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "Luz quando passa carro pisca toda hora", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "luz apagada na rua", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Rua escura, criança indo com lanterna", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Fio caido no chão", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Rato na rua", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "Nem sinal de coleta, lixo ta fedendo", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "Alguém sangrando muito aqui em frente do lugar", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Alguém sangrando", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Alguém sangrando muito", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Alguém sangrando muito em frente da escola", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "Alguém sangrando muito em frente da escola", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "rua esburacada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "rua cheio de buraco", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "vem tapar meu buraco", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "tampa meu buraco aqui", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "cachorro morrendo", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "cavalo morrendo", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "gato morrendo", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "animal morrendo", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
