@@ -4787,3 +4787,913 @@
 {"text": "Pode me ajudar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
 {"text": "Não conheço aqui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
 {"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Escola, 6453 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo Getúlio Vargas, 7818 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Brasil, número 648", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Matriz, 3975", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Acácias, número 8437 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "36005", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa Brasil, número 697", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Centro, 3022 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Central, número 4413 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Igreja, 2705 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia da Matriz, 7415 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Parque, número 8886", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. José Bonifácio, 9602 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. São João, número 9196", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua das Palmeiras, 4756 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Interessante", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R. da Matriz, 576 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sete de Setembro, 7209 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Igreja, 4657 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia do Mercado, 9020 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Mercado, número 2789", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 7883 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Brasil, 6736 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua XV de Novembro, 2224 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Mercado, 4720 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Getúlio Vargas, número 816", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Liberdade, 1323", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Brasil, 3737", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Matriz, 6752 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia São João, número 3199 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Getúlio Vargas, número 5242", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Interessante", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Av. Getúlio Vargas, 4375 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Sete de Setembro, 7382 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia dos Andradas, 6595 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Paz, número 7296 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. dos Andradas, 9746 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Santos Dumont, número 6470 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Interessante", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida do Mercado, 1642 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Matriz, 8535 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia XV de Novembro, 6435 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Oliveiras, número 2587", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "86737", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa Getúlio Vargas, número 2016", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, número 7153 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça Getúlio Vargas, 7621 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Av. das Palmeiras, 7204", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Brasil, 7331 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, 9456 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "52547", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia Brasil, 2432 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Av. Santos Dumont, 1923", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Mercado, 8833 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Igreja, 7152", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Acácias, 584", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia das Flores, 3887", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Palmeiras, 4031 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. do Mercado, número 1466 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. da Paz, 7913 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Oliveiras, número 442", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Acácias, número 4874 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua José Bonifácio, 9771 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Não entendi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda XV de Novembro, número 8629 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Parque, número 512 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda José Bonifácio, 1242 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia do Mercado, 9897 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia das Palmeiras, número 570", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. da Paz, 557", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo São João, número 8246 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Oliveiras, número 9428 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Centro, 4739 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Igreja, 5027", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Liberdade, 8246 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Palmeiras, 9650", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz, número 6709 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, 8864 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Centro, 247 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz, número 1323 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Brasil, 2607", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo São João, número 9079", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida São João, 4106 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia das Palmeiras, 6255 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Sol, 3305 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Dom Pedro II, 5332 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lg. dos Andradas, 4876 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Brasil, 3995", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Escola, 5761", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Mercado, número 1096 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. dos Andradas, 7589", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Av. das Acácias, 2229 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia São João, 6128", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Flores, 4301 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "78881", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R. Sete de Setembro, 3746 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Getúlio Vargas, 5143", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida José Bonifácio, 5585 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça Sete de Setembro, número 3716 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada Sete de Setembro, 9166", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa dos Andradas, número 8744 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda Getúlio Vargas, 2161", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Palmeiras, 2371", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Matriz, 267 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Centro, 626 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "91449", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida Brasil, número 1389", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sete de Setembro, número 2194 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lg. São João, 1057", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Matriz, 2586 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Parque, 1809 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. do Mercado, 104 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São João, 8122 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "9823", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada Principal, 7001 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia do Mercado, 379", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, número 9544 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Flores, 9812 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 5094", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Santos Dumont, 1923 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Palmeiras, 9707 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. Brasil, número 8463 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Palmeiras, número 6928", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Centro, número 8553 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Sol, número 2569", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Igreja, 5652", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Sete de Setembro, número 6465 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Igreja, 5986 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "82416", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Paz, 1684 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Mercado, 21 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia do Parque, número 330 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Centro, 8141 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua XV de Novembro, 2096", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "16217", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Liberdade, número 7966 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Principal, 8087 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Paz, 959", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Escola, 5571 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia do Centro, 2928", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada Sete de Setembro, 4313 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "60566", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Está certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Matriz, 7864 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo José Bonifácio, número 431 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Palmeiras, 6302 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça São João, 6044", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sete de Setembro, 4303 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia José Bonifácio, 885 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia do Sol, número 930 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Escola, 1219 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Sete de Setembro, 3407", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Palmeiras, número 2983 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Mercado, 3694 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Parque, 5893 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça José Bonifácio, 9002 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "55183", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Oliveiras, número 9948", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada Principal, 6687 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "56727", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua XV de Novembro, 8274 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Matriz, número 3503 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Matriz, 8029 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "35854", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Paz, 8764 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "87401", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Matriz, 9046", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Brasil, número 4981 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Acácias, 8239 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo Getúlio Vargas, número 6594 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 661 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não entendi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Que legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa Dom Pedro II, 5684 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Mercado, número 8332 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo Santos Dumont, número 1358 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, 5265 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "80102", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa da Liberdade, número 3219", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Interessante", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua Principal, 8629 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Principal, 4272 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Parque, 2510", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida Sete de Setembro, número 9445 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa Brasil, 7428 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "54055", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia da Matriz, 881 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Getúlio Vargas, 7911 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua das Flores, 9686 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Igreja, 7160", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Escola, número 5264 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, 5815 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Sete de Setembro, 9729 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pode repetir", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Mercado, número 2806 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Getúlio Vargas, 940 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida do Centro, 1945 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Brasil, 7006 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 9965 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Flores, 8854", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Escola, 9459 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Principal, 7137 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Santos Dumont, 556", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Matriz, número 1443 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Igreja, 2161 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lg. Getúlio Vargas, 3477 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Escola, 1071", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Mercado, 8767 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Getúlio Vargas, 7681 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Principal, 5948 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Parque, 8481 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Mercado, 3696 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Matriz, número 5743 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lg. Sete de Setembro, número 3801 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Oliveiras, número 1785", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Mercado, 7830 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "24597", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia Dom Pedro II, número 5281 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Dom Pedro II, 8298 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "53590", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa Central, 7441 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Centro, 9894 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Palmeiras, 5544", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Está certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Mercado, 3596 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. da Matriz, 3358 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Andradas, número 6407 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Escola, número 144 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua Getúlio Vargas, 9932 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Centro, 4891 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Parque, 8632 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Matriz, 2828 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Parque, 5943 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Igreja, número 7820", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo XV de Novembro, 1536 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa Central, número 9314 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça José Bonifácio, número 1941", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "2226", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada Santos Dumont, 5738 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "6367", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda da Escola, 3549", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua das Palmeiras, número 5452 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Santos Dumont, 2455 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Santos Dumont, 5420", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Palmeiras, número 5311", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Brasil, número 9837 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo dos Andradas, 4647 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Principal, 6139", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Que legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, número 714 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São João, 3343 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pode repetir", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não entendi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "59762", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R. José Bonifácio, 1903 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Acácias, 8486", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Acácias, 4440", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Principal, número 9490 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia Brasil, 8194", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia da Paz, número 1937", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia das Palmeiras, número 5645 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "69577", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo das Oliveiras, número 286", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Matriz, 9928 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Matriz, número 1494", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "54325", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda Dom Pedro II, 8707 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "82220", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida do Parque, 4807", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "23316", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo XV de Novembro, número 1747", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo Santos Dumont, número 5859", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Brasil, número 5762 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pode repetir", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua José Bonifácio, 9269", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Santos Dumont, 4936 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua das Palmeiras, 4297 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "24856", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua XV de Novembro, 5499 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Parque, 2136 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "78677", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça José Bonifácio, 7928 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Parque, número 5075 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Igreja, 4731 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Santos Dumont, 8059 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Getúlio Vargas, 9497 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida dos Andradas, 3271 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia das Acácias, 9131 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Brasil, 3364 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Que legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça Dom Pedro II, número 641", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida São João, 4628", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Mercado, 6860 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia da Escola, 5794 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo Brasil, 4872 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Matriz, 5873 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Palmeiras, 4757 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sete de Setembro, 7874 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. São João, 4975 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Está certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa do Centro, número 7719 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia dos Andradas, 3332", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo Sete de Setembro, 1759 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Matriz, 1551", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda Dom Pedro II, 2168 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Matriz, 8573", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia do Sol, 769 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "44357", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Paz, 2961 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "42269", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Mercado, 8331 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Igreja, número 1527", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Matriz, 9642 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Centro, número 6593", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "76829", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Acácias, 8074 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda XV de Novembro, 5850", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Parque, número 8093", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não entendi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Sol, número 5748 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Escola, número 7247 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, 2595 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Centro, 941", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça Santos Dumont, 566 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida São João, número 2175 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Oliveiras, 5210 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça José Bonifácio, 9314", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Central, 6211 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Andradas, número 6388 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada Principal, 2078 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo São João, 1475 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada das Flores, 425 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Está certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa José Bonifácio, 9555", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "90085", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "48838", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Que legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R. Central, 8259 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Liberdade, 1085 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "78637", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia do Centro, número 3279 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Está certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Parque, número 2034", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Interessante", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua São João, número 6303 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua das Palmeiras, 6864 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Liberdade, 1200", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, número 5372 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "78030", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo XV de Novembro, 4305 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "95806", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Av. Dom Pedro II, 1964 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Matriz, 7705 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda da Liberdade, 6932 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua José Bonifácio, 6589 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Getúlio Vargas, 8911 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Getúlio Vargas, número 6636", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pode repetir", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida José Bonifácio, 3683 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Palmeiras, 104 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Sete de Setembro, número 4416", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa dos Andradas, 9010 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Santos Dumont, 2088 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Paz, 2713 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Igreja, 819 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Central, 1640 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia Getúlio Vargas, 5199 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda Getúlio Vargas, 6623", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo dos Andradas, 641 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Palmeiras, 3482 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "56984", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo Getúlio Vargas, 6045 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Brasil, 7525", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Mercado, 8694", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "82497", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua Dom Pedro II, 7109 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol, número 863 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Escola, número 2017 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Que legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Mercado, número 5198", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "9894", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida do Mercado, 3534 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "8030", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida São João, 9914", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa Principal, número 4912 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Liberdade, 8575 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Escola, 9315 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Palmeiras, 3789 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. Getúlio Vargas, número 9648", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida da Liberdade, 4914 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Sete de Setembro, 5775 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Getúlio Vargas, 232 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. Principal, número 2021 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Palmeiras, número 2193 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo das Flores, 3083 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Liberdade, número 6730 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Liberdade, 8364 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça dos Andradas, 5720", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pode repetir", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida do Mercado, número 4683", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada José Bonifácio, número 3111", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Liberdade, 8875", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa São João, número 8152 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Acácias, número 6046 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Central, 7204", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia Central, 4721", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda Dom Pedro II, 3378 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Principal, 4155 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Av. da Paz, 1404", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Igreja, 9571", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Oliveiras, número 9958 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Oliveiras, 7493", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "42113", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Av. Santos Dumont, 4476", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "70264", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "67241", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida Central, número 570 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Parque, número 9663 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua da Matriz, 4496 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa Dom Pedro II, 6882", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Mercado, 2903 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia das Flores, número 6204", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Interessante", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia do Centro, 9342", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não entendi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Parque, número 3158 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo do Parque, 819 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda XV de Novembro, 5239 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "57379", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lg. Dom Pedro II, 8761", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Liberdade, número 7919 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Sol, 344 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "47217", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia Brasil, 1255 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa do Mercado, número 6745", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa XV de Novembro, 1503 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Paz, número 2171 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua das Palmeiras, 8728 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Palmeiras, 8793 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia do Parque, número 5254", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça das Palmeiras, 9837 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Parque, 3120 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda do Parque, 8327 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Igreja, 9869", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia do Centro, 2378 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Paz, 7236", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Igreja, 735 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 9412 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Centro, número 4012", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia do Sol, 4621 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, 1851 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Dom Pedro II, 7136 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda Brasil, 7522", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Principal, 367 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Escola, 9801 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo da Igreja, número 8486 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Igreja, número 3544", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Centro, número 6504", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Escola, 1607", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua Brasil, 249 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa Principal, número 5254 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Mercado, 3975 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Flores, 3231 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo do Mercado, número 8320", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Paz, 727 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo José Bonifácio, 9362 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pode repetir", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia da Paz, 3467 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Igreja, 9948", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. da Paz, 8905 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sete de Setembro, 5667 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Acácias, 6729 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Oliveiras, número 6574", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Getúlio Vargas, número 2974 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Oliveiras, 3785 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida São João, número 9633", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Getúlio Vargas, 2676 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Flores, 6623 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Igreja, 7060 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia da Igreja, 5750 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Dom Pedro II, 4347 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada José Bonifácio, 2610", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Dom Pedro II, número 6517 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Escola, número 4550 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Getúlio Vargas, 9148 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Não entendi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Que legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "E aí", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "65357", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça do Centro, número 5886 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça Central, 6606 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Não entendi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida das Acácias, 5501 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Brasil, 389", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda José Bonifácio, 8005 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "83962", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Está certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda dos Andradas, 40", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa da Escola, 9513", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Flores, 8411 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça Sete de Setembro, 9319 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda do Mercado, 5869", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo José Bonifácio, 4616 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça XV de Novembro, número 174 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lg. do Parque, 318 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Principal, 262 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua dos Andradas, 2053", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Sol, 8983 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda São João, número 8608", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "98288", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode repetir", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia das Palmeiras, número 7140 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "4885", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda Santos Dumont, 2118 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa das Palmeiras, número 5394", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada dos Andradas, 5299", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Principal, 5631 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Central, número 774 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "R. do Mercado, 2143", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Centro, número 9706", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Acácias, 4222 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Igreja, número 3078 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Liberdade, 6484", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua Brasil, 708 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada do Sol, 3327 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada do Sol, 4187", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Brasil, 7161 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Sol, 2962 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Santos Dumont, número 2680 - Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa São João, número 7872 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Interessante", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua Central, número 5599", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Flores, número 2664 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. XV de Novembro, 7570 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia das Acácias, número 5958 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça do Sol, 5315 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Juliana Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R. do Sol, 701 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua do Centro, 3162 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa do Mercado, 1317", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Dom Pedro II, 1970", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Está certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo Principal, 8261", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Dom Pedro II, número 1548 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Bonifácio, 8025 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Está certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda das Flores, 9717 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Largo Sete de Setembro, 8772 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Bonifácio, 919 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Lg. da Matriz, 5924", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "87934", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia XV de Novembro, número 415 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua José Bonifácio, número 7551 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua José Bonifácio, número 5459", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Alameda Santos Dumont, 9432 - Jardim Europa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia da Liberdade, 368 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Igreja, 2261", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Interessante", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça Sete de Setembro, 4521", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Pode repetir", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida da Paz, 2088 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida do Mercado, 8553 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia Getúlio Vargas, 7259", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Sete de Setembro, número 8794 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia José Bonifácio, número 5738 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia XV de Novembro, 65", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Escola, 5109 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "77320", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Travessa São João, 4068", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça Central, número 6261", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Paz, 3986 - Parque Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia XV de Novembro, 1033", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Sete de Setembro, 3822 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Que legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não entendi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estrada da Escola, número 8912 - Vila Madalena", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua da Igreja, 933 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Bonifácio, 9011 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Oliveiras, 7343 - Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, número 5004", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia da Paz, número 7931 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida das Oliveiras, número 9663 - São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "José Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucia Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rodovia das Acácias, número 9907", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Que legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R. do Parque, 3558", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Largo da Matriz, 558 - Vila São Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada das Palmeiras, número 8734 - Alto da Boa Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "32083", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R. das Acácias, 5424 - Campo Grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Avenida Central, número 8776", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada da Matriz, 6844 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, 297 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}

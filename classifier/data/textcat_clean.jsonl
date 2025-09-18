@@ -7165,3 +7165,19 @@
 {"text": "cavalo morrendo", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
 {"text": "gato morrendo", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
 {"text": "animal morrendo", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "arvore caiu", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "arvore caiu aqui na rua", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "arvore caiu aqui no mercado", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "arvore caiu aqui", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "ta sem vascina no postinho", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "ponto de onibus ta sem cobertura", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "rua cheio de rachadura", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "infiltrção na passagem do túnel", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "escadaria do centro ta sem corrimão e degrau quebrado", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "obra das creches pararam faz meses", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "bueiro da rua afundou denovo", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "buraco ja engoliu dois carros", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "buraco ja fez dois carros cair", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "bueiro afundado", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "rua rachada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "obra parada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
