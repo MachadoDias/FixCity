@@ -7181,3 +7181,33 @@
 {"text": "bueiro afundado", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
 {"text": "rua rachada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
 {"text": "obra parada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "obra parada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "tem infiltração no tunel pinga agua molhada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "ponto de onibus sem cobertura", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "rua ta toda rachada vai abrir no meio", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "rua toda rachada", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "escada perigosa sem corrimão", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "obra parou faz tempo", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "bueiro afundado", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "boca de lobo entupida", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "resto de fruta estragando", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "galho enorme caiu na calçada", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "entulho no chão", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "praça imunda depois da festa", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "copo e lata espalhada", "cats":{"obras": 0, "saude": 0, "iluminacao": 0, "limpeza": 1}}
+{"text": "Poste torto ta parecendo q vai cair", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "A luz de led ta muito forte", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "não tem poste de luz", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "fio solto no poste", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "poste cáido próximo", "cats":{"obras": 0, "saude": 0, "iluminacao": 1, "limpeza": 0}}
+{"text": "Fumaça forte na clínica, dando dor de cabeça", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "escorpião picou a criança ", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "ambulancia demorando pra chegar", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "ambulancia demorando 2 horas para chegar paciente piorou", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "paciente piorou, ambulancia n chega", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "pessoa desmaiada", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "pessoa desmaiada, ambulancia urgente", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "todo mundo comeu comida estragada servida", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "a agua ta marrom, perigoso beber", "cats":{"obras": 1, "saude": 0, "iluminacao": 0, "limpeza": 0}}
+{"text": "fila enorme, pessoa esperando mto", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}
+{"text": "muito mosquisa, caso de dengue ta aumentando", "cats":{"obras": 0, "saude": 1, "iluminacao": 0, "limpeza": 0}}

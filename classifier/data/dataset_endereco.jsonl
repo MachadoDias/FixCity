@@ -5697,3 +5697,1336 @@
 {"text": "Avenida Central, número 8776", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "Estrada da Matriz, 6844 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "Praça Santos Dumont, 297 - Cidade Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av castro alves 6227 proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça castro alves n 9284 bairro vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada jose bonifacio 6284 flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco a ap 134", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 19", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos torre 1 ap 283", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela juscelino kubitschek 5887 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada quinze de novembro em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia das flores portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco getúlio vargas s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem dos ipes 5885 flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem pernambuco prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua dom pedro segundo sem numero perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 274", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 68", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada coronel fabriciano em frente ao mercado maria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo amazonas em frente ao mercado pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida das industrias esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo das industrias, 3102 - copacabana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco a ap 679", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 305", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa brasil 611 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa padre anchieta em frente ao mercado paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça sao jose perto do ponto de onibus pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça nova esperança prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada tiradentes num 7035 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada 7 setembro sem numero em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida nova esperança em frente ao mercado marcos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada carlos gomes proximo ao colegio marista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda joao paulo numero 6476 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 1 ap 978", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa carlos gomes num 2988 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada tiradentes esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela sao jose 9773 prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela das industrias casa verde prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco nova esperança num 9112 prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada independencia casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada dos ipes numero 3847 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida das flores casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 147", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco b ap 892", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela dos ipes casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos bloco a ap 460", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua coronel fabriciano num 2775 prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem tancredo neves esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada castro alves n 5166 prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa jose bonifacio perto do ponto de onibus josé", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 2 ap 322", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco b ap 673", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos bloco b ap 338", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem antonio carlos fundos prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela das industrias numero 3329 jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 157", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida jose bonifacio primeira casa ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco joao paulo num 8566 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo tancredo neves casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 1 ap 914", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda joao paulo casa azul", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida sao jorge num 7702 em frente ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av princesa isabel n 7153 bairro bela vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça jose bonifacio prox oficina do joão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa joao paulo numero 6335 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça getúlio vargas proximo ao colegio marista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia dom pedro segundo numero 5578 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada coronel fabriciano 1427 laranjeiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça santos dumont s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça dom pedro segundo numero 3333 copacabana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada coronel fabriciano sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo amazonas, 3621 - boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 994", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica torre 1 ap 696", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa 7 setembro n 3128 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada antonio carlos n 5879 em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica bloco b ap 353", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela dos ipes 6214 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua quinze de novembro, 3494 - cidade alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida dom pedro segundo perto da padaria carlos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 777", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça nova esperança 891 em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça 7 setembro 5489 em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem sao jorge numero 7080 copacabana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco a ap 914", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça antonio carlos em frente ao mercado pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores bloco b ap 304", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 100", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco amazonas numero 8604 eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia getúlio vargas em frente bar do patricia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem tiradentes s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda sao jose, 1795 - boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 1", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo nova esperança sem numero proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo quinze de novembro prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada 7 setembro primeira casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "42618", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica bloco b ap 636", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 15", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada das flores num 7080 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 1 ap 124", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada jose bonifacio sem numero casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco a ap 853", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco b ap 948", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua castro alves fundo do bar do paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco a ap 564", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "passagem tancredo neves n 9333 em frente ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa tiradentes casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco sao jose numero 2024 ipanema", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "travessa amazonas n 3924 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo nova esperança numero 532 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua brasil prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela tancredo neves numero 5291 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "49917", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores torre 1 ap 344", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela getúlio vargas 4153 campo grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada marechal deodoro ultima casa em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida sao jose casa da esquina ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem amazonas, 1120 - jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "maria santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo padre anchieta perto da igreja maria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda das industrias num 7419 portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco a ap 176", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av das flores 6157 prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "travessa tiradentes casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 952", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 2 ap 472", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco sao jorge n 6276 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua das industrias casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela dom pedro segundo num 2961 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia juscelino kubitschek casa verde em frente ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda jose bonifacio num 4083 prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça amazonas numero 6921 campo grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 67", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av coronel fabriciano 7211 bela vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa amazonas em frente bar do carlos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica torre 2 ap 168", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia marechal deodoro ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia antonio carlos numero 7301 bela vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça brasil 208 perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem jose bonifacio ao lado da farmacia patricia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial jardim bloco b ap 785", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada amazonas numero 9470 flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo castro alves numero 8218 copacabana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 34", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 7", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco 7 setembro sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 2 ap 713", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 1 ap 501", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem getúlio vargas 3568 em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida dom pedro segundo n 6981 bairro boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco a ap 508", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco carlos gomes numero 760 campo grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco tancredo neves casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco brasil s/n em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada dom pedro segundo n 3343 bairro jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco pernambuco casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia sao jorge num 8733 em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 45", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "travessa sao jose casa azul", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua das flores sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 2 ap 122", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo juscelino kubitschek perto da padaria josé", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela jose bonifacio casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa santos dumont sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida das industrias prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela brasil perto da delegacia paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo dom pedro segundo numero 7894 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda joao paulo perto da padaria marcos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 1 ap 379", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 533", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial jardim torre 2 ap 578", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça independencia em frente ao mercado joão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça marechal deodoro n 5576 prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida princesa isabel fundo do bar do pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo princesa isabel n 4846 bairro centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa carlos gomes casa azul", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo tancredo neves perto da igreja josé", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida brasil 4393 proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida carlos gomes prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco castro alves ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem coronel fabriciano, 9966 - eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida dos ipes primeira casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa das industrias 52 casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 2", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela dom pedro segundo, 8943 - centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 56", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "passagem castro alves sem numero proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua antonio carlos numero 8609 copacabana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia sao jorge n 805 prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica torre 1 ap 753", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 1 ap 612", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa juscelino kubitschek numero 4958 laranjeiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa marechal deodoro ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua getúlio vargas perto da delegacia patricia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 1 ap 641", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo das industrias em frente ao mercado josé", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 773", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua independencia n 1087 bairro jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda antonio carlos num 3236 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela brasil casa azul em frente ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro 18", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial jardim bloco b ap 459", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua tancredo neves s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco a ap 674", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa tancredo neves proximo ao colegio ipiranga", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua castro alves prox oficina do marcos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo sao jorge, 2543 - vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia coronel fabriciano 7485 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem padre anchieta portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia dom pedro segundo numero 8268 eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 90", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo dos ipes num 6616 em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco tancredo neves 5446 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "92268", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "travessa tiradentes casa da esquina perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda juscelino kubitschek proximo ao colegio anglo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia marechal deodoro n 2267 bairro bela vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro 49", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda das flores sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo das industrias fundo do bar do maria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua independencia 3158 proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 2 ap 778", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela sao jorge num 7341 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco amazonas n 5171 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco castro alves ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela dom pedro segundo primeira casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos bloco a ap 634", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos bloco a ap 426", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 2 ap 169", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 29", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça dom pedro segundo 3205 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "46869", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada amazonas fundo do bar do joão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada carlos gomes casa azul", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "maria santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av amazonas 5164 copacabana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco castro alves n 2077 bairro centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 1 ap 965", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida quinze de novembro ultima casa perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada padre anchieta 9815 perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo tancredo neves casa verde em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda coronel fabriciano sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia marechal deodoro prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 2 ap 873", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça sao jorge perto da padaria maria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco amazonas sem numero prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada dom pedro segundo casa da esquina casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia das flores prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores torre 2 ap 707", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo das flores perto da delegacia lucas", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa nova esperança, 4343 - leblon", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 1", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua pernambuco n 2214 perto da padaria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida joao paulo num 4515 proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av joao paulo s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 1 ap 550", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua padre anchieta casa azul fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela santos dumont numero 3425 laranjeiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua juscelino kubitschek casa azul perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 25", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda sao jorge casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia getúlio vargas ultima casa perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 31", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia nova esperança primeira casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada quinze de novembro num 5124 proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela joao paulo numero 4214 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela juscelino kubitschek 9003 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 967", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo dos ipes perto da padaria pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem independencia n 8080 perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco brasil perto da delegacia marcos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco 7 setembro s/n proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem das flores, 1413 - leblon", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "travessa das flores 7065 jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco carlos gomes n 5377 bairro vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 91", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica torre 1 ap 515", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia 7 setembro casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo carlos gomes prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco dom pedro segundo casa da esquina em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco a ap 951", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco a ap 531", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores bloco b ap 204", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia brasil n 293 bairro santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa dom pedro segundo 6646 prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo joao paulo n 9173 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela independencia sem numero fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda dos ipes casa verde perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco b ap 941", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça castro alves n 3213 bairro eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco dom pedro segundo 719 eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco pernambuco 3182 casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco nova esperança, 9028 - flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem nova esperança em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça getúlio vargas casa verde prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada amazonas 8633 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida sao jose num 2302 altura do posto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida santos dumont n 9311 prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda pernambuco prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida marechal deodoro 3510 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av marechal deodoro n 6395 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 2 ap 793", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça amazonas 4047 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 14", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos bloco a ap 145", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada pernambuco prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela sao jorge s/n em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica torre 2 ap 979", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 2 ap 577", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia independencia prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 93", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos torre 2 ap 738", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida das industrias prox oficina do carlos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco quinze de novembro ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua getúlio vargas altura do posto pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco a ap 785", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua dos ipes prox oficina do carlos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa das industrias s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 178", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo 7 setembro n 447 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda sao jorge n 7416 bairro cidade alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida carlos gomes, 2137 - eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 80", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco nova esperança, 9718 - leblon", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av tancredo neves perto da delegacia pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda tancredo neves, 1921 - cidade alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada nova esperança num 916 em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos torre 1 ap 825", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica bloco a ap 663", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 51", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "passagem marechal deodoro numero 2370 jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida dom pedro segundo sem numero prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela dom pedro segundo n 3702 bairro flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda santos dumont 3489 perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça castro alves casa azul em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo das flores 2916 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av amazonas prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 2 ap 594", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça pernambuco 6276 perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia santos dumont casa verde em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores bloco b ap 398", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa independencia, 6418 - flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda getúlio vargas 9500 em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco b ap 877", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 74", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia santos dumont 3604 em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela amazonas prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av sao jorge n 6566 em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco tiradentes prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua princesa isabel fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua joao paulo n 8066 bairro flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco marechal deodoro casa azul", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia quinze de novembro 6693 tijuca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 91", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av brasil numero 4387 copacabana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua pernambuco primeira casa em frente ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 208", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco antonio carlos n 179 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 2 ap 631", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça jose bonifacio n 461 prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela dos ipes fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av 7 setembro prox oficina do carlos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela padre anchieta ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av jose bonifacio ultima casa esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco pernambuco perto do ponto de onibus patricia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 2 ap 590", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda carlos gomes ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av juscelino kubitschek num 9175 perto da padaria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem carlos gomes, 8602 - ipanema", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "travessa sao jose 959 em frente ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda castro alves perto do ponto de onibus pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco antonio carlos numero 4758 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco a ap 262", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av padre anchieta em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela quinze de novembro casa azul", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida juscelino kubitschek ao lado da farmacia joão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av independencia s/n perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo antonio carlos em frente ao mercado paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem juscelino kubitschek fundos perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça coronel fabriciano s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia 7 setembro ao lado da farmacia lucas", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia princesa isabel n 7482 bairro laranjeiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida pernambuco num 5497 prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 1 ap 873", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco a ap 318", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua princesa isabel proximo ao colegio anglo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida tancredo neves proximo ao colegio etapa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida marechal deodoro altura do posto paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco 7 setembro casa verde perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa princesa isabel num 9541 portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 60", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial jardim bloco b ap 692", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "travessa sao jorge s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa pernambuco 2718 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco dom pedro segundo, 3388 - cidade alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "passagem nova esperança numero 1390 jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial jardim torre 1 ap 262", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua amazonas primeira casa ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 1 ap 113", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela sao jorge numero 7249 botafogo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 1 ap 721", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela marechal deodoro prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av princesa isabel casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem sao jorge fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela getúlio vargas n 8221 bairro copacabana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem carlos gomes altura do posto francisco", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua das flores casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro 3", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela pernambuco num 7099 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda das flores num 4016 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua pernambuco n 6014 bairro campo grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 94", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores torre 2 ap 624", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada 7 setembro prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida das industrias num 5386 em frente ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia carlos gomes casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 27", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida dos ipes numero 3907 bela vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av brasil fundo do bar do antonio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela dom pedro segundo em frente ao mercado pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco quinze de novembro n 1335 bairro leblon", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo quinze de novembro fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "33592", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça das flores fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça getúlio vargas s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua das flores num 3372 prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa jose bonifacio prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av quinze de novembro, 6786 - copacabana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 182", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada tancredo neves 5708 perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda brasil em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica bloco a ap 710", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av padre anchieta prox oficina do joão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça juscelino kubitschek casa azul", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco independencia numero 4335 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda das industrias casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua amazonas 6765 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda carlos gomes perto da delegacia maria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos torre 1 ap 207", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda das flores n 57 em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco a ap 841", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 91", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida das flores em frente bar do patricia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça sao jorge primeira casa em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada jose bonifacio 7056 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 484", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo tancredo neves, 2308 - jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco santos dumont n 4885 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa amazonas n 5947 bairro leblon", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada tancredo neves numero 9428 eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco das industrias prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 4", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça dom pedro segundo numero 7851 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 90", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela jose bonifacio casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada nova esperança 4688 eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda padre anchieta numero 8993 eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av das flores s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco b ap 591", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco padre anchieta em frente bar do ana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua tancredo neves n 1946 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 546", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça quinze de novembro numero 9677 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco b ap 314", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo tiradentes ao lado da farmacia josé", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco sao jorge numero 9048 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça padre anchieta perto do ponto de onibus ana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem juscelino kubitschek n 7638 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores bloco b ap 583", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda santos dumont sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 2 ap 555", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda das industrias numero 3849 tijuca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça juscelino kubitschek casa da esquina esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada jose bonifacio em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av coronel fabriciano primeira casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av castro alves n 1317 bairro leblon", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco b ap 435", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada castro alves fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "passagem antonio carlos n 9892 bairro leblon", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 1 ap 930", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial jardim torre 2 ap 282", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem nova esperança num 1731 portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda castro alves 4842 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia princesa isabel altura do posto josé", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 2 ap 434", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua sao jorge casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo santos dumont esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela coronel fabriciano primeira casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco b ap 384", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda getúlio vargas sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua getúlio vargas perto da delegacia marcos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "14279", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "15995", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica bloco a ap 794", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia padre anchieta 9035 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela marechal deodoro num 4107 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 21", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada brasil, 2551 - flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua juscelino kubitschek altura do posto ana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco tiradentes 3599 casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda brasil numero 8584 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av amazonas sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 2 ap 339", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 2 ap 512", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia juscelino kubitschek fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça dos ipes, 5692 - jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 1 ap 181", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 531", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica bloco b ap 434", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo antonio carlos ultima casa perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 1 ap 953", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada sao jorge casa verde prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem coronel fabriciano perto da padaria joão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av tancredo neves prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa nova esperança numero 9468 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda nova esperança num 7741 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 2 ap 521", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa padre anchieta s/n esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua sao jorge ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda juscelino kubitschek s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa coronel fabriciano casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela pernambuco perto da igreja carlos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda juscelino kubitschek casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 1 ap 202", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada coronel fabriciano, 8616 - jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo carlos gomes 901 portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo independencia ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda castro alves 5954 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem dom pedro segundo casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 2 ap 694", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada marechal deodoro numero 7667 campo grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco b ap 137", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça sao jose n 241 bairro copacabana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av joao paulo fundos prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro 48", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos torre 1 ap 198", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada quinze de novembro numero 3470 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa tiradentes num 9810 prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco juscelino kubitschek casa azul fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela santos dumont, 772 - eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua getúlio vargas casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia sao jorge numero 9132 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 325", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores torre 2 ap 579", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro 37", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo carlos gomes fundos prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda santos dumont prox oficina do joão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada joao paulo casa verde perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda santos dumont 9235 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco a ap 341", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça juscelino kubitschek prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua padre anchieta n 7423 bairro boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela nova esperança perto da padaria paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial jardim bloco a ap 850", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida tiradentes 8024 tijuca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua 7 setembro n 2945 bairro bela vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 1 ap 908", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia dom pedro segundo ultima casa altura do posto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo coronel fabriciano sem numero altura do posto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av getúlio vargas 8139 tijuca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada padre anchieta n 2003 prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo marechal deodoro num 41 altura do posto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada tancredo neves 9295 perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo tiradentes 7435 altura do posto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua princesa isabel em frente ao mercado antonio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela pernambuco 5212 tijuca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua dos ipes 801 prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 21", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela nova esperança fundo do bar do carlos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 2 ap 838", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco nova esperança, 2497 - bela vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada dom pedro segundo s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo marechal deodoro altura do posto ana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia marechal deodoro altura do posto paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 60", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua joao paulo casa azul", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 896", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida santos dumont casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia carlos gomes casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av dos ipes 1976 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem joao paulo casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco a ap 399", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem pernambuco prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua 7 setembro casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "37072", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av independencia sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela joao paulo n 1991 bairro flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia coronel fabriciano perto da delegacia patricia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco a ap 844", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco a ap 650", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av nova esperança 9686 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa santos dumont perto do ponto de onibus josé", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 1 ap 790", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica torre 2 ap 608", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda das flores num 9914 em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco sao jose n 3314 prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia brasil 4891 tijuca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada sao jose num 658 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua pernambuco n 3726 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco independencia num 810 perto da padaria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 1 ap 377", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo antonio carlos casa verde casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "maria santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda dos ipes perto da padaria marcos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela tancredo neves s/n perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo sao jorge casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "maria santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida marechal deodoro s/n perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem independencia perto da padaria marcos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça jose bonifacio prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "19762", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial santos bloco a ap 755", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro 17", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida princesa isabel s/n em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua juscelino kubitschek proximo ao colegio shell", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia brasil casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua getúlio vargas sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "maria santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "passagem sao jorge 1129 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada amazonas casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada amazonas fundos em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "passagem padre anchieta perto da igreja marcos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo tancredo neves perto do ponto de onibus pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa coronel fabriciano, 5706 - ipanema", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia juscelino kubitschek em frente bar do lucas", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia santos dumont 8421 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem padre anchieta altura do posto marcos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco b ap 697", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua coronel fabriciano 4681 laranjeiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 1 ap 853", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada tancredo neves 8982 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 2 ap 253", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida nova esperança fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela princesa isabel casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem das flores casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem dom pedro segundo sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda tancredo neves sem numero perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça juscelino kubitschek num 1735 perto da padaria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia das flores n 9132 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada padre anchieta 9710 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia marechal deodoro casa verde perto da padaria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa tiradentes ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 2 ap 894", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda sao jose num 6966 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa sao jose s/n prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela das industrias prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem amazonas s/n fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela dom pedro segundo portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada das industrias prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida castro alves numero 9570 campo grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada pernambuco, 9778 - boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua antonio carlos num 3399 casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida getúlio vargas 5468 prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida juscelino kubitschek s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco a ap 667", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 197", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça coronel fabriciano casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua antonio carlos perto do ponto de onibus lucas", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada nova esperança fundo do bar do paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda coronel fabriciano s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "46207", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia das flores numero 1623 jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda padre anchieta 346 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco independencia, 7377 - eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco a ap 283", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela joao paulo prox ao shopping", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça sao jorge perto da igreja pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada antonio carlos n 7000 prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela tancredo neves perto da igreja ana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda 7 setembro prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia quinze de novembro casa verde perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo juscelino kubitschek casa verde perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua santos dumont ultima casa proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo 7 setembro, 4956 - centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua padre anchieta numero 2050 flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av tiradentes, 9545 - tijuca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco joao paulo perto da padaria pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av jose bonifacio casa verde fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida dom pedro segundo, 5358 - flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco a ap 329", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa das industrias fundos portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia princesa isabel casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda nova esperança casa da esquina em frente bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida quinze de novembro proximo ao colegio carrefour", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco a ap 933", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça jose bonifacio s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem tiradentes, 1106 - leblon", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa das flores num 340 perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 1 ap 976", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 86", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av tiradentes em frente bar do pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 1 ap 720", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua dom pedro segundo n 8300 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 2 ap 763", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida amazonas casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua dos ipes em frente ao mercado lucas", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia getúlio vargas portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela tancredo neves, 6179 - campo grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida getúlio vargas n 468 prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa juscelino kubitschek fundo do bar do pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo coronel fabriciano numero 4238 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco amazonas n 3638 bairro botafogo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda jose bonifacio num 6700 portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda joao paulo fundo do bar do paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "passagem pernambuco em frente ao mercado patricia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro 74", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 34", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica torre 2 ap 281", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo joao paulo portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo padre anchieta, 8542 - eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica torre 1 ap 349", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia marechal deodoro num 4112 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo castro alves s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda dom pedro segundo fundo do bar do marcos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda antonio carlos casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada dom pedro segundo 6103 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco juscelino kubitschek casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa castro alves 3222 campo grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 72", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada joao paulo, 9329 - centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 19", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia 7 setembro prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 487", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica torre 2 ap 693", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda das flores num 7265 em frente ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo juscelino kubitschek casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco b ap 725", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda princesa isabel altura do posto francisco", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo getúlio vargas n 5661 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco das flores em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa antonio carlos 5295 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça santos dumont primeira casa proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco b ap 760", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem jose bonifacio prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia coronel fabriciano s/n portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa princesa isabel casa verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 44", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela das flores perto da padaria joão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda independencia prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua antonio carlos 594 perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco b ap 525", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica torre 2 ap 551", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua joao paulo fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua jose bonifacio 8288 casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida castro alves 8154 ipanema", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda carlos gomes numero 8018 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem sao jose 6671 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim bloco b ap 224", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem 7 setembro 4987 prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa castro alves num 1024 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça padre anchieta prox oficina do pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça brasil em frente bar do francisco", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida tiradentes casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça coronel fabriciano n 2431 prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo dom pedro segundo casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco antonio carlos 6730 perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 72", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial jardim bloco a ap 949", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela joao paulo casa azul altura do posto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida 7 setembro n 5086 em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela coronel fabriciano em frente ao mercado patricia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada brasil sem numero portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça castro alves primeira casa perto da igreja", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida nova esperança 5372 cidade alta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "largo padre anchieta em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo independencia n 3 proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela pernambuco perto do ponto de onibus lucas", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça das industrias altura do posto patricia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada joao paulo num 9534 em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco joao paulo 9675 jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 2 ap 431", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores bloco b ap 820", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda sao jorge numero 3556 jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça antonio carlos numero 6915 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua santos dumont casa azul esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco b ap 786", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa brasil altura do posto lucas", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda coronel fabriciano num 447 perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores torre 2 ap 533", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco joao paulo sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça santos dumont 2252 esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco a ap 630", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos torre 2 ap 241", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa das industrias numero 1305 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 32", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores bloco b ap 698", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "travessa padre anchieta prox oficina do joão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida joao paulo, 3881 - boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia dos ipes numero 7985 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco antonio carlos num 6033 proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa pernambuco sem numero", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa das industrias 6705 proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo antonio carlos proximo ao colegio mackenzie", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua 7 setembro perto do ponto de onibus josé", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela dos ipes 4592 perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça castro alves fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada dos ipes n 155 bairro tijuca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial jardim torre 1 ap 738", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem padre anchieta numero 3405 eldorado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio residencial jardim torre 2 ap 423", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica torre 1 ap 568", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça sao jose num 515 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua tancredo neves n 3064 prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela antonio carlos 2070 jardim das oliveiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco getúlio vargas em frente bar do maria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo tiradentes prox oficina do carlos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda getúlio vargas numero 7603 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "como vai", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "beco coronel fabriciano s/n perto da delegacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa marechal deodoro primeira casa casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia tiradentes em frente bar do joão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica torre 2 ap 258", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco b ap 522", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela dom pedro segundo 9722 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "70439", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "viela tiradentes prox oficina do paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda dos ipes casa azul", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda nova esperança s/n em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "beco coronel fabriciano casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "estrada pernambuco fundos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo nova esperança num 4284 prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia tiradentes perto da delegacia ana", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada tancredo neves casa verde prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "maria santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "passagem quinze de novembro ultima casa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "carro 24", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça carlos gomes s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "80982", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rua coronel fabriciano num 3826 prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "passagem 7 setembro casa verde prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela santos dumont 3495 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia joao paulo num 7937 proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo sao jorge casa azul em frente ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada jose bonifacio esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "viela antonio carlos 7471 fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem independencia prox oficina do paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica torre 2 ap 191", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo padre anchieta casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda dos ipes n 6367 bairro jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 45", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rodovia marechal deodoro casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica torre 2 ap 528", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo nova esperança portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida tancredo neves primeira casa proximo ao colegio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo amazonas sem numero em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "av jose bonifacio em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio residencial santos bloco a ap 718", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 34", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio vila rica bloco b ap 477", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av sao jorge n 1879 perto da padaria", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua coronel fabriciano fundos prox oficina do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada juscelino kubitschek esquina com", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "largo tiradentes fundo do bar do antonio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa quinze de novembro em frente ao hospital", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda padre anchieta fundos fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua carlos gomes primeira casa fundo do bar do", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av tiradentes 5481 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "condominio condominio flores bloco a ap 654", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica torre 2 ap 141", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça castro alves 382 ao lado da farmacia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "passagem sao jorge n 7981 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av quinze de novembro, 5084 - campo grande", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia getúlio vargas num 9279 prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua jose bonifacio, 2327 - flamengo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça pernambuco prox escola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 94", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida santos dumont 1606 laranjeiras", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça nova esperança casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio condominio flores bloco a ap 888", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "alameda tancredo neves casa amarela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "livro 10", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "avenida carlos gomes casa da esquina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua das flores 123 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av brasil 1020 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua 7 setembro n 230 bairro vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua jose bonifacio n 45 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua santos dumont num 110 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua dos ipes numero 89 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua padre anchieta perto da igreja matriz", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av brasil em frente ao mercado bompreço", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua castro alves esquina com rua goias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua pernambuco esquina com av paulista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "condominio vila rica bloco b ap 302", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "bairro jardim das oliveiras quadra 5 lote 12", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa sao jorge casa amarela portao verde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua marechal deodoro 456 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av getúlio vargas 789 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça da matriz s/n centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa das flores 321 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda santos dumont 654 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "estrada do contorno km 12", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rodovia br 101 km 45", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua quinze de novembro em frente ao banco do brasil", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av tiradentes altura do posto ipiranga", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua coronel fabriciano prox ao shopping center", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça da liberdade ao lado da prefeitura", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua nova esperança sem numero prox oficina do joao", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua dom pedro segundo perto do ponto de onibus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av das industrias prox ao viaduto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua carlos gomes em frente bar do chico", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua amazonas proximo ao colegio marista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "de nada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "como vai você", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "tudo bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "joão silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "maria santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "pedro oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ana costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carlos ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "josé antonio", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "francisco pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "patricia lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "farmacia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "banco", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "amor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "montanha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "rio", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FBI", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBM", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "USP", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ONU", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "UNICEF", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "IBGE", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "INSS", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "SUS", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "DETRAN", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "12345", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "67890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "54321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "98765", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 25", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 45", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "escola 10", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praia 30", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "joão 15", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "maria 20", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 99", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "praça santos dumont 3698 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua coronel fabriciano 5713 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua santos dumont 6597 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua 7 setembro 2990 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida brasil 75 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av coronel fabriciano 8860 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua quinze de novembro 7170 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda dom pedro 6748 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda quinze de novembro 6655 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av quinze de novembro 6527 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av quinze de novembro 6158 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua brasil 1145 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda tiradentes 2715 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa tiradentes 5043 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua santos dumont 2752 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda coronel fabriciano 382 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua coronel fabriciano 1593 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida coronel fabriciano 9133 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av dom pedro 5738 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda das flores 1402 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida das flores 3860 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua tiradentes 5736 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av santos dumont 9631 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda quinze de novembro 5556 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av santos dumont 7351 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida quinze de novembro 1705 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa santos dumont 6546 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça dom pedro 4516 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda santos dumont 7173 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa 7 setembro 2020 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av tiradentes 9003 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa brasil 2842 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa tiradentes 7762 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa dom pedro 6384 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av das flores 1100 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua quinze de novembro 2717 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida coronel fabriciano 9506 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua coronel fabriciano 6854 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça das flores 6774 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa brasil 6897 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida brasil 7241 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua coronel fabriciano 2729 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av brasil 6396 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua dom pedro 4744 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua 7 setembro 1406 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av tiradentes 7884 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida santos dumont 7710 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda 7 setembro 1763 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa coronel fabriciano 2986 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda dom pedro 8713 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça brasil 6216 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida quinze de novembro 6586 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua coronel fabriciano 7396 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça das flores 2570 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda brasil 8437 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça tiradentes 8098 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida brasil 5327 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda dom pedro 5577 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida dom pedro 1185 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida 7 setembro 3396 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça brasil 3063 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av santos dumont 3560 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua getúlio vargas 3513 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda tiradentes 8123 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça getúlio vargas 5905 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça das flores 7337 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça coronel fabriciano 3291 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua tiradentes 1438 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua tiradentes 6041 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua brasil 2472 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida getúlio vargas 3097 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça das flores 982 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua brasil 9023 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av coronel fabriciano 6575 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa dom pedro 413 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa santos dumont 5627 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda 7 setembro 9840 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça 7 setembro 7865 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça das flores 2813 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua quinze de novembro 2523 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça getúlio vargas 1826 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa brasil 7285 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida coronel fabriciano 6901 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça brasil 1911 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av getúlio vargas 9357 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa dom pedro 8152 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa tiradentes 5124 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua coronel fabriciano 3438 santa monica", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua 7 setembro 5401 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa getúlio vargas 730 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa tiradentes 3055 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av 7 setembro 8135 centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "rua das flores 8262 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "alameda brasil 2788 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av getúlio vargas 8323 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "praça getúlio vargas 303 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "avenida brasil 425 vila nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av getúlio vargas 4112 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "av brasil 5280 boa vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "travessa coronel fabriciano 6680 jardim america", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "telefone 42", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 66", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 43", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "cadeira 72", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 10", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 49", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "mesa 71", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 60", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "cadeira 54", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "cadeira 68", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "mesa 100", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 52", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 80", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 92", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 24", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 82", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 70", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 30", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 15", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 98", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 43", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 73", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 35", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 42", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 13", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 15", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 50", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 80", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 10", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 39", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 97", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 28", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 24", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 57", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 43", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 82", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 1", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 94", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 48", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "cadeira 86", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 29", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 51", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 59", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 39", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "telefone 93", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 27", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "mesa 61", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "computador 17", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro 74", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "livro 70", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
