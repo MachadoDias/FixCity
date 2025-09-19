@@ -1,4 +1,5 @@
 const fetch = require('node-fetch');
+const client = require('../index.js');
 
 async function saveDemand(data) {
   const payload = {
@@ -31,4 +32,12 @@ async function saveDemand(data) {
   }
 }
 
-module.exports = { saveDemand };
+function sendDemandUpdates(requester_contact, requester, sector, status){
+  client.sendMessage(requester_contact, `Olá, sr(a) ${requester}! Sua demanda de ${sector} atualmente está ${status}`);
+}
+
+if(require.main === module){
+  sendDemandUpdates(process.argv[1], process.argv[2], process.argv[3], process.argv[4]);
+}
+
+module.exports = { saveDemand, sendDemandUpdates };

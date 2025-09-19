@@ -17,3 +17,5 @@ client.on('message', msg => {
   messageHandler(client, msg);
 });
 client.initialize();
+
+module.exports = client;

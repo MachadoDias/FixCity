@@ -22,7 +22,8 @@ def init_db():
                  requester_contact TEXT,
                  location TEXT,
                  status TEXT DEFAULT 'pending',
-                 created_at TEXT DEFAULT CURRENT_TIMESTAMP
+                 created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+                 changes TEXT
              )
          ''')
          conn.commit()
