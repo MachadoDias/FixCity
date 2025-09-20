@@ -168,11 +168,16 @@ def main():
         print("✅ Modelo carregado com sucesso")
     
     test_demands = [
-        "postinho sem vacina",
-        "vacina faltando",
-        "",
-        "a iluminação pública não funciona",
-        "preciso de ajuda com documentos"
+    "entao aqui na rua ta cheio de buraco carro quase caiu dentro ninguem arruma",
+    "calçada quebrada frente da escola criança tropeça cai toda hora faz favor arrumar",
+    "lombada que colocaram muito alta ta quebrando carro passa raspa tudo",
+    "a ponte ta quase caindo serio mesmo ta perigoso demais passa caminhão ali",
+    "bueiro afundado ja reclamei três vez ninguém resolve ta na rua tal",
+    "obra parou faz tempo era pra ser creche ta tudo largado cheio de mato",
+    "escada aqui do centro perigosa sem corrimão idoso caiu ontem",
+    "rua toda rachada parece que vai abrir no meio não da pra passar",
+    "ponto de onibus sem cobertura chuva molha todo mundo espera la",
+    "tem infiltração no tunel pinga agua molha motoqueiro quase caiu"
     ]
     
     for text_setor in test_demands:

@@ -1,8 +1,8 @@
 {
-  "labels": [
+  "labels":[
     "IS_ADDRESS",
     "NOT_ADDRESS"
   ],
-  "threshold": 0.0,
-  "positive_label": null
+  "threshold":0.0,
+  "positive_label":null
 }
