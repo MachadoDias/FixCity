@@ -2,6 +2,7 @@ import spacy # type: ignore
 import os
 import sys
 import json
+import unicodedata
 
 class DemandClassifier:
     def __init__(self, model_path="classifier/modelo_setor"):
@@ -43,7 +44,13 @@ class DemandClassifier:
             "confidence": confidence,
             "all_scores": dict(doc.cats) if doc.cats else {}
         }
-    
+
+def normalizeText(text: str):
+    text = text.lower()
+    text = unicodedata.normalize('NFD', text)
+    text = text.encode('ascii', 'ignore').decode('utf-8')
+    return text
+
 def main():
     if len(sys.argv) < 2:
         print(json.dumps({"error" : "parametros nao fornecidos"}))
@@ -51,7 +58,7 @@ def main():
     text = sys.argv[1]
     classifier = DemandClassifier()
     result = classifier.classify(text)
-    if result and result["category"] == sys.argv[2]:
+    if result and result["category"] == normalizeText(sys.argv[2]):
         print(json.dumps(True))
     else:
         print(json.dumps(False))
