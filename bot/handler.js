@@ -43,14 +43,14 @@ async function messageHandler(client, message) {
                         VerifyNumberOfTries(client, message);
                     }
                     else {
-                        await client.sendMessage(userId, "Certo! Agora me diga o endereço da demanda");
+                        await client.sendMessage(userId, "Certo! Agora me diga o endereço da demanda, você pode digitar ou compartilhar a localização");
                         setUserState(userId, "waitingAddress");
                         setUserData(userId, "descricao", message.body);
                         setUserData(userId, "numeroDeTentativas", 0);
                     }
                     break;
                 case "waitingAddress":
-                    const enderecoValido = await verifyAddress(message.body);
+                    const enderecoValido = message.type ==='location' || await verifyAddress(message.body);
                     if (!enderecoValido){
                         await client.sendMessage(userId, "O endereço que você enviou parece estar errado, pode tentar de novo?");
                         VerifyNumberOfTries(client, message);
@@ -58,7 +58,7 @@ async function messageHandler(client, message) {
                     else {
                         await client.sendMessage(userId, "Perfeito! Agora me diga seu nome completo. Por favor, envie apenas o nome nesta mensagem para que eu possa entender corretamente.");
                         setUserState(userId, "waitingName");
-                        setUserData(userId, "endereco", message.body);
+                        setUserData(userId, "endereco", message.type === 'location' ? message.location.address : message.body);
                         setUserData(userId, "numeroDeTentativas", 0);
                     }
                     break;

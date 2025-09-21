@@ -13,7 +13,7 @@ client.on('ready', () => {
   console.log('client is ready');
 });
 client.on('message', msg => {
-  if(msg.hasMedia) console.log("bjhbdkedkw");
+  if(msg.from.endsWith('@g.us')) return;
   messageHandler(client, msg);
 });
 client.initialize();
