@@ -9,7 +9,7 @@ class Config:
     SECRET_KEY = os.environ.get('SECRET_KEY') or 'dev-secret-key-fixcity'
     
     # Configurações do banco de dados
-    DB_PATH = os.path.join(os.path.dirname(__file__), 'data', 'demands.db')
+    DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'demands.db')
     
     # Configurações CORS
     CORS_ORIGINS = ['http://localhost:5173', 'http://127.0.0.1:5173']

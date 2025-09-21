@@ -31,16 +31,16 @@ async function messageHandler(client, message) {
                         setUserData(userId, "numeroDeTentativas", 0);
                     } 
                     else {
-                        await client.sendMessage(userId, "Opção inválida. Digite 1, 2, 3 ou 4.");
-                        VerifyNumberOfTries(client, message);
+                        if(VerifyNumberOfTries(client, message))
+                            await client.sendMessage(userId, "Opção inválida. Digite 1, 2, 3 ou 4.");
                     }
                     break;
                 case "waitingDescription":
                     const userData = getUserData(userId);
                     const descricaoValida = await verifyDescription(message.body, userData.setor);
                     if (!descricaoValida){
-                        await client.sendMessage(userId, "A descrição que você enviou não parece estar relacionada ao setor informado, pode tentar de novo?");
-                        VerifyNumberOfTries(client, message);
+                        if(VerifyNumberOfTries(client, message))
+                            await client.sendMessage(userId, "A descrição que você enviou não parece estar relacionada ao setor informado, pode tentar de novo?");
                     }
                     else {
                         await client.sendMessage(userId, "Certo! Agora me diga o endereço da demanda, você pode digitar ou compartilhar a localização");
@@ -52,8 +52,8 @@ async function messageHandler(client, message) {
                 case "waitingAddress":
                     const enderecoValido = message.type ==='location' || await verifyAddress(message.body);
                     if (!enderecoValido){
-                        await client.sendMessage(userId, "O endereço que você enviou parece estar errado, pode tentar de novo?");
-                        VerifyNumberOfTries(client, message);
+                        if(VerifyNumberOfTries(client, message))
+                            await client.sendMessage(userId, "O endereço que você enviou parece estar errado, pode tentar de novo?");
                     }
                     else {
                         await client.sendMessage(userId, "Perfeito! Agora me diga seu nome completo. Por favor, envie apenas o nome nesta mensagem para que eu possa entender corretamente.");
@@ -65,8 +65,8 @@ async function messageHandler(client, message) {
                 case "waitingName":
                     const nomeValido = await verifyName(message.body);
                     if (!nomeValido){
-                        await client.sendMessage(userId, "O nome que você enviou não parece estar certo, pode tentar de novo?");
-                        VerifyNumberOfTries(client, message);
+                        if(VerifyNumberOfTries(client, message))
+                            await client.sendMessage(userId, "O nome que você enviou não parece estar certo, pode tentar de novo?");
                     }
                     else {
                         await client.sendMessage(userId, "Tudo certo! Deseja adicionar alguma imagem na sua solicitação? Digite 1 para sim e 2 para não");
