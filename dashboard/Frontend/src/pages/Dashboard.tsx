@@ -83,31 +83,61 @@ const Dashboard: React.FC = () => {
     }
   ]
 
-  const monthlyData = [
-    { month: 'Jan', demandas: 120, resolvidas: 110 },
-    { month: 'Fev', demandas: 135, resolvidas: 125 },
-    { month: 'Mar', demandas: 148, resolvidas: 140 },
-    { month: 'Abr', demandas: 162, resolvidas: 155 },
-    { month: 'Mai', demandas: 175, resolvidas: 168 },
-    { month: 'Jun', demandas: 190, resolvidas: 182 }
-  ]
+  // Gerar dados mensais baseados nas demandas reais
+  const monthlyData = React.useMemo(() => {
+    const months = ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez']
+    const currentMonth = new Date().getMonth()
+    const data = []
+    
+    for (let i = 0; i < 6; i++) {
+      const monthIndex = (currentMonth - 5 + i + 12) % 12
+      const monthName = months[monthIndex]
+      
+      const monthDemands = demands.filter(d => {
+        if (!d.created_at) return false
+        const demandMonth = new Date(d.created_at).getMonth()
+        return demandMonth === monthIndex
+      })
+      
+      data.push({
+        month: monthName,
+        demandas: monthDemands.length,
+        resolvidas: monthDemands.filter(d => d.status === 'resolved').length
+      })
+    }
+    
+    return data
+  }, [demands])
 
   const categoryData = [
-    { name: 'Iluminação', value: demands.filter(d => d.title === 'Iluminação').length, color: '#3B82F6' },
-    { name: 'Obras', value: demands.filter(d => d.title === 'Obras').length, color: '#8B5CF6' },
-    { name: 'Limpeza', value: demands.filter(d => d.title === 'Limpeza').length, color: '#10B981' },
-    { name: 'Saúde', value: demands.filter(d => d.title === 'Saúde').length, color: '#EF4444' }
+    { name: 'Iluminação', value: demands.filter(d => d.title?.toLowerCase().includes('iluminação') || d.description?.toLowerCase().includes('iluminação')).length, color: '#3B82F6' },
+    { name: 'Obras', value: demands.filter(d => d.title?.toLowerCase().includes('obra') || d.description?.toLowerCase().includes('obra')).length, color: '#8B5CF6' },
+    { name: 'Limpeza', value: demands.filter(d => d.title?.toLowerCase().includes('limpeza') || d.description?.toLowerCase().includes('limpeza')).length, color: '#10B981' },
+    { name: 'Saúde', value: demands.filter(d => d.title?.toLowerCase().includes('saúde') || d.description?.toLowerCase().includes('saúde')).length, color: '#EF4444' },
+    { name: 'Outros', value: demands.filter(d => {
+      const text = (d.title + ' ' + (d.description || '')).toLowerCase()
+      return !text.includes('iluminação') && !text.includes('obra') && !text.includes('limpeza') && !text.includes('saúde')
+    }).length, color: '#6B7280' }
   ].filter(item => item.value > 0)
 
-  const weeklyData = [
-    { day: 'Seg', demandas: 45 },
-    { day: 'Ter', demandas: 52 },
-    { day: 'Qua', demandas: 38 },
-    { day: 'Qui', demandas: 61 },
-    { day: 'Sex', demandas: 55 },
-    { day: 'Sáb', demandas: 28 },
-    { day: 'Dom', demandas: 15 }
-  ]
+  // Gerar dados semanais baseados nas demandas reais
+  const weeklyData = React.useMemo(() => {
+    const days = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb']
+    const data = days.map((day, index) => {
+      const dayDemands = demands.filter(d => {
+        if (!d.created_at) return false
+        const demandDay = new Date(d.created_at).getDay()
+        return demandDay === index
+      })
+      
+      return {
+        day,
+        demandas: dayDemands.length
+      }
+    })
+    
+    return data
+  }, [demands])
 
   const recentActivities = demands.slice(0, 4).map(demand => ({
     id: demand.id || 0,

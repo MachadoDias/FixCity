@@ -99,6 +99,7 @@ const Demandas: React.FC = () => {
   const [newStatus, setNewStatus] = useState('')
   const [statusObservacao, setStatusObservacao] = useState('')
   const [demandas, setDemandas] = useState<Demanda[]>([])
+  const [apiDemands, setApiDemands] = useState<Demand[]>([])
   const [loading, setLoading] = useState(true)
   const [showDeleteModal, setShowDeleteModal] = useState(false)
   const [deleteReason, setDeleteReason] = useState('')
@@ -110,8 +111,9 @@ const Demandas: React.FC = () => {
     const loadDemands = async () => {
       try {
         setLoading(true)
-        const apiDemands = await apiService.getDemands()
-        const mappedDemands = apiDemands.map(mapApiDemandToLocal)
+        const fetchedApiDemands = await apiService.getDemands()
+        const mappedDemands = fetchedApiDemands.map(mapApiDemandToLocal)
+        setApiDemands(fetchedApiDemands)
         setDemandas(mappedDemands)
       } catch (error) {
         console.error('Erro ao carregar demandas:', error)
@@ -371,26 +373,34 @@ const Demandas: React.FC = () => {
             </motion.div>
 
             {/* Foto */}
-            {selectedDemanda.foto && (
-              <motion.div
-                initial={{ opacity: 0, x: -20 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: 0.3 }}
-                className="bg-white rounded-xl shadow-lg p-6"
-              >
-                <h3 className="text-xl font-semibold text-gray-900 mb-6 flex items-center">
-                  <Camera className="w-5 h-5 mr-2" />
-                  Foto da Demanda
-                </h3>
-                <div className="relative">
-                  <img 
-                    src={selectedDemanda.foto} 
-                    alt="Foto da demanda" 
-                    className="w-full max-w-md rounded-lg shadow-md"
-                  />
-                </div>
-              </motion.div>
-            )}
+            {(() => {
+              const apiDemand = apiDemands.find(d => d.id === selectedDemanda.id)
+              return apiDemand?.image_path && (
+                <motion.div
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: 0.3 }}
+                  className="bg-white rounded-xl shadow-lg p-6"
+                >
+                  <h3 className="text-xl font-semibold text-gray-900 mb-6 flex items-center">
+                    <Camera className="w-5 h-5 mr-2" />
+                    Foto da Demanda
+                  </h3>
+                  <div className="relative">
+                    <img 
+                      src={apiDemand.image_path} 
+                      alt="Foto da demanda" 
+                      className="w-full max-w-md rounded-lg shadow-md"
+                      onError={(e) => {
+                        const target = e.target as HTMLImageElement
+                        target.style.display = 'none'
+                        target.parentElement!.innerHTML = '<div class="text-gray-500 text-center p-8 border-2 border-dashed border-gray-300 rounded-lg">Erro ao carregar imagem</div>'
+                      }}
+                    />
+                  </div>
+                </motion.div>
+              )
+            })()}
           </div>
 
           {/* Sidebar direita */}
@@ -788,6 +798,9 @@ const Demandas: React.FC = () => {
             <thead className="bg-gray-50">
               <tr>
                 <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                  Foto
+                </th>
+                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                   Demanda
                 </th>
                 <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
@@ -808,8 +821,33 @@ const Demandas: React.FC = () => {
               </tr>
             </thead>
             <tbody className="bg-white divide-y divide-gray-200">
-              {filteredDemandas.map((demanda) => (
+              {filteredDemandas.map((demanda) => {
+                // Mapear demanda da API para formato local
+                const apiDemand = apiDemands.find(d => d.id === demanda.id)
+                
+                return (
                 <tr key={demanda.id} className="hover:bg-gray-50 transition-colors duration-200">
+                  <td className="px-6 py-4">
+                    <div className="w-16 h-16 rounded-lg overflow-hidden bg-gray-100 flex items-center justify-center">
+                      {apiDemand?.image_path ? (
+                        <img 
+                          src={apiDemand.image_path} 
+                          alt="Foto da demanda" 
+                          className="w-full h-full object-cover"
+                          onError={(e) => {
+                            const target = e.target as HTMLImageElement
+                            target.style.display = 'none'
+                            target.parentElement!.innerHTML = '<div class="text-gray-400 text-xs text-center"><svg class="w-6 h-6 mx-auto mb-1" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M4 3a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V5a2 2 0 00-2-2H4zm12 12H4l4-8 3 6 2-4 3 6z" clip-rule="evenodd"></path></svg>Sem foto</div>'
+                          }}
+                        />
+                      ) : (
+                        <div className="text-gray-400 text-xs text-center">
+                          <Camera className="w-6 h-6 mx-auto mb-1" />
+                          Sem foto
+                        </div>
+                      )}
+                    </div>
+                  </td>
                   <td className="px-6 py-4">
                     <div>
                       <div className="text-sm font-medium text-gray-900">{demanda.titulo}</div>
@@ -854,7 +892,8 @@ const Demandas: React.FC = () => {
                     </button>
                   </td>
                 </tr>
-              ))}
+              )})
+              }
             </tbody>
           </table>
         </div>

@@ -39,9 +39,12 @@ npm install
 conda activate chatbot
 
 # Execute o backend
-python start_backend.py
+cd dashboard/backend
+python main.py
 ```
 Backend disponível em: http://localhost:5000
+
+
 
 #### Frontend (React)
 ```bash
@@ -84,11 +87,13 @@ FixCity/
 - ✅ Banco de dados SQLite
 - ✅ CORS configurado
 - ✅ Estrutura de dados padronizada
+- ✅ Suporte para upload de imagens
 
 ### Frontend (React)
 - ✅ Interface moderna com Tailwind CSS
 - ✅ Gestão de demandas em tempo real
-- ✅ Gráficos e relatórios
+- ✅ Gráficos dinâmicos baseados em dados reais
+- ✅ Exibição de fotos das demandas
 - ✅ Sistema de autenticação
 - ✅ Integração completa com API
 
@@ -97,12 +102,27 @@ FixCity/
 - ✅ Mapeamento de dados automático
 - ✅ Tratamento de erros
 - ✅ Estados de loading
+- ✅ Gráficos com dados em tempo real
 
 ## URLs do Sistema
 
 - **Frontend**: http://localhost:5173
 - **Backend API**: http://localhost:5000/api
 - **Documentação da API**: Ver API_DOCS.md
+
+## Correções Implementadas
+
+### ✅ Gráficos Corrigidos
+- **Demandas por Categoria**: Agora usa dados reais das demandas
+- **Atividades Recentes**: Baseado nas demandas reais do banco
+- **Dados Mensais**: Calculados dinamicamente dos últimos 6 meses
+- **Dados Semanais**: Baseados na distribuição real por dia da semana
+
+### ✅ Fotos das Demandas
+- **Lista de Demandas**: Coluna de foto adicionada na tabela
+- **Visualização Detalhada**: Exibição da foto em tamanho maior
+- **Tratamento de Erros**: Fallback quando imagem não carrega
+- **Placeholder**: Ícone quando não há foto disponível
 
 ## Desenvolvimento
 
@@ -111,10 +131,10 @@ FixCity/
 # Listar demandas
 curl http://localhost:5000/api/demands
 
-# Criar demanda
+# Criar demanda com foto
 curl -X POST http://localhost:5000/api/demands \
   -H "Content-Type: application/json" \
-  -d '{"title":"Teste","requester":"João","location":"Rua A"}'
+  -d '{"title":"Iluminação","description":"Poste queimado","requester":"João","location":"Rua A","image_path":"https://example.com/foto.jpg"}'
 ```
 
 ### Logs
