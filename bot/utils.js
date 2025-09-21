@@ -15,9 +15,9 @@ function VerifyNumberOfTries(client, message){
   if(userData.numeroDeTentativas > 2){
     client.sendMessage(userId, "Infelizmente não foi possível registrar sua demanda");
     clearUserState(userId);
-    return;
+    return false;
   }
   setUserData(userId, "numeroDeTentativas", userData.numeroDeTentativas + 1);
-  return false;
+  return true;
 }
 module.exports = {getCurrentTimestamp, logError, generateDemandId, VerifyNumberOfTries};
