@@ -1398,3 +1398,911 @@
 {"text": "Pedro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
 {"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
 {"text": "Adriana Santos Rossi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Aline Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafael Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alameda Carro 145", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruna Lima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Patricia Santos Schmidt", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Oliveira Santos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline Ribeiro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Escola 348", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bruno Santos Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra Lima Schneider", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Marcos Pereira Silva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raimundo Oliveira", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alaíde", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alessandra", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alice", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aline", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amélia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Beatriz", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Carolina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Clara", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Júlia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Laura", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Luiza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Maria", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ana Paula", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Andreia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antônia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aparecida", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ariane", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aurora", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Beatriz", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Benedita", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bianca", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Brenda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruna", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bárbara", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Camila", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carla", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carolina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Catarina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cecília", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Clara", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Clarice", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cláudia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Conceição", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cristiane", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cristina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cássia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daiane", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Dalva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniele", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Denise", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Diana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Dulce", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Débora", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Edna", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eduarda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Elaine", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eliane", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Elisa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eloá", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Emanuela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Emília", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Estela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eva", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Evelin", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Evelyn", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fabiana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fernanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Flávia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisca", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fátima", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Gabriela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Geovana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Geovanna", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Giovana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Giovanna", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Graciela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Graça", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Helena", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Heloísa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ingrid", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Inês", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Iolanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Irene", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Isabel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Isabela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Isabelly", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Isadora", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ivone", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ivonete", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jaqueline", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Josefa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Josefina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Joyce", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Juliana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jéssica", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Júlia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Kamila", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Karina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Karol", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Kelly", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ketlin", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Keyla", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Kátia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lara", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Larissa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Laura", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Laurinda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leila", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Letícia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Liliane", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lorena", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciene", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucrécia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luzia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luísa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lígia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lívia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Madalena", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Magda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maiara", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Manuela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mara", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Margarida", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Aparecida", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Clara", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Eduarda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Fernanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria José", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Luiza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Rita", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maria Vitória", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mariana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marta", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Maura", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Melissa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Milena", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mirian", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Márcia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mônica", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Naiane", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Natália", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Nicole", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Nilza", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Noemi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Norma", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Nádia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olga", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olívia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Paloma", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Patrícia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Paula", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Paulina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Poliana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Priscila", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Quitéria", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafaela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rebeca", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Regina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Renata", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rita", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Roberta", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rosa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rosana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rosemeire", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rosângela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rute", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sabrina", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Samara", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandra", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Silvana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Silvia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Simone", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Socorro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Stella", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Suzana", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sônia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Talita", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Tatiane", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Telma", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Teresa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Thaissa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Thalita", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Thaís", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Tâmara", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Tânia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Valéria", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vanessa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vera", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Verônica", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Victória", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vitória", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vivian", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Viviane", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Waleska", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Wanda", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Wanessa", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Wânia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Yara", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Yasmim", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Yasmin", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Zenaide", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Zélia", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ângela", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Érica", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Íris", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adalberto", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adriano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Adão", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Agostinho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Airton", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alceu", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alejandro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alex", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alexandre", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alisson", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Allan", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Aloísio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Altair", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Alvaro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amarildo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Amauri", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Américo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Anderson", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "André", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Anselmo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Antônio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Arthur", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Augusto", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ayrton", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Baltazar", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Benedito", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Benjamim", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bernardo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Breno", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bruno", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Bryan", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Caetano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Caio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Calebe", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Carlos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cassiano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cláudio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cléber", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cristiano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cristóvão", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Cássio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "César", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Daniel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Danilo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Davi", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "David", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Demétrio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Diego", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Diogo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Domingos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Douglas", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Décio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Edison", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Edmilson", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Edson", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eduardo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Elias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eliezer", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Emanuel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Enrico", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Enzo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Erick", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Eron", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Evandro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fabiano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Felipe", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fernando", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Flávio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Francisco", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Frederico", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Fábio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Gabriel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Gaspar", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Genivaldo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "George", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Geovani", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Gilberto", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Giovanni", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Giuliano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Guilherme", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Gustavo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Heitor", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Henrique", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Hugo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Humberto", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ian", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Igor", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Isaac", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ismael", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Israel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ivan", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jackson", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jair", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jairo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jamerson", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jeferson", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jerônimo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jonas", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jonathan", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Jorge", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Alberto", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Antonio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Antônio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Augusto", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Carlos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Claudio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Eduardo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Fernando", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Francisco", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Gabriel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Henrique", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Junior", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Luiz", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Maria", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Miguel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Paulo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Pedro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Rafael", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Raimundo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Ricardo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Roberto", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Roberto", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Vicente", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Vitor", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "José Wilson", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "João", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Júlio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Júnior", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Kaio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Kaique", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Kauã", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Kevin", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Laerte", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leandro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Leonardo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lorenzo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Lucas", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luciano", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luis Fernando", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luiz", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luiz Carlos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luiz Fernando", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luiz Henrique", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Luís", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcelo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marco", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Antônio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Paulo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcos Vinícius", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Marcus", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mateus", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Matheus", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mauro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Miguel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Milton", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Moacir", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Murilo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Márcio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Mário", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Natanael", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Nathan", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Nicolas", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Nilson", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Nilton", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Nélson", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Octávio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Olavo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Orlando", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Osvaldo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Otávio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pablo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Paulo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Paulo César", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Paulo Henrique", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Paulo Sérgio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Augusto", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Henrique", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Lucas", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Miguel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Paulo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Pedro Rafael", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rafael", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raimundo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Raul", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Reginaldo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Renan", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Renato", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ricardo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Roberto", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rodolfo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rodrigo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rogério", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Romário", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ronaldo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Roney", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ruan", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Rubens", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Salvador", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Samuel", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sandro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sebastião", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sidnei", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Silvio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Simão", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Sérgio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Tadeu", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Tarcísio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Teodoro", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Tiago", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Tomás", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Toninho", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Túlio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Valdir", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Valter", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vanderlei", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vicente", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Victor", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Vinícius", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Virgílio", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Wagner", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Wallace", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Walter", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Washington", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Wellington", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Wesley", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Wilian", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "William", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Yago", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Yan", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ygor", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Yuri", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Zacarias", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ângelo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "Ítalo", "labels": {"IS_NAME": 1, "NOT_NAME": 0}}
+{"text": "43982", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Talvez", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "7191", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Caneta", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Grande", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "37487", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "DEF456", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "66097", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanhã", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83745", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IVX", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Brasil", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ABCD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NDS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "92623", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "123", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "69779", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "456", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "KHW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "62221", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Tempo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "71906", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Papel", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Trabalho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Dinheiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "89803", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Velho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Não", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Manhã", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "QSCW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Azul", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cadeira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "72308", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FCRD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "76889", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "99805", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "VOV", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Feio", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sim", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bonito", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Janeiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "WDL", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Casa", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Verde", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BEP", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Segunda-feira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "93936", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vida", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rio de Janeiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IADT", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FC", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "São Paulo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "77365", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Água", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ontem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "EZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mesa", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BGW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "56890", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Noite", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fevereiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Nunca", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pequeno", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Comida", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Terça-feira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sempre", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ABC123", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "XYZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83798", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NKZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "5448", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BNXU", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mundo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Hoje", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Tarde", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vermelho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Novo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "OFF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "36968", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "51820", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "43982", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Talvez", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "7191", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Caneta", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Grande", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "37487", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "DEF456", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "66097", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanhã", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83745", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IVX", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Brasil", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ABCD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NDS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "92623", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "123", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "69779", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "456", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "KHW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "62221", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Tempo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "71906", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Papel", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Trabalho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Dinheiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "89803", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Velho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Não", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Manhã", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "QSCW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Azul", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cadeira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "72308", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FCRD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "76889", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "99805", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "VOV", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Feio", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sim", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bonito", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Janeiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "WDL", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Casa", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Verde", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BEP", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Segunda-feira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "93936", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vida", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rio de Janeiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IADT", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FC", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "São Paulo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "77365", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Água", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ontem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "EZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mesa", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BGW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "56890", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Noite", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fevereiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Nunca", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pequeno", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Comida", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Terça-feira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sempre", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ABC123", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "XYZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83798", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NKZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "5448", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BNXU", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mundo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Hoje", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Tarde", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vermelho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Novo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "OFF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "36968", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "51820", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "43982", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Talvez", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "7191", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Caneta", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Grande", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "37487", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "DEF456", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "66097", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanhã", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83745", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IVX", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Brasil", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ABCD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NDS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "92623", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "123", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "69779", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "456", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "KHW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "62221", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Tempo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "71906", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Papel", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Trabalho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Dinheiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "89803", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Velho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Não", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Manhã", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "QSCW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Azul", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cadeira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "72308", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FCRD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "76889", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "99805", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "VOV", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Feio", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sim", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bonito", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Janeiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "WDL", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Casa", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Verde", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BEP", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Segunda-feira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "93936", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vida", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rio de Janeiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IADT", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FC", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "São Paulo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "77365", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Água", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ontem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "EZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mesa", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BGW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "56890", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Noite", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fevereiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Nunca", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pequeno", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Comida", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Terça-feira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sempre", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ABC123", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "XYZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83798", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NKZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "5448", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BNXU", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mundo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Hoje", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Tarde", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vermelho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Novo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "OFF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "36968", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "51820", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "43982", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Talvez", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "7191", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Caneta", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Grande", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "37487", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "DEF456", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "66097", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanhã", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83745", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IVX", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Brasil", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ABCD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NDS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "92623", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "123", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "69779", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "456", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "KHW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "62221", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Tempo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "71906", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Papel", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Trabalho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Dinheiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "89803", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Velho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Não", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Manhã", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "QSCW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Azul", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cadeira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "72308", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FCRD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "76889", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "99805", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "VOV", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Feio", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sim", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bonito", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Janeiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "WDL", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Casa", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Livro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Verde", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BEP", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Segunda-feira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "93936", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vida", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rio de Janeiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Obrigado", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IADT", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FC", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "São Paulo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Alameda Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "77365", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Água", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Ontem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "EZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mesa", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Banana", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BGW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "56890", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Noite", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Fevereiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Nunca", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Telefone", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Travessa Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Pequeno", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Comida", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Terça-feira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sempre", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ABC123", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "XYZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83798", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NKZ", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amor", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "5448", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Avenida Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "BNXU", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Mundo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Hoje", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Tarde", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Vermelho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Novo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "OFF", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Bom dia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "36968", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "51820", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "43982", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Talvez", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "7191", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Caneta", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Computador", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Grande", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "37487", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "DEF456", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "66097", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Amanhã", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "83745", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Praça Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "IVX", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cidade", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Brasil", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "ABCD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "NDS", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "92623", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "123", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Olá tudo bem", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "69779", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "456", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "KHW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "62221", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Tempo", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "71906", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Carro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Papel", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Trabalho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Dinheiro", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "89803", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Velho", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Não", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Como vai você?", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Manhã", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "QSCW", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Azul", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Cadeira", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "72308", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "FCRD", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "76889", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "99805", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Rua Praia", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Escola", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "VOV", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Feio", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}
+{"text": "Sim", "labels": {"IS_NAME": 0, "NOT_NAME": 1}}

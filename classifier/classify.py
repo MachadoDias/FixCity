@@ -241,11 +241,7 @@ def main():
         print("✅ Modelo de nome carregado")
     
     test_names = [
-        "João Silva",
-        "Maria Santos",
-        "Pedro Oliveira",
-        "Ana Costa",
-        "Carlos Ferreira"
+       "Guilherme Vilas Boas"
     ]
     
     for name in test_names:
