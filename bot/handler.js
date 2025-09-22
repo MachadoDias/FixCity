@@ -1,9 +1,9 @@
-const { logError, generateDemandId } = require('./utils.js');
+const { logError, generateDemandId, VerifyNumberOfTries } = require('./utils.js');
 const { verifyDescription, verifyAddress, verifyName } = require('./api/classifier.js');
 const { saveDemand } = require('./api/backend.js');
 const { setUserState, getUserState, clearUserState, setUserData, getUserData } = require('./state.js');
 
-const sectors = ["iluminacao", "limpeza", "obras", "saude"];
+const sectors = ["Iluminação", "Limpeza", "Obras", "Saúde"];
 
 // msg inicial -> desc problema -> endereco -> nome -> foto
 
@@ -12,12 +12,13 @@ async function messageHandler(client, message) {
         const userId = message.from;
         const userState = getUserState(userId);
 
-        if (message.fromMe || !message.body) return;
+        if (message.fromMe) return;
 
         if (!userState) {
-            await client.sendMessage(userId, "👋 Olá, seja bem-vindo(a) ao nosso atendimento! Para começarmos, por favor, informe o setor da sua demanda: \n1 Iluminação \n2 Limpeza \n3 Obras \n4 Saúde \nDigite o número do setor correspondente à sua solicitação");
+            await client.sendMessage(userId, "👋 Olá, seja bem-vindo(a) ao nosso atendimento! Para começarmos, por favor, informe o setor da sua demanda: \n1 Iluminação (quedas constantes de energia, poste queimado)\n2 Limpeza (animal morto, lixos ou galhos na rua) \n3 Obras (árvore caída, ponte quebrada, esgoto, buraco na rua) \n4 Saúde (falta de vacinas, intoxicação alimentar) \nDigite o número do setor correspondente à sua solicitação");
             setUserData(userId, {});
             setUserState(userId, "waitingSector");
+            setUserData(userId, "numeroDeTentativas", 0);
         }
         else {
             switch (userState) {
@@ -27,45 +28,58 @@ async function messageHandler(client, message) {
                         setUserState(userId, "waitingDescription");
                         setUserData(userId, "setor", sectors[choice - 1]);
                         await client.sendMessage(userId, "Entendi! Agora descreva o problema");
+                        setUserData(userId, "numeroDeTentativas", 0);
                     } 
                     else {
-                        await client.sendMessage(userId, "Opção inválida. Digite 1, 2, 3 ou 4.");
+                        if(VerifyNumberOfTries(client, message))
+                            await client.sendMessage(userId, "Opção inválida. Digite 1, 2, 3 ou 4.");
                     }
                     break;
                 case "waitingDescription":
                     const userData = getUserData(userId);
                     const descricaoValida = await verifyDescription(message.body, userData.setor);
-                    if (!descricaoValida)
-                        await client.sendMessage(userId, "A descrição que você enviou não parece estar relacionada ao setor informado, pode tentar de novo?");
+                    if (!descricaoValida){
+                        if(VerifyNumberOfTries(client, message))
+                            await client.sendMessage(userId, "A descrição que você enviou não parece estar relacionada ao setor informado, pode tentar de novo?");
+                    }
                     else {
-                        await client.sendMessage(userId, "Certo! Agora me diga o endereço da demanda");
+                        await client.sendMessage(userId, "Certo! Agora me diga o endereço da demanda, você pode digitar ou compartilhar a localização");
                         setUserState(userId, "waitingAddress");
                         setUserData(userId, "descricao", message.body);
+                        setUserData(userId, "numeroDeTentativas", 0);
                     }
                     break;
                 case "waitingAddress":
-                    const enderecoValido = await verifyAddress(message.body);
-                    if (!enderecoValido)
-                        await client.sendMessage(userId, "O endereço que você enviou parece estar errado, pode tentar de novo?");
+                    const enderecoValido = message.type ==='location' || await verifyAddress(message.body);
+                    if (!enderecoValido){
+                        if(VerifyNumberOfTries(client, message))
+                            await client.sendMessage(userId, "O endereço que você enviou parece estar errado, pode tentar de novo?");
+                    }
                     else {
                         await client.sendMessage(userId, "Perfeito! Agora me diga seu nome completo. Por favor, envie apenas o nome nesta mensagem para que eu possa entender corretamente.");
                         setUserState(userId, "waitingName");
-                        setUserData(userId, "endereco", message.body);
+                        setUserData(userId, "endereco", message.type === 'location' ? message.location.address : message.body);
+                        setUserData(userId, "numeroDeTentativas", 0);
                     }
                     break;
                 case "waitingName":
                     const nomeValido = await verifyName(message.body);
-                    if (!nomeValido)
-                        await client.sendMessage(userId, "O nome que você enviou não parece estar certo, pode tentar de novo?");
+                    if (!nomeValido){
+                        if(VerifyNumberOfTries(client, message))
+                            await client.sendMessage(userId, "O nome que você enviou não parece estar certo, pode tentar de novo?");
+                    }
                     else {
                         await client.sendMessage(userId, "Tudo certo! Deseja adicionar alguma imagem na sua solicitação? Digite 1 para sim e 2 para não");
                         setUserState(userId, "askingForImage");
                         setUserData(userId, "nome", message.body);
+                        setUserData(userId, "numeroDeTentativas", 0);
                     }
                     break;
                 case "askingForImage":
                     if (message.body == 1) {
                         setUserState(userId, "waitingImage");
+                        client.sendMessage(userId, "Ok, envie sua imagem");
+                        break;
                     }
                     else if (message.body == 2) {
                         const userData = getUserData(userId);
@@ -81,10 +95,13 @@ async function messageHandler(client, message) {
                         await client.sendMessage(userId, '✅ Sua demanda foi registrada com sucesso!');
                         break;
                     }
+                    VerifyNumberOfTries(client, message);
                 case "waitingImage":
+                    console.log("entrou no switch");
                     const fs = require('fs');
                     const mime = require('mime-types');
-                    if (message.type === 'image' && message.hasMedia) {
+                    if (message.hasMedia) {
+                        console.log("entrou no if");
                         const media = await message.downloadMedia();
                         const buffer = Buffer.from(media.data, 'base64');
                         const extension = mime.extension(message.mimetype) || 'jpg';
@@ -108,6 +125,7 @@ async function messageHandler(client, message) {
                         await client.sendMessage(userId, '✅ Sua demanda foi registrada com sucesso!');
                         return;
                     }
+                    VerifyNumberOfTries(client, message);
             }
         }
     }

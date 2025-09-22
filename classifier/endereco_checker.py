@@ -50,7 +50,7 @@ def main():
     text = sys.argv[1]
     classifier = AddressClassifier()
     result = classifier.classify(text)
-    if result and result["category"] == "IS_ADDRESS" and result["confidence"] >= 0.9:
+    if result and result["category"] == "IS_ADDRESS" and result["confidence"] >= 0.85:
         print(json.dumps(True))
     else:
         print(json.dumps(False))

@@ -44,4 +44,6 @@ data/uploads/
 .DS_Store
 Thumbs.db
 
-tokens
+.wwebjs_auth/
+.wwebjs_cache/
+

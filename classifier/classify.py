@@ -177,7 +177,7 @@ def main():
     "terreno baldio virando lixao 😠",
     "resto de feira apodrecendo 🤢",
     "boca de lobo entupida td alagado 🌧️",
-    "coleta atrasada ngm passou 😡"
+    "poste queimado"
     ]
     
     for text_setor in test_demands:
@@ -241,7 +241,11 @@ def main():
         print("✅ Modelo de nome carregado")
     
     test_names = [
-       "Guilherme Vilas Boas"
+        "João Silva",
+        "Maria Santos",
+        "Pedro Oliveira",
+        "Ana Costa",
+        "Carlos Ferreira"
     ]
     
     for name in test_names:
