@@ -7660,3 +7660,30 @@
 {"text": "50069", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
 {"text": "52955", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
 {"text": "34982", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça da Sé - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Tenente Aníbal Medeiros, 789 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Posto de Saúde", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Terminal Rodoviário", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Centro Comercial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Sé, 50, loja 10 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Conjunto Habitacional, Quadra 10, Casa 5", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Shopping Center, Loja 123", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Centro Comercial, Sala 456", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Galeria Comercial, Box 789", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Fórum da Comarca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Delegacia de Polícia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Distrito Industrial, Quadra 10", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Preciso ir na Rua das Flores", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Moro na Avenida Paulista", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Trabalho no Centro da cidade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estudo perto da Praça da Sé", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Praça Central, 100 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da República, 200 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São João, 300 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça das Flores, 400 - Jardins", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Matriz, 500 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça XV de Novembro, 600 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Dom Pedro II, 700 - Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santos Dumont, 800 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Getúlio Vargas, 900 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça José Bonifácio, 1000 - Jardins", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
