@@ -1,4 +1,4 @@
-const { logError, generateDemandId, VerifyNumberOfTries } = require('./utils.js');
+const { logError, generateDemandId, VerifyNumberOfTries, getAddress } = require('./utils.js');
 const { verifyDescription, verifyAddress, verifyName } = require('./api/classifier.js');
 const { saveDemand } = require('./api/backend.js');
 const { setUserState, getUserState, clearUserState, setUserData, getUserData } = require('./state.js');
@@ -60,7 +60,14 @@ async function messageHandler(client, message) {
                     else {
                         await client.sendMessage(userId, "Perfeito! Agora me diga seu nome completo. Por favor, envie apenas o nome nesta mensagem para que eu possa entender corretamente.");
                         setUserState(userId, "waitingName");
-                        setUserData(userId, "endereco", message.type === 'location' ? message.location.address : message.body);
+                        if(message.type === 'location' && message.location.address){
+                            setUserData(userId, "endereco", message.location.address);
+                        }
+                        else if(message.type === 'location'){
+                            const address = await getAddress(message.location.latitude, message.location.longitude);
+                            setUserData(userId, "endereco", address);
+                        }
+                        else setUserData(userId, "endereco", message.body);
                         setUserData(userId, "numeroDeTentativas", 0);
                     }
                     break;
