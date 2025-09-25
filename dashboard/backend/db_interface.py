@@ -2,6 +2,8 @@ import sqlite3
 from sqlite3 import Connection, Row
 from typing import List, Dict, Any
 from config import Config
+import subprocess
+import os
 
 DB_PATH = Config.DB_PATH
 
@@ -82,6 +84,7 @@ def update_demand(demand_id: int, data: Dict[str, Any]) -> Dict[str, Any]:
     
     # Retornar a demanda atualizada
     updated_demand = conn.execute('SELECT * FROM demands WHERE id = ?', (demand_id,)).fetchone()
+    
     conn.close()
     return dict(updated_demand) if updated_demand else None
 

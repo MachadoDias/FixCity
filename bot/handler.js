@@ -36,6 +36,7 @@ async function messageHandler(client, message) {
                     }
                     break;
                 case "waitingDescription":
+                    if(message.type !== 'chat') return;
                     const userData = getUserData(userId);
                     const descricaoValida = await verifyDescription(message.body, userData.setor);
                     if (!descricaoValida){
@@ -43,13 +44,14 @@ async function messageHandler(client, message) {
                             await client.sendMessage(userId, "A descrição que você enviou não parece estar relacionada ao setor informado, pode tentar de novo?");
                     }
                     else {
-                        await client.sendMessage(userId, "Certo! Agora me diga o endereço da demanda, você pode digitar ou compartilhar a localização");
+                        await client.sendMessage(userId, "Certo! Agora me diga o endereço da demanda, você pode digitar ou compartilhar a localização (Ex.: Rua do Sol, 6918 - Jardim das Acácias)");
                         setUserState(userId, "waitingAddress");
                         setUserData(userId, "descricao", message.body);
                         setUserData(userId, "numeroDeTentativas", 0);
                     }
                     break;
                 case "waitingAddress":
+                    if(message.type !== 'location' && message.type !== 'chat') return;
                     const enderecoValido = message.type ==='location' || await verifyAddress(message.body);
                     if (!enderecoValido){
                         if(VerifyNumberOfTries(client, message))
@@ -63,6 +65,7 @@ async function messageHandler(client, message) {
                     }
                     break;
                 case "waitingName":
+                    if(message.type !== 'chat') return;
                     const nomeValido = await verifyName(message.body);
                     if (!nomeValido){
                         if(VerifyNumberOfTries(client, message))
