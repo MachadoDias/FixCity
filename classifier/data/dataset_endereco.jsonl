@@ -7687,3 +7687,69 @@
 {"text": "Praça Santos Dumont, 800 - Bela Vista", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "Praça Getúlio Vargas, 900 - Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "Praça José Bonifácio, 1000 - Jardins", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "lixo fedendo muito aqui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "poste queimado desde ontem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "buraco na rua perigoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "mato alto demais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "animal morto no chão", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "boca de lobo entupida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Roberto Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Aparecida Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "José Carlos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Patricia Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá pessoal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por favor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Socorro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Urgente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "está muito sujo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "não funciona", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "está quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "precisa consertar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "está entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "não acende", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "está caído", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "está vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "faz barulho", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "está fedendo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ABC123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "XYZ789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "555-1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "www.site.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "email@teste.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "carro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "casa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "árvore", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "cachorro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "gato", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "bicicleta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "moto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ônibus", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rua das Flores, 123", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Central, 456, Bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça da Matriz, s/n", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Palmeiras, 789", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Anjos, 321, Jardim das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São José, 654, Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Brasil, 987, Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua das Acácias, 147, Bairro Alto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Central, próximo ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Alvares, 258, São Pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
