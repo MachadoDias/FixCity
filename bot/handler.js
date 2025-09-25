@@ -11,15 +11,29 @@ async function messageHandler(client, message) {
     try {
         const userId = message.from;
         const userState = getUserState(userId);
+<<<<<<< Updated upstream
         if (message.fromMe) return;
 
          (!userState) {
+=======
+        const r = /[()\{\};]/;
+        if (message.fromMe) return;
+        
+        if (!userState) {
+>>>>>>> Stashed changes
             await client.sendMessage(userId, "👋 Olá, seja bem-vindo(a) ao nosso atendimento! Para começarmos, por favor, informe o setor da sua demanda: \n1 Iluminação (quedas constantes de energia, poste queimado)\n2 Limpeza (animal morto, lixos ou galhos na rua) \n3 Obras (árvore caída, ponte quebrada, esgoto, buraco na rua) \n4 Saúde (falta de vacinas, intoxicação alimentar) \nDigite o número do setor correspondente à sua solicitação");
             setUserData(userId, {});
             setUserState(userId, "waitingSector");
             setUserData(userId, "numeroDeTentativas", 0);
         }
         else {
+            if(r.test(message.body)){
+                        await client.sendMessage(userId, "⚠️ Caractere inválido detectado na mensagem. Por favor, evite usar os seguintes caracteres: ( ) { } ;");
+            return;
+        } if(message.body.lenght < 3){
+                        await client.sendMessage(userId, "Preciso de mais informações para te ajudar. Pode detalhar mais?");
+            return;
+        }
             switch (userState) {
                 case "waitingSector":
                     const choice = parseInt(message.body);
