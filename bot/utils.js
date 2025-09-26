@@ -1,4 +1,3 @@
-require("dotenv").config();
 const fetch = require("node-fetch");
 
 const { clearUserState, setUserData, getUserData } = require('./state.js');
@@ -58,7 +57,5 @@ function parseAddress(nominatimData) {
     number: number || null
   };
 }
-
-getAddress(-23.55052, -46.633308).then(console.log);
 
 module.exports = {getCurrentTimestamp, logError, generateDemandId, VerifyNumberOfTries, getAddress};
