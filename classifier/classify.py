@@ -207,7 +207,9 @@ def main():
         print("✅ Modelo de endereço carregado")
     
     test_addresses = [
-        "Rua Tenente Anibal Medeiros, 113, Bairro Boa Vista"
+        "Praça Central do Bairro São José, próxima à Rua das Flores, nº 128.", "Rua das Acácias, nº 45, Bairro Jardim das Flores.",
+        "Rua Tenente Aníbal Medeiros, número 113, bairro Boa Vista",
+        "Tô sem luz aqui"
     ]
     
     for addr in test_addresses:
