@@ -15491,3 +15491,1072 @@
 {"text": "Rua das Acácias, 147, Bairro Alto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "Praça Central, próximo ao mercado", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "Rua Pedro Alvares, 258, São Pedro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida João de Camargo 7036 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida João de Camargo, n 7036, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida João de Camargo, número 7036, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Avenida João de Camargo, n 7036", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 7036, rua Avenida João de Camargo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida João de Camargo, bairro Centro, n 7036", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida João de Camargo, bairro Centro, número 7036", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Ribeiro de Barros 8726 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Ribeiro de Barros, n 8726, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Ribeiro de Barros, número 8726, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua José Ribeiro de Barros, n 8726", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 8726, rua José Ribeiro de Barros", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Ribeiro de Barros, bairro Centro, n 8726", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Ribeiro de Barros, bairro Centro, número 8726", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Major José Feliciano Telles 6462 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Major José Feliciano Telles, n 6462, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Major José Feliciano Telles, número 6462, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Major José Feliciano Telles, n 6462", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 6462, rua Major José Feliciano Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Major José Feliciano Telles, bairro Centro, n 6462", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Major José Feliciano Telles, bairro Centro, número 6462", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Urbana Carolina 1029 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Urbana Carolina, n 1029, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Urbana Carolina, número 1029, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Praça Urbana Carolina, n 1029", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 1029, rua Praça Urbana Carolina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Urbana Carolina, bairro Centro, n 1029", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Urbana Carolina, bairro Centro, número 1029", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Conceição Garcia 967 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Conceição Garcia, n 967, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Conceição Garcia, número 967, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Conceição Garcia, n 967", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 967, rua Conceição Garcia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Conceição Garcia, bairro Centro, n 967", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Conceição Garcia, bairro Centro, número 967", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Erasmo Cabral 6178 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Erasmo Cabral, n 6178, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Erasmo Cabral, número 6178, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Coronel Erasmo Cabral, n 6178", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 6178, rua Coronel Erasmo Cabral", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Erasmo Cabral, bairro Centro, n 6178", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Erasmo Cabral, bairro Centro, número 6178", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Nilo Costa e Silva 4403 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Nilo Costa e Silva, n 4403, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Nilo Costa e Silva, número 4403, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Alameda Nilo Costa e Silva, n 4403", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 4403, rua Alameda Nilo Costa e Silva", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Nilo Costa e Silva, bairro Centro, n 4403", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Nilo Costa e Silva, bairro Centro, número 4403", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Expedicionário Maurício Adami 6078 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Expedicionário Maurício Adami, n 6078, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Expedicionário Maurício Adami, número 6078, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Praça Expedicionário Maurício Adami, n 6078", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 6078, rua Praça Expedicionário Maurício Adami", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Expedicionário Maurício Adami, bairro Centro, n 6078", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Expedicionário Maurício Adami, bairro Centro, número 6078", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Padre Anchieta 1917 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Padre Anchieta, n 1917, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Padre Anchieta, número 1917, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Praça Padre Anchieta, n 1917", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 1917, rua Praça Padre Anchieta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Padre Anchieta, bairro Centro, n 1917", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Padre Anchieta, bairro Centro, número 1917", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Beira Rio 9156 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Beira Rio, n 9156, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Beira Rio, número 9156, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Avenida Beira Rio, n 9156", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 9156, rua Avenida Beira Rio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Beira Rio, bairro Centro, n 9156", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Beira Rio, bairro Centro, número 9156", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sinhá Moreira 9076 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sinhá Moreira, n 9076, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sinhá Moreira, número 9076, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Avenida Sinhá Moreira, n 9076", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 9076, rua Avenida Sinhá Moreira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sinhá Moreira, bairro Centro, n 9076", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Sinhá Moreira, bairro Centro, número 9076", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Antônio Paulino 9587 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Antônio Paulino, n 9587, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Antônio Paulino, número 9587, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Avenida Antônio Paulino, n 9587", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 9587, rua Avenida Antônio Paulino", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Antônio Paulino, bairro Centro, n 9587", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Antônio Paulino, bairro Centro, número 9587", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professor Joaquim Augusto de Souza 3644 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professor Joaquim Augusto de Souza, n 3644, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professor Joaquim Augusto de Souza, número 3644, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Professor Joaquim Augusto de Souza, n 3644", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 3644, rua Professor Joaquim Augusto de Souza", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professor Joaquim Augusto de Souza, bairro Centro, n 3644", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professor Joaquim Augusto de Souza, bairro Centro, número 3644", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Iolanda Caputo 4486 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Iolanda Caputo, n 4486, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Iolanda Caputo, número 4486, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Travessa Iolanda Caputo, n 4486", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 4486, rua Travessa Iolanda Caputo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Iolanda Caputo, bairro Centro, n 4486", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Iolanda Caputo, bairro Centro, número 4486", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Treze de Maio 4210 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Treze de Maio, n 4210, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Treze de Maio, número 4210, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Treze de Maio, n 4210", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 4210, rua Treze de Maio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Treze de Maio, bairro Centro, n 4210", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Treze de Maio, bairro Centro, número 4210", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Francisco Palma 8053 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Francisco Palma, n 8053, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Francisco Palma, número 8053, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Coronel Francisco Palma, n 8053", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 8053, rua Coronel Francisco Palma", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Francisco Palma, bairro Centro, n 8053", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Francisco Palma, bairro Centro, número 8053", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Quintino Bocaiuva 5496 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Quintino Bocaiuva, n 5496, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Quintino Bocaiuva, número 5496, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Quintino Bocaiuva, n 5496", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 5496, rua Quintino Bocaiuva", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Quintino Bocaiuva, bairro Centro, n 5496", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Quintino Bocaiuva, bairro Centro, número 5496", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Ananias Marques Pereira 4692 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Ananias Marques Pereira, n 4692, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Ananias Marques Pereira, número 4692, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Ananias Marques Pereira, n 4692", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 4692, rua Ananias Marques Pereira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Ananias Marques Pereira, bairro Centro, n 4692", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Ananias Marques Pereira, bairro Centro, número 4692", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cincinato Marques Pereira 253 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cincinato Marques Pereira, n 253, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cincinato Marques Pereira, número 253, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Cincinato Marques Pereira, n 253", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 253, rua Cincinato Marques Pereira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cincinato Marques Pereira, bairro Centro, n 253", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cincinato Marques Pereira, bairro Centro, número 253", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Vicentina 9489 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Vicentina, n 9489, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Vicentina, número 9489, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Vila Vicentina, n 9489", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 9489, rua Vila Vicentina", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Vicentina, bairro Centro, n 9489", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Vicentina, bairro Centro, número 9489", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Linear 6949 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Linear, n 6949, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Linear, número 6949, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Praça Linear, n 6949", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 6949, rua Praça Linear", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Linear, bairro Centro, n 6949", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Linear, bairro Centro, número 6949", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Capitão João Antônio Dias 1560 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Capitão João Antônio Dias, n 1560, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Capitão João Antônio Dias, número 1560, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Capitão João Antônio Dias, n 1560", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 1560, rua Capitão João Antônio Dias", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Capitão João Antônio Dias, bairro Centro, n 1560", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Capitão João Antônio Dias, bairro Centro, número 1560", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Antônio 5324 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Antônio, n 5324, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Antônio, número 5324, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Padre Antônio, n 5324", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 5324, rua Padre Antônio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Antônio, bairro Centro, n 5324", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Antônio, bairro Centro, número 5324", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Ribeiro de Magalhães 4714 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Ribeiro de Magalhães, n 4714, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Ribeiro de Magalhães, número 4714, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Antônio Ribeiro de Magalhães, n 4714", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 4714,rua Antônio Ribeiro de Magalhães", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Ribeiro de Magalhães, bairro Centro, n 4714", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Ribeiro de Magalhães, bairro Centro, número 4714", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Américo Lopes 464 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Américo Lopes, n 464, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Américo Lopes, número 464, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Praça Américo Lopes, n 464", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 464, rua Praça Américo Lopes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Américo Lopes, bairro Centro, n 464", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Américo Lopes, bairro Centro, número 464", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Antônio Moreira da Costa 7912 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Antônio Moreira da Costa, n 7912, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Antônio Moreira da Costa, número 7912, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Coronel Antônio Moreira da Costa, n 7912", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 7912,rua Coronel Antônio Moreira da Costa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Antônio Moreira da Costa, bairro Centro, n 7912", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Antônio Moreira da Costa, bairro Centro, número 7912", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Alcides Mendes Pereira 9632 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Alcides Mendes Pereira, n 9632, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Alcides Mendes Pereira, número 9632, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Alcides Mendes Pereira, n 9632", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 9632,rua Alcides Mendes Pereira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Alcides Mendes Pereira, bairro Centro, n 9632", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Alcides Mendes Pereira, bairro Centro, número 9632", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Ministro Delfim Moreira Júnior 7665 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Ministro Delfim Moreira Júnior, n 7665, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Ministro Delfim Moreira Júnior, número 7665, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Praça Ministro Delfim Moreira Júnior, n 7665", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 7665, rua Praça Ministro Delfim Moreira Júnior", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Ministro Delfim Moreira Júnior, bairro Centro, n 7665", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Ministro Delfim Moreira Júnior, bairro Centro, número 7665", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Carvalho 7663 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Carvalho, n 7663, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Carvalho, número 7663, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Doutor José de Carvalho, n 7663", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 7663,rua Doutor José de Carvalho", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Carvalho, bairro Centro, n 7663", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Carvalho, bairro Centro, número 7663", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Joaquim Inácio 8904 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Joaquim Inácio, n 8904, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Joaquim Inácio, número 8904, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Coronel Joaquim Inácio, n 8904", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 8904,rua Coronel Joaquim Inácio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Joaquim Inácio, bairro Centro, n 8904", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Joaquim Inácio, bairro Centro, número 8904", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Adelino Carneiro Pinto 4637 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Adelino Carneiro Pinto, n 4637, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Adelino Carneiro Pinto, número 4637, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Adelino Carneiro Pinto, n 4637", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 4637,rua Adelino Carneiro Pinto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Adelino Carneiro Pinto, bairro Centro, n 4637", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Adelino Carneiro Pinto, bairro Centro, número 4637", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Custódio Rosa 7026 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Custódio Rosa, n 7026, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Custódio Rosa, número 7026, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Custódio Rosa, n 7026", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 7026,rua Custódio Rosa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Custódio Rosa, bairro Centro, n 7026", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Custódio Rosa, bairro Centro, número 7026", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Jose Cleto Duarte 4379 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Jose Cleto Duarte, n 4379, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Jose Cleto Duarte, número 4379, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Alameda Jose Cleto Duarte, n 4379", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 4379, rua Alameda Jose Cleto Duarte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Jose Cleto Duarte, bairro Centro, n 4379", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda Jose Cleto Duarte, bairro Centro, número 4379", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Moreira da Costa 5128 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Moreira da Costa, n 5128, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Moreira da Costa, número 5128, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Pedro Moreira da Costa, n 5128", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 5128,rua Pedro Moreira da Costa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Moreira da Costa, bairro Centro, n 5128", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Moreira da Costa, bairro Centro, número 5128", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santa Rita 5403 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santa Rita, n 5403, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santa Rita, número 5403, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Praça Santa Rita, n 5403", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 5403, rua Praça Santa Rita", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santa Rita, bairro Centro, n 5403", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Santa Rita, bairro Centro, número 5403", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cesário Alvim 5716 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cesário Alvim, n 5716, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cesário Alvim, número 5716, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Cesário Alvim, n 5716", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 5716,rua Cesário Alvim", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cesário Alvim, bairro Centro, n 5716", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cesário Alvim, bairro Centro, número 5716", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores 2801 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, n 2801, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, número 2801, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Alameda das Flores, n 2801", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 2801, rua Alameda das Flores", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, bairro Centro, n 2801", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda das Flores, bairro Centro, número 2801", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Silvestre Ferraz 7358 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Silvestre Ferraz, n 7358, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Silvestre Ferraz, número 7358, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Silvestre Ferraz, n 7358", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 7358,rua Silvestre Ferraz", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Silvestre Ferraz, bairro Centro, n 7358", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Silvestre Ferraz, bairro Centro, número 7358", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Victor de Souza Pinto 1504 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Victor de Souza Pinto, n 1504, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Victor de Souza Pinto, número 1504, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Victor de Souza Pinto, n 1504", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 1504,rua Victor de Souza Pinto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Victor de Souza Pinto, bairro Centro, n 1504", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Victor de Souza Pinto, bairro Centro, número 1504", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel João Euzébio 6679 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel João Euzébio, n 6679, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel João Euzébio, número 6679, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Coronel João Euzébio, n 6679", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 6679,rua Coronel João Euzébio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel João Euzébio, bairro Centro, n 6679", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel João Euzébio, bairro Centro, número 6679", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Francisco Moreira da Costa 7656 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Francisco Moreira da Costa, n 7656, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Francisco Moreira da Costa, número 7656, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Coronel Francisco Moreira da Costa, n 7656", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 7656,rua Coronel Francisco Moreira da Costa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Francisco Moreira da Costa, bairro Centro, n 7656", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Francisco Moreira da Costa, bairro Centro, número 7656", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Barão do Rio Branco 6224 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Barão do Rio Branco, n 6224, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Barão do Rio Branco, número 6224, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Barão do Rio Branco, n 6224", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 6224,rua Barão do Rio Branco", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Barão do Rio Branco, bairro Centro, n 6224", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Barão do Rio Branco, bairro Centro, número 6224", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Comendador Custódio Ribeiro 864 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Comendador Custódio Ribeiro, n 864, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Comendador Custódio Ribeiro, número 864, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Comendador Custódio Ribeiro, n 864", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 864,rua Comendador Custódio Ribeiro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Comendador Custódio Ribeiro, bairro Centro, n 864", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Comendador Custódio Ribeiro, bairro Centro, número 864", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Joaquim Neto 3647 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Joaquim Neto, n 3647, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Joaquim Neto, número 3647, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Coronel Joaquim Neto, n 3647", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 3647,rua Coronel Joaquim Neto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Joaquim Neto, bairro Centro, n 3647", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Joaquim Neto, bairro Centro, número 3647", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Gabriel Capistrano 289 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Gabriel Capistrano, n 289, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Gabriel Capistrano, número 289, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Coronel Gabriel Capistrano, n 289", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 289,rua Coronel Gabriel Capistrano", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Gabriel Capistrano, bairro Centro, n 289", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Coronel Gabriel Capistrano, bairro Centro, número 289", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professora Lais de Luna Lombardi Barroso 3569 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professora Lais de Luna Lombardi Barroso, n 3569, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professora Lais de Luna Lombardi Barroso, número 3569, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Professora Lais de Luna Lombardi Barroso, n 3569", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 3569,rua Professora Lais de Luna Lombardi Barroso", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professora Lais de Luna Lombardi Barroso, bairro Centro, n 3569", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professora Lais de Luna Lombardi Barroso, bairro Centro, número 3569", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Palma Rennó 960 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Palma Rennó, n 960, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Palma Rennó, número 960, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,ruaJosé Palma Rennó, n 960", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 960,ruaJosé Palma Rennó", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Palma Rennó, bairro Centro, n 960", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Palma Rennó, bairro Centro, número 960", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Telles 2420 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Telles, n 2420, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Telles, número 2420, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Antônio Telles, n 2420", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 2420,rua Antônio Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Telles, bairro Centro, n 2420", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Telles, bairro Centro, número 2420", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Alcântara 3605 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Alcântara, n 3605, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Alcântara, número 3605, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Vila Alcântara, n 3605", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 3605, rua Vila Alcântara", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Alcântara, bairro Centro, n 3605", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Alcântara, bairro Centro, número 3605", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Maria Augusta 2545 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Maria Augusta, n 2545, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Maria Augusta, número 2545, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Travessa Maria Augusta, n 2545", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 2545, rua Travessa Maria Augusta", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Maria Augusta, bairro Centro, n 2545", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Maria Augusta, bairro Centro, número 2545", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Francisco Falcão 2909 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Francisco Falcão, n 2909, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Francisco Falcão, número 2909, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Praça Francisco Falcão, n 2909", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 2909, rua Praça Francisco Falcão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Francisco Falcão, bairro Centro, n 2909", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça Francisco Falcão, bairro Centro, número 2909", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Doutor Delfim Moreira 4647 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Doutor Delfim Moreira, n 4647, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Doutor Delfim Moreira, número 4647, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Avenida Doutor Delfim Moreira, n 4647", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 4647, rua Avenida Doutor Delfim Moreira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Doutor Delfim Moreira, bairro Centro, n 4647", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Doutor Delfim Moreira, bairro Centro, número 4647", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha 7049 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, n 7049, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, número 7049, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Avenida Frederico de Paula Cunha, n 7049", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 7049, rua Avenida Frederico de Paula Cunha", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, bairro Centro, n 7049", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, bairro Centro, número 7049", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Juca Castelo 9132 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Juca Castelo, n 9132, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Juca Castelo, número 9132, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,ruaJuca Castelo, n 9132", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 9132,ruaJuca Castelo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Juca Castelo, bairro Centro, n 9132", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Juca Castelo, bairro Centro, número 9132", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Tupinambás 5650 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Tupinambás, n 5650, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Tupinambás, número 5650, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Tupinambás, n 5650", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 5650,rua Tupinambás", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Tupinambás, bairro Centro, n 5650", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Tupinambás, bairro Centro, número 5650", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José Pinto Vilela 8270 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José Pinto Vilela, n 8270, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José Pinto Vilela, número 8270, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Doutor José Pinto Vilela, n 8270", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 8270,rua Doutor José Pinto Vilela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José Pinto Vilela, bairro Centro, n 8270", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José Pinto Vilela, bairro Centro, número 8270", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Rennó 517 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Rennó, n 517, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Rennó, número 517, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,ruaJoão Rennó, n 517", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 517,ruaJoão Rennó", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Rennó, bairro Centro, n 517", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Rennó, bairro Centro, número 517", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Armando Domingos 450 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Armando Domingos, n 450, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Armando Domingos, número 450, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Travessa Armando Domingos, n 450", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 450, rua Travessa Armando Domingos", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Armando Domingos, bairro Centro, n 450", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Armando Domingos, bairro Centro, número 450", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Vicente Siécola 581 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Vicente Siécola, n 581, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Vicente Siécola, número 581, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Travessa Vicente Siécola, n 581", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 581, rua Travessa Vicente Siécola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Vicente Siécola, bairro Centro, n 581", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Vicente Siécola, bairro Centro, número 581", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Henrique de Franco 2232 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Henrique de Franco, n 2232, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Henrique de Franco, número 2232, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Travessa Henrique de Franco, n 2232", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 2232, rua Travessa Henrique de Franco", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Henrique de Franco, bairro Centro, n 2232", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Henrique de Franco, bairro Centro, número 2232", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Capitão Vicente Ribeiro do Valle 8608 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Capitão Vicente Ribeiro do Valle, n 8608, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Capitão Vicente Ribeiro do Valle, número 8608, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Capitão Vicente Ribeiro do Valle, n 8608", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 8608,rua Capitão Vicente Ribeiro do Valle", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Capitão Vicente Ribeiro do Valle, bairro Centro, n 8608", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Capitão Vicente Ribeiro do Valle, bairro Centro, número 8608", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Capitão Vicente Ribeiro do Valle 3268 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Capitão Vicente Ribeiro do Valle, n 3268, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Capitão Vicente Ribeiro do Valle, número 3268, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, rua Travessa Capitão Vicente Ribeiro do Valle, n 3268", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 3268, rua Travessa Capitão Vicente Ribeiro do Valle", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Capitão Vicente Ribeiro do Valle, bairro Centro, n 3268", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Capitão Vicente Ribeiro do Valle, bairro Centro, número 3268", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Teixeira da Costa 1949 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Teixeira da Costa, n 1949, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Teixeira da Costa, número 1949, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,ruaJoão Teixeira da Costa, n 1949", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 1949,ruaJoão Teixeira da Costa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Teixeira da Costa, bairro Centro, n 1949", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Teixeira da Costa, bairro Centro, número 1949", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Assis Longuinho 6933 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Assis Longuinho, n 6933, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Assis Longuinho, número 6933, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Antônio Assis Longuinho, n 6933", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 6933,rua Antônio Assis Longuinho", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Assis Longuinho, bairro Centro, n 6933", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Assis Longuinho, bairro Centro, número 6933", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Horácio Capistrano 2491 bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Horácio Capistrano, n 2491, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Horácio Capistrano, número 2491, bairro Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro,rua Horácio Capistrano, n 2491", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Centro, número 2491,rua Horácio Capistrano", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Horácio Capistrano, bairro Centro, n 2491", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Horácio Capistrano, bairro Centro, número 2491", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Feliciano Teles 5059 bairro Walter Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Feliciano Teles, n 5059, bairro Walter Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Feliciano Teles, número 5059, bairro Walter Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Walter Telles,rua Feliciano Teles, n 5059", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Walter Telles, número 5059,rua Feliciano Teles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Feliciano Teles, bairro Walter Telles, n 5059", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Feliciano Teles, bairro Walter Telles, número 5059", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Olavo Marques 5933 bairro Walter Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Olavo Marques, n 5933, bairro Walter Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Olavo Marques, número 5933, bairro Walter Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Walter Telles,rua Olavo Marques, n 5933", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Walter Telles, número 5933,rua Olavo Marques", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Olavo Marques, bairro Walter Telles, n 5933", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Olavo Marques, bairro Walter Telles, número 5933", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Nogueira Leite 6803 bairro Walter Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Nogueira Leite, n 6803, bairro Walter Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Nogueira Leite, número 6803, bairro Walter Telles", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Walter Telles,ruaJosé Nogueira Leite, n 6803", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Walter Telles, número 6803,ruaJosé Nogueira Leite", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Nogueira Leite, bairro Walter Telles, n 6803", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Nogueira Leite, bairro Walter Telles, número 6803", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Adélia 7628 bairro Vila Adélia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Adélia, n 7628, bairro Vila Adélia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Adélia, número 7628, bairro Vila Adélia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Vila Adélia, rua Vila Adélia, n 7628", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Vila Adélia, número 7628, rua Vila Adélia", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Adélia, bairro Vila Adélia, n 7628", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Vila Adélia, bairro Vila Adélia, número 7628", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor 5427 bairro Casa de Vitor", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, n 5427, bairro Casa de Vitor", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, número 5427, bairro Casa de Vitor", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Casa de Vitor,rua Padre Vitor, n 5427", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Casa de Vitor, número 5427,rua Padre Vitor", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, bairro Casa de Vitor, n 5427", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, bairro Casa de Vitor, número 5427", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Juca Castelo 6843 bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Juca Castelo, n 6843, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Juca Castelo, número 6843, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela,ruaJuca Castelo, n 6843", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, número 6843,ruaJuca Castelo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Juca Castelo, bairro Maristela, n 6843", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Juca Castelo, bairro Maristela, número 6843", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Fátima Lúcia Ribeiro Bonaccorsi 321 bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Fátima Lúcia Ribeiro Bonaccorsi, n 321, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Fátima Lúcia Ribeiro Bonaccorsi, número 321, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela,rua Fátima Lúcia Ribeiro Bonaccorsi, n 321", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, número 321,rua Fátima Lúcia Ribeiro Bonaccorsi", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Fátima Lúcia Ribeiro Bonaccorsi, bairro Maristela, n 321", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Fátima Lúcia Ribeiro Bonaccorsi, bairro Maristela, número 321", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa 9598 bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, n 9598, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, número 9598, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela,rua Eupídio Costa, n 9598", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, número 9598,rua Eupídio Costa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, bairro Maristela, n 9598", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, bairro Maristela, número 9598", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Frederico Adami 6183 bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Frederico Adami, n 6183, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Frederico Adami, número 6183, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela,rua Frederico Adami, n 6183", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, número 6183,rua Frederico Adami", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Frederico Adami, bairro Maristela, n 6183", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Frederico Adami, bairro Maristela, número 6183", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor 3107 bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, n 3107, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, número 3107, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela,rua Padre Vitor, n 3107", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, número 3107,rua Padre Vitor", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, bairro Maristela, n 3107", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, bairro Maristela, número 3107", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Horácio Capistrano 2035 bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Horácio Capistrano, n 2035, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Horácio Capistrano, número 2035, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela,rua Horácio Capistrano, n 2035", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, número 2035,rua Horácio Capistrano", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Horácio Capistrano, bairro Maristela, n 2035", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Horácio Capistrano, bairro Maristela, número 2035", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Assis Longuinho 7912 bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Assis Longuinho, n 7912, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Assis Longuinho, número 7912, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela,rua Antônio Assis Longuinho, n 7912", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, número 7912,rua Antônio Assis Longuinho", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Assis Longuinho, bairro Maristela, n 7912", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Assis Longuinho, bairro Maristela, número 7912", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha 8553 bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, n 8553, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, número 8553, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, rua Avenida Frederico de Paula Cunha, n 8553", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, número 8553, rua Avenida Frederico de Paula Cunha", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, bairro Maristela, n 8553", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, bairro Maristela, número 8553", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Abreu 4895 bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Abreu, n 4895, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Abreu, número 4895, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela,rua Doutor José de Abreu, n 4895", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, número 4895,rua Doutor José de Abreu", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Abreu, bairro Maristela, n 4895", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Abreu, bairro Maristela, número 4895", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo 2588 bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, n 2588, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, número 2588, bairro Maristela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela,rua Antônio Araújo, n 2588", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maristela, número 2588,rua Antônio Araújo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, bairro Maristela, n 2588", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, bairro Maristela, número 2588", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor 3672 bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, n 3672, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, número 3672, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira,rua Padre Vitor, n 3672", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, número 3672,rua Padre Vitor", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, bairro Antônio Gonçalves Teixeira, n 3672", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Padre Vitor, bairro Antônio Gonçalves Teixeira, número 3672", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa 999 bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, n 999, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, número 999, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira,rua Eupídio Costa, n 999", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, número 999,rua Eupídio Costa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, bairro Antônio Gonçalves Teixeira, n 999", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, bairro Antônio Gonçalves Teixeira, número 999", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha 4382 bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, n 4382, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, número 4382, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, rua Avenida Frederico de Paula Cunha, n 4382", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, número 4382, rua Avenida Frederico de Paula Cunha", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, bairro Antônio Gonçalves Teixeira, n 4382", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Frederico de Paula Cunha, bairro Antônio Gonçalves Teixeira, número 4382", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro 3547 bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, n 3547, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, número 3547, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira,rua Crescêncio Ribeiro, n 3547", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, número 3547,rua Crescêncio Ribeiro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, bairro Antônio Gonçalves Teixeira, n 3547", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, bairro Antônio Gonçalves Teixeira, número 3547", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Abreu 7481 bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Abreu, n 7481, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Abreu, número 7481, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira,rua Doutor José de Abreu, n 7481", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, número 7481,rua Doutor José de Abreu", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Abreu, bairro Antônio Gonçalves Teixeira, n 7481", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor José de Abreu, bairro Antônio Gonçalves Teixeira, número 7481", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Frederico Adami 2834 bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Frederico Adami, n 2834, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Frederico Adami, número 2834, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira,rua Frederico Adami, n 2834", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, número 2834,rua Frederico Adami", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Frederico Adami, bairro Antônio Gonçalves Teixeira, n 2834", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Frederico Adami, bairro Antônio Gonçalves Teixeira, número 2834", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo 4632 bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, n 4632, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, número 4632, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira,rua Antônio Araújo, n 4632", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, número 4632,rua Antônio Araújo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, bairro Antônio Gonçalves Teixeira, n 4632", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, bairro Antônio Gonçalves Teixeira, número 4632", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Antônio Gonçalves Teixeira 3037 bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Antônio Gonçalves Teixeira, n 3037, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Antônio Gonçalves Teixeira, número 3037, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, rua Travessa Antônio Gonçalves Teixeira, n 3037", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, número 3037, rua Travessa Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Antônio Gonçalves Teixeira, bairro Antônio Gonçalves Teixeira, n 3037", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Antônio Gonçalves Teixeira, bairro Antônio Gonçalves Teixeira, número 3037", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas 5752 bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, n 5752, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, número 5752, bairro Antônio Gonçalves Teixeira", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira,rua Vereador Farid Abrahão Kallas, n 5752", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Antônio Gonçalves Teixeira, número 5752,rua Vereador Farid Abrahão Kallas", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, bairro Antônio Gonçalves Teixeira, n 5752", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, bairro Antônio Gonçalves Teixeira, número 5752", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa 255 bairro Primavera", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, n 255, bairro Primavera", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, número 255, bairro Primavera", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Primavera,rua Eupídio Costa, n 255", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Primavera, número 255,rua Eupídio Costa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, bairro Primavera, n 255", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Eupídio Costa, bairro Primavera, número 255", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas 9102 bairro Primavera", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, n 9102, bairro Primavera", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, número 9102, bairro Primavera", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Primavera,rua Vereador Farid Abrahão Kallas, n 9102", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Primavera, número 9102,rua Vereador Farid Abrahão Kallas", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, bairro Primavera, n 9102", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, bairro Primavera, número 9102", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Monteiro de Almeida 1761 bairro Maria Silvério", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Monteiro de Almeida, n 1761, bairro Maria Silvério", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Monteiro de Almeida, número 1761, bairro Maria Silvério", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maria Silvério,ruaJosé Monteiro de Almeida, n 1761", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maria Silvério, número 1761,ruaJosé Monteiro de Almeida", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Monteiro de Almeida, bairro Maria Silvério, n 1761", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Monteiro de Almeida, bairro Maria Silvério, número 1761", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Honorato Ribeiro de Souza 8643 bairro Maria Silvério", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Honorato Ribeiro de Souza, n 8643, bairro Maria Silvério", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Honorato Ribeiro de Souza, número 8643, bairro Maria Silvério", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maria Silvério,rua Honorato Ribeiro de Souza, n 8643", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maria Silvério, número 8643,rua Honorato Ribeiro de Souza", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Honorato Ribeiro de Souza, bairro Maria Silvério, n 8643", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Honorato Ribeiro de Souza, bairro Maria Silvério, número 8643", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro 4306 bairro Maria Silvério", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, n 4306, bairro Maria Silvério", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, número 4306, bairro Maria Silvério", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maria Silvério,rua Crescêncio Ribeiro, n 4306", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Maria Silvério, número 4306,rua Crescêncio Ribeiro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, bairro Maria Silvério, n 4306", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, bairro Maria Silvério, número 4306", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro 2430 bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, n 2430, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, número 2430, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José,rua Crescêncio Ribeiro, n 2430", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José, número 2430,rua Crescêncio Ribeiro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, bairro São José, n 2430", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Crescêncio Ribeiro, bairro São José, número 2430", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo 6062 bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, n 6062, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, número 6062, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José,rua Antônio Araújo, n 6062", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José, número 6062,rua Antônio Araújo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, bairro São José, n 6062", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Araújo, bairro São José, número 6062", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Monteiro de Almeida 5283 bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Monteiro de Almeida, n 5283, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Monteiro de Almeida, número 5283, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José,ruaJosé Monteiro de Almeida, n 5283", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José, número 5283,ruaJosé Monteiro de Almeida", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Monteiro de Almeida, bairro São José, n 5283", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Monteiro de Almeida, bairro São José, número 5283", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas 4931 bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, n 4931, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, número 4931, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José,rua Vereador Farid Abrahão Kallas, n 4931", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José, número 4931,rua Vereador Farid Abrahão Kallas", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, bairro São José, n 4931", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Farid Abrahão Kallas, bairro São José, número 4931", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Agenor Siécola 11 bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Agenor Siécola, n 11, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Agenor Siécola, número 11, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José,rua Agenor Siécola, n 11", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José, número 11,rua Agenor Siécola", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Agenor Siécola, bairro São José, n 11", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Agenor Siécola, bairro São José, número 11", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Francisco do Nascimento 7487 bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Francisco do Nascimento, n 7487, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Francisco do Nascimento, número 7487, bairro São José", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José,rua Francisco do Nascimento, n 7487", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro São José, número 7487,rua Francisco do Nascimento", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Francisco do Nascimento, bairro São José, n 7487", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Francisco do Nascimento, bairro São José, número 7487", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans 6758 bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, n 6758, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, número 6758, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca,rua Monsenhor Calazans, n 6758", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca, número 6758,rua Monsenhor Calazans", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, bairro Genoveva da Fonseca, n 6758", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, bairro Genoveva da Fonseca, número 6758", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Deodato Seda 9642 bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Deodato Seda, n 9642, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Deodato Seda, número 9642, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca,rua Deodato Seda, n 9642", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca, número 9642,rua Deodato Seda", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Deodato Seda, bairro Genoveva da Fonseca, n 9642", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Deodato Seda, bairro Genoveva da Fonseca, número 9642", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Francisco do Nascimento 5243 bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Francisco do Nascimento, n 5243, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Francisco do Nascimento, número 5243, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca,rua Francisco do Nascimento, n 5243", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca, número 5243,rua Francisco do Nascimento", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Francisco do Nascimento, bairro Genoveva da Fonseca, n 5243", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Francisco do Nascimento, bairro Genoveva da Fonseca, número 5243", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Paulo Puêbra do Couto 9296 bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Paulo Puêbra do Couto, n 9296, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Paulo Puêbra do Couto, número 9296, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca,ruaJoão Paulo Puêbra do Couto, n 9296", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca, número 9296,ruaJoão Paulo Puêbra do Couto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Paulo Puêbra do Couto, bairro Genoveva da Fonseca, n 9296", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Paulo Puêbra do Couto, bairro Genoveva da Fonseca, número 9296", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Zeca Raposo 6348 bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Zeca Raposo, n 6348, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Zeca Raposo, número 6348, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca,rua Zeca Raposo, n 6348", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca, número 6348,rua Zeca Raposo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Zeca Raposo, bairro Genoveva da Fonseca, n 6348", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Zeca Raposo, bairro Genoveva da Fonseca, número 6348", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Antônio Vilela de Magalhães 2170 bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Antônio Vilela de Magalhães, n 2170, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Antônio Vilela de Magalhães, número 2170, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca, rua Travessa Antônio Vilela de Magalhães, n 2170", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca, número 2170, rua Travessa Antônio Vilela de Magalhães", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Antônio Vilela de Magalhães, bairro Genoveva da Fonseca, n 2170", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Antônio Vilela de Magalhães, bairro Genoveva da Fonseca, número 2170", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Genoveva da Fonseca 4245 bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Genoveva da Fonseca, n 4245, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Genoveva da Fonseca, número 4245, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca,rua Genoveva da Fonseca, n 4245", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca, número 4245,rua Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Genoveva da Fonseca, bairro Genoveva da Fonseca, n 4245", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Genoveva da Fonseca, bairro Genoveva da Fonseca, número 4245", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor Mário Brandão 9805 bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor Mário Brandão, n 9805, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor Mário Brandão, número 9805, bairro Genoveva da Fonseca", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca,rua Doutor Mário Brandão, n 9805", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Genoveva da Fonseca, número 9805,rua Doutor Mário Brandão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor Mário Brandão, bairro Genoveva da Fonseca, n 9805", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Doutor Mário Brandão, bairro Genoveva da Fonseca, número 9805", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans 1784 bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, n 1784, bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, número 1784, bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Brasília,rua Monsenhor Calazans, n 1784", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Brasília, número 1784,rua Monsenhor Calazans", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, bairro Brasília, n 1784", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, bairro Brasília, número 1784", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Monsenhor Calazans 1036 bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Monsenhor Calazans, n 1036, bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Monsenhor Calazans, número 1036, bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Brasília, rua Travessa Monsenhor Calazans, n 1036", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Brasília, número 1036, rua Travessa Monsenhor Calazans", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Monsenhor Calazans, bairro Brasília, n 1036", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa Monsenhor Calazans, bairro Brasília, número 1036", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Mendes Vilela 5921 bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Mendes Vilela, n 5921, bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Mendes Vilela, número 5921, bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Brasília,ruaJosé Mendes Vilela, n 5921", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Brasília, número 5921,ruaJosé Mendes Vilela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Mendes Vilela, bairro Brasília, n 5921", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Mendes Vilela, bairro Brasília, número 5921", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Benedito Rennó 9279 bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Benedito Rennó, n 9279, bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Benedito Rennó, número 9279, bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Brasília,rua Benedito Rennó, n 9279", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Brasília, número 9279,rua Benedito Rennó", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Benedito Rennó, bairro Brasília, n 9279", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Benedito Rennó, bairro Brasília, número 9279", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Mariquinha Capistrano 3700 bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Mariquinha Capistrano, n 3700, bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Mariquinha Capistrano, número 3700, bairro Brasília", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Brasília,rua Mariquinha Capistrano, n 3700", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Brasília, número 3700,rua Mariquinha Capistrano", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Mariquinha Capistrano, bairro Brasília, n 3700", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Mariquinha Capistrano, bairro Brasília, número 3700", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Soares Brandão 8851 bairro Da Rádio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Soares Brandão, n 8851, bairro Da Rádio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Soares Brandão, número 8851, bairro Da Rádio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Da Rádio,ruaJosé Soares Brandão, n 8851", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Da Rádio, número 8851,ruaJosé Soares Brandão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Soares Brandão, bairro Da Rádio, n 8851", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua José Soares Brandão, bairro Da Rádio, número 8851", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Folchito 4983 bairro Da Rádio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Folchito, n 4983, bairro Da Rádio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Folchito, número 4983, bairro Da Rádio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Da Rádio, rua Travessa José Folchito, n 4983", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Da Rádio, número 4983, rua Travessa José Folchito", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Folchito, bairro Da Rádio, n 4983", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa José Folchito, bairro Da Rádio, número 4983", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cônego Adolfo Carneiro 7171 bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cônego Adolfo Carneiro, n 7171, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cônego Adolfo Carneiro, número 7171, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II,rua Cônego Adolfo Carneiro, n 7171", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II, número 7171,rua Cônego Adolfo Carneiro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cônego Adolfo Carneiro, bairro Valle II, n 7171", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Cônego Adolfo Carneiro, bairro Valle II, número 7171", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Hosé Vilela 1546 bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Hosé Vilela, n 1546, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Hosé Vilela, número 1546, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II,rua José Vilela, n 1546", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II, número 1546,rua José Vilela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Hosé Vilela, bairro Valle II, n 1546", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Hosé Vilela, bairro Valle II, número 1546", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Rosângela Carneiro Rosa Lima 5476 bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Rosângela Carneiro Rosa Lima, n 5476, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Rosângela Carneiro Rosa Lima, número 5476, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II,rua Rosângela Carneiro Rosa Lima, n 5476", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II, número 5476,rua Rosângela Carneiro Rosa Lima", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Rosângela Carneiro Rosa Lima, bairro Valle II, n 5476", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Rosângela Carneiro Rosa Lima, bairro Valle II, número 5476", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Denise Brandão 9938 bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Denise Brandão, n 9938, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Denise Brandão, número 9938, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II,rua Maria Denise Brandão, n 9938", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II, número 9938,rua Maria Denise Brandão", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Denise Brandão, bairro Valle II, n 9938", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Denise Brandão, bairro Valle II, número 9938", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Izolina Vilela Mendes 5809 bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Izolina Vilela Mendes, n 5809, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Izolina Vilela Mendes, número 5809, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II,rua Izolina Vilela Mendes, n 5809", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II, número 5809,rua Izolina Vilela Mendes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Izolina Vilela Mendes, bairro Valle II, n 5809", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Izolina Vilela Mendes, bairro Valle II, número 5809", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Flauzino Carolino 9316 bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Flauzino Carolino, n 9316, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Flauzino Carolino, número 9316, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II,ruaJoão Flauzino Carolino, n 9316", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II, número 9316,ruaJoão Flauzino Carolino", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Flauzino Carolino, bairro Valle II, n 9316", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Flauzino Carolino, bairro Valle II, número 9316", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Projetista Mauro Gouvea 7006 bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Projetista Mauro Gouvea, n 7006, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Projetista Mauro Gouvea, número 7006, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II,rua Projetista Mauro Gouvea, n 7006", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II, número 7006,rua Projetista Mauro Gouvea", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Projetista Mauro Gouvea, bairro Valle II, n 7006", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Projetista Mauro Gouvea, bairro Valle II, número 7006", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Projetada Um 8596 bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Projetada Um, n 8596, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Projetada Um, número 8596, bairro Valle II", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II,rua Projetada Um, n 8596", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Valle II, número 8596,rua Projetada Um", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Projetada Um, bairro Valle II, n 8596", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Projetada Um, bairro Valle II, número 8596", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sancho Vilela 3772 bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sancho Vilela, n 3772, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sancho Vilela, número 3772, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes,rua Sancho Vilela, n 3772", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes, número 3772,rua Sancho Vilela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sancho Vilela, bairro Joaquim Gomes, n 3772", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sancho Vilela, bairro Joaquim Gomes, número 3772", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Um 6257 bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Um, n 6257, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Um, número 6257, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes,rua Um, n 6257", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes, número 6257,rua Um", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Um, bairro Joaquim Gomes, n 6257", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Um, bairro Joaquim Gomes, número 6257", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Dois 2005 bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Dois, n 2005, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Dois, número 2005, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes,rua Dois, n 2005", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes, número 2005,rua Dois", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Dois, bairro Joaquim Gomes, n 2005", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Dois, bairro Joaquim Gomes, número 2005", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans 1994 bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, n 1994, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, número 1994, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes,rua Monsenhor Calazans, n 1994", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes, número 1994,rua Monsenhor Calazans", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, bairro Joaquim Gomes, n 1994", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Monsenhor Calazans, bairro Joaquim Gomes, número 1994", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Inácia Gomes 6931 bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Inácia Gomes, n 6931, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Inácia Gomes, número 6931, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes,rua Maria Inácia Gomes, n 6931", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes, número 6931,rua Maria Inácia Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Inácia Gomes, bairro Joaquim Gomes, n 6931", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Inácia Gomes, bairro Joaquim Gomes, número 6931", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Benedito Borges dos Reis 4706 bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Benedito Borges dos Reis, n 4706, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Benedito Borges dos Reis, número 4706, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes,rua Benedito Borges dos Reis, n 4706", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes, número 4706,rua Benedito Borges dos Reis", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Benedito Borges dos Reis, bairro Joaquim Gomes, n 4706", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Benedito Borges dos Reis, bairro Joaquim Gomes, número 4706", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Ribeiro da Cunha 5490 bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Ribeiro da Cunha, n 5490, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Ribeiro da Cunha, número 5490, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes,ruaJoão Ribeiro da Cunha, n 5490", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes, número 5490,ruaJoão Ribeiro da Cunha", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Ribeiro da Cunha, bairro Joaquim Gomes, n 5490", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Ribeiro da Cunha, bairro Joaquim Gomes, número 5490", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Benedito da Silva 5081 bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Benedito da Silva, n 5081, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Benedito da Silva, número 5081, bairro Joaquim Gomes", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes,rua Antônio Benedito da Silva, n 5081", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Joaquim Gomes, número 5081,rua Antônio Benedito da Silva", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Benedito da Silva, bairro Joaquim Gomes, n 5081", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Benedito da Silva, bairro Joaquim Gomes, número 5081", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Benedito da Silva 4165 bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Benedito da Silva, n 4165, bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Benedito da Silva, número 4165, bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Vila Operária,rua Antônio Benedito da Silva, n 4165", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Vila Operária, número 4165,rua Antônio Benedito da Silva", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Benedito da Silva, bairro Vila Operária, n 4165", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Benedito da Silva, bairro Vila Operária, número 4165", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Irmã Maria do Rosário Pinheiro 2792 bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Irmã Maria do Rosário Pinheiro, n 2792, bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Irmã Maria do Rosário Pinheiro, número 2792, bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Vila Operária,rua Irmã Maria do Rosário Pinheiro, n 2792", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Vila Operária, número 2792,rua Irmã Maria do Rosário Pinheiro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Irmã Maria do Rosário Pinheiro, bairro Vila Operária, n 2792", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Irmã Maria do Rosário Pinheiro, bairro Vila Operária, número 2792", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Rezende Vilela 4220 bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Rezende Vilela, n 4220, bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Rezende Vilela, número 4220, bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Vila Operária,rua Maria Rezende Vilela, n 4220", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Vila Operária, número 4220,rua Maria Rezende Vilela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Rezende Vilela, bairro Vila Operária, n 4220", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Maria Rezende Vilela, bairro Vila Operária, número 4220", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São Vicente de Paula 3887 bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São Vicente de Paula, n 3887, bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São Vicente de Paula, número 3887, bairro Vila Operária", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Vila Operária,rua São Vicente de Paula, n 3887", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Vila Operária, número 3887,rua São Vicente de Paula", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São Vicente de Paula, bairro Vila Operária, n 3887", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua São Vicente de Paula, bairro Vila Operária, número 3887", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Joaquim Domingos Simões 4045 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Joaquim Domingos Simões, n 4045, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Joaquim Domingos Simões, número 4045, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Vereador Joaquim Domingos Simões, n 4045", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 4045,rua Vereador Joaquim Domingos Simões", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Joaquim Domingos Simões, bairro Novo Horizonte, n 4045", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vereador Joaquim Domingos Simões, bairro Novo Horizonte, número 4045", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Otávio Benedito Barbosa 397 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Otávio Benedito Barbosa, n 397, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Otávio Benedito Barbosa, número 397, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Otávio Benedito Barbosa, n 397", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 397,rua Otávio Benedito Barbosa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Otávio Benedito Barbosa, bairro Novo Horizonte, n 397", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Otávio Benedito Barbosa, bairro Novo Horizonte, número 397", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Miguel Jorge Antônio 3553 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Miguel Jorge Antônio, n 3553, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Miguel Jorge Antônio, número 3553, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Miguel Jorge Antônio, n 3553", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 3553,rua Miguel Jorge Antônio", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Miguel Jorge Antônio, bairro Novo Horizonte, n 3553", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Miguel Jorge Antônio, bairro Novo Horizonte, número 3553", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Contorno 5724 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Contorno, n 5724, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Contorno, número 5724, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,ruado Contorno, n 5724", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 5724,ruado Contorno", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Contorno, bairro Novo Horizonte, n 5724", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua do Contorno, bairro Novo Horizonte, número 5724", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Capistrano 4512 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Capistrano, n 4512, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Capistrano, número 4512, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,ruaJoão Capistrano, n 4512", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 4512,ruaJoão Capistrano", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Capistrano, bairro Novo Horizonte, n 4512", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua João Capistrano, bairro Novo Horizonte, número 4512", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida João Luiz Vilela 4479 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida João Luiz Vilela, n 4479, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida João Luiz Vilela, número 4479, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, rua Avenida João Luiz Vilela, n 4479", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 4479, rua Avenida João Luiz Vilela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida João Luiz Vilela, bairro Novo Horizonte, n 4479", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida João Luiz Vilela, bairro Novo Horizonte, número 4479", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sebastião Vilela do Couto 6501 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sebastião Vilela do Couto, n 6501, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sebastião Vilela do Couto, número 6501, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Sebastião Vilela do Couto, n 6501", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 6501,rua Sebastião Vilela do Couto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sebastião Vilela do Couto, bairro Novo Horizonte, n 6501", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sebastião Vilela do Couto, bairro Novo Horizonte, número 6501", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São Vicente de Paulo 3451 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São Vicente de Paulo, n 3451, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São Vicente de Paulo, número 3451, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, rua Praça São Vicente de Paulo, n 3451", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 3451, rua Praça São Vicente de Paulo", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São Vicente de Paulo, bairro Novo Horizonte, n 3451", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Praça São Vicente de Paulo, bairro Novo Horizonte, número 3451", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Martiniano Ribeiro 5715 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Martiniano Ribeiro, n 5715, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Martiniano Ribeiro, número 5715, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Martiniano Ribeiro, n 5715", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 5715,rua Martiniano Ribeiro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Martiniano Ribeiro, bairro Novo Horizonte, n 5715", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Martiniano Ribeiro, bairro Novo Horizonte, número 5715", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Raposo Lima 5392 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Raposo Lima, n 5392, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Raposo Lima, número 5392, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Antônio Raposo Lima, n 5392", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 5392,rua Antônio Raposo Lima", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Raposo Lima, bairro Novo Horizonte, n 5392", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Antônio Raposo Lima, bairro Novo Horizonte, número 5392", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Jorge Dionízio Barbosa 4046 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Jorge Dionízio Barbosa, n 4046, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Jorge Dionízio Barbosa, número 4046, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,ruaJorge Dionízio Barbosa, n 4046", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 4046,ruaJorge Dionízio Barbosa", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Jorge Dionízio Barbosa, bairro Novo Horizonte, n 4046", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Jorge Dionízio Barbosa, bairro Novo Horizonte, número 4046", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Mendes Vilela 4892 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Mendes Vilela, n 4892, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Mendes Vilela, número 4892, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Pedro Mendes Vilela, n 4892", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 4892,rua Pedro Mendes Vilela", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Mendes Vilela, bairro Novo Horizonte, n 4892", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Pedro Mendes Vilela, bairro Novo Horizonte, número 4892", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vicente Vono 2795 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vicente Vono, n 2795, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vicente Vono, número 2795, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Vicente Vono, n 2795", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 2795,rua Vicente Vono", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vicente Vono, bairro Novo Horizonte, n 2795", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Vicente Vono, bairro Novo Horizonte, número 2795", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Moacir Chaves 4203 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Moacir Chaves, n 4203, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Moacir Chaves, número 4203, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Moacir Chaves, n 4203", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 4203,rua Moacir Chaves", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Moacir Chaves, bairro Novo Horizonte, n 4203", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Moacir Chaves, bairro Novo Horizonte, número 4203", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Ijuí 5534 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Ijuí, n 5534, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Ijuí, número 5534, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Ijuí, n 5534", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 5534,rua Ijuí", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Ijuí, bairro Novo Horizonte, n 5534", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Ijuí, bairro Novo Horizonte, número 5534", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Um 7211 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Um, n 7211, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Um, número 7211, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte,rua Um, n 7211", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 7211,rua Um", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Um, bairro Novo Horizonte, n 7211", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Um, bairro Novo Horizonte, número 7211", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Embaixador Bilac Pinto 301 bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Embaixador Bilac Pinto, n 301, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Embaixador Bilac Pinto, número 301, bairro Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, rua Avenida Embaixador Bilac Pinto, n 301", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Novo Horizonte, número 301, rua Avenida Embaixador Bilac Pinto", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Embaixador Bilac Pinto, bairro Novo Horizonte, n 301", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Embaixador Bilac Pinto, bairro Novo Horizonte, número 301", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Uirapurus 3047 bairro Arco Íris", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Uirapurus, n 3047, bairro Arco Íris", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua dos Uirapurus, número 3047, bairro Arco Íris", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Arco Íris,ruados Uirapurus, n 3047", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Arco Íris, número 3047,ruados Uirapurus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
