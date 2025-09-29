@@ -25,7 +25,7 @@ async function messageHandler(client, message) {
                 await client.sendMessage(userId, "⚠️ Caractere inválido detectado na mensagem. Por favor, evite usar os seguintes caracteres: ( ) { } ;");
                 return;
             } 
-            if(message.body.length < 3 && userState !== 'waitingSector'){
+            if(message.body.length < 3 && userState !== 'waitingSector' && userState !== 'waitingImage' && userState !== 'askingForImage'){
                 await client.sendMessage(userId, "Preciso de mais informações para te ajudar. Pode detalhar mais?");
                 return;
             }

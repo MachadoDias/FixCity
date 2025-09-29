@@ -208,7 +208,8 @@ def main():
     
     test_addresses = [
         "Praça Central do Bairro São José, próxima à Rua das Flores, nº 128.", "Rua das Acácias, nº 45, Bairro Jardim das Flores.",
-        "Rua das Palmeiras, 75, Bairro São José"
+        "Rua Tenente Aníbal Medeiros, número 113, bairro Boa Vista",
+        "Tô sem luz aqui"
     ]
     
     for addr in test_addresses:
