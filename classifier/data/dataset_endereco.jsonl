@@ -16558,5 +16558,5 @@
 {"text": "Rua dos Uirapurus 3047 bairro Arco Íris", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "Rua dos Uirapurus, n 3047, bairro Arco Íris", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "Rua dos Uirapurus, número 3047, bairro Arco Íris", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
-{"text": "Bairro Arco Íris,ruados Uirapurus, n 3047", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
-{"text": "Bairro Arco Íris, número 3047,ruados Uirapurus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Arco Íris,rua dos Uirapurus, n 3047", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Arco Íris, número 3047,rua dos Uirapurus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}

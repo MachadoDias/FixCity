@@ -1,7 +1,6 @@
 const {Client, LocalAuth} = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal')
 const { messageHandler } = require('./handler.js');
-const { getAddress } = require('./utils.js');
 const startTime = Date.now();
 const client = new Client({
   authStrategy: new LocalAuth({
@@ -20,5 +19,3 @@ client.on('message', msg => {
   if(msg.timestamp * 1000 >= startTime) messageHandler(client, msg);
 });
 client.initialize();
-
-//module.exports = client;

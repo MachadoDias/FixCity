@@ -1,4 +1,5 @@
 const fetch = require("node-fetch");
+const { queue } = require("./api/classifier.js");
 
 const { clearUserState, setUserData, getUserData } = require('./state.js');
 function getCurrentTimestamp() {
@@ -23,7 +24,7 @@ function VerifyNumberOfTries(client, message){
   return true;
 }
 
-async function getAddress(lat, lon) {
+async function reverseGeocode(lat, lon) {
   const url = `https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lon}&addressdetails=1`;
 
   const res = await fetch(url, {
@@ -58,4 +59,4 @@ function parseAddress(nominatimData) {
   };
 }
 
-module.exports = {getCurrentTimestamp, logError, generateDemandId, VerifyNumberOfTries, getAddress};
+module.exports = {getCurrentTimestamp, logError, generateDemandId, VerifyNumberOfTries, getAddress: (lat, lon) => queue.add(() => reverseGeocode(lat, lon))};
