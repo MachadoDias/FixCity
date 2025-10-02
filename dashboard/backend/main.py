@@ -1,8 +1,11 @@
-from flask import Flask, jsonify, request, send_from_directory
+from flask import Flask, jsonify, request, send_from_directory, Response
 from flask_cors import CORS
 import db_interface as db
 from config import Config
 import os
+import json
+import time
+from threading import Lock
 
 app = Flask(__name__)
 app.config.from_object(Config)
@@ -16,6 +19,10 @@ data_uploads_dir = os.path.join(os.path.dirname(__file__), '..', '..', 'data', '
 os.makedirs(data_uploads_dir, exist_ok=True)
 # Inicializa o banco no startup
 db.init_db()
+
+# Lista de clientes conectados para SSE
+clients = []
+clients_lock = Lock()
 
 
 
@@ -34,6 +41,10 @@ def post_demand():
         return jsonify({'error': 'Missing required field'}), 400
 
     new_demand = db.create_demand(payload)
+    
+    # Notificar clientes conectados sobre nova demanda
+    notify_clients('new_demand', new_demand)
+    
     return jsonify(new_demand), 201
 
 @app.route('/api/demands/<int:demand_id>', methods=['PUT'])
@@ -75,5 +86,42 @@ def get_demands_with_full_image_urls():
                 demand['image_path'] = f"http://localhost:5000/uploads/{filename}"
     return jsonify(demands), 200
 
+def notify_clients(event_type, data):
+    """Notifica todos os clientes conectados via SSE"""
+    with clients_lock:
+        message = f"data: {json.dumps({'type': event_type, 'data': data})}\n\n"
+        for client in clients[:]:
+            try:
+                client.put(message)
+            except:
+                clients.remove(client)
+
+@app.route('/api/events')
+def events():
+    """Endpoint para Server-Sent Events"""
+    def event_stream():
+        import queue
+        client_queue = queue.Queue()
+        
+        with clients_lock:
+            clients.append(client_queue)
+        
+        try:
+            while True:
+                try:
+                    message = client_queue.get(timeout=30)
+                    yield message
+                except queue.Empty:
+                    yield "data: {\"type\": \"heartbeat\"}\n\n"
+        except GeneratorExit:
+            with clients_lock:
+                if client_queue in clients:
+                    clients.remove(client_queue)
+    
+    return Response(event_stream(), mimetype='text/event-stream',
+                   headers={'Cache-Control': 'no-cache',
+                           'Connection': 'keep-alive',
+                           'Access-Control-Allow-Origin': '*'})
+
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    app.run(debug=True, port=5000, threaded=True)

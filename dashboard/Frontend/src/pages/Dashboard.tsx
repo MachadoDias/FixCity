@@ -41,6 +41,14 @@ const Dashboard: React.FC = () => {
     }
 
     loadDemands()
+    
+    // Listener para novas demandas
+    const handleNewDemand = () => {
+      loadDemands()
+    }
+    
+    window.addEventListener('newDemand', handleNewDemand)
+    return () => window.removeEventListener('newDemand', handleNewDemand)
   }, [])
 
   const totalDemands = demands.length
