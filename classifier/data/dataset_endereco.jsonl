@@ -16558,5 +16558,2057 @@
 {"text": "Rua dos Uirapurus 3047 bairro Arco Íris", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "Rua dos Uirapurus, n 3047, bairro Arco Íris", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
 {"text": "Rua dos Uirapurus, número 3047, bairro Arco Íris", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
-{"text": "Bairro Arco Íris,rua dos Uirapurus, n 3047", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
-{"text": "Bairro Arco Íris, número 3047,rua dos Uirapurus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Arco Íris,ruados Uirapurus, n 3047", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Bairro Arco Íris, número 3047,ruados Uirapurus", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Brasil, número 456, Centro", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Sebastião Vilela do Couto, 6501, Novo Horizonte", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Travessa das Palmeiras, número 89, Vila Nova", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Alameda dos Anjos, n° 234, Jardim América", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Estrada Municipal, km 12, Zona Rural", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rodovia BR-040, número 567, Distrito Industrial", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Rua Professor João Silva, número 890, Bairro Universitário", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "Avenida Presidente Vargas, n° 1234, Centro Histórico", "labels": {"IS_ADDRESS": 1, "NOT_ADDRESS": 0}}
+{"text": "João da Silva, 30 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos, número de telefone é 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro mora na rua de casa número 5", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana disse que o bairro onde mora é Centro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "O poste número 123 está queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua, próximo ao número 456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado, rua sem identificação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado no cruzamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João da Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Roberto Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Rodrigues", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Patrícia Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "José Carlos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ricardo Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Camila Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Luciana Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Felipe Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriela Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Thiago Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Letícia Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gustavo Pinto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Renata Moreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Diego Correia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Silva, 25 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria, 30 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro tem 45 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Costa, nascida em 1990", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos, 35 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda de 28 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema com água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "O poste está sem luz", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tem um buraco grande aqui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito lixo na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo não funciona", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueou a rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada está quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Não tem luz na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto está vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta água na torneira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste número 123 queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco próximo ao número 456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo no poste 789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo do cruzamento 321 quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caiu no poste 654", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema no hidrômetro 987", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá, como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado pela ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por favor, me ajude", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Com licença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Desculpe o incômodo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "De nada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Socorro!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Urgente!", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "É emergência", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso resolver isso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ajuda aqui por favor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meu telefone é 123456789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: teste@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Trabalho no centro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hoje é segunda-feira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amanhã às 14h", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ontem de manhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Data: 15/03/2024", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário: 14:30", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Às 8h da manhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Custa R$ 150,00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valor: 200 reais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preço: R$ 50", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Número do protocolo: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Código: ABC123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ID: 789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João mora na rua de baixo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria disse que o bairro é bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro conhece a avenida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana falou sobre a praça", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos passou pela travessa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda viu a alameda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão no bairro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Situação na avenida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Dificuldade na praça", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Complicação na travessa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Caso na alameda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário de funcionamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Informações gerais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Dados importantes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Detalhes do serviço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Características do produto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Especificações técnicas", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Está certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ótimo trabalho", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sucesso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aprovado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Confirmado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Finalizado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem luz", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na pista", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até mais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por favor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Com licença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Desculpe", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Socorro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Urgente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Emergência", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "De nada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até amanhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hoje às 14h", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amanhã de manhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ontem à noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Segunda-feira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "15/03/2024", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário: 08:30", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Data: 20/12/2023", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Às 18h", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "De manhã cedo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "À tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Durante a noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Final de semana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R$ 150,00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valor: 200 reais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preço: R$ 50", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Custa 100 reais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Protocolo: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Código: ABC789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ID: 456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Número: 789123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Referência: XYZ456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Processo: 2024001", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ticket: T123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão no bairro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Situação na avenida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João mora na rua de baixo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria conhece a praça", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro viu a alameda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana passou pela travessa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos falou do largo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda conhece o centro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema perto da escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão próxima ao hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Situação na região", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário de funcionamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Informações gerais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Dados importantes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Detalhes do serviço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Características do produto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Especificações técnicas", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Manual de instruções", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Política de privacidade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Termos de uso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Condições de pagamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Prazo de entrega", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Garantia do produto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Está certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ótimo trabalho", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sucesso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aprovado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Confirmado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Finalizado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Concluído", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Resolvido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entendido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Correto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aceito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira, 30 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem luz - Amanhã de manhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado! Muito bem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Protocolo 345593 - Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento relatou: Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro sem tampa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixeira quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Massa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria conhece a praça", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Natália Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta luz pública", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Zara Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Registro: R123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vlw", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda conhece o centro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ótimo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo desligado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mais tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tmj", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beatriz Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco grande", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meia-noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igor Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Detalhes do serviço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Situação na avenida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ótimo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Emergência", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco grande", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Dados importantes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão próxima ao hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta luz pública", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário: 08:30", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo desligado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Código: ABC789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como funciona", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até mais ver", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Próxima semana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto a céu aberto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Confirmado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fim de semana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nos vemos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Resolvido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco grande", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Natália Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Início da manhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "De manhã cedo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ontem à noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro viu a alameda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada irregular", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "De nada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "À tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beatriz Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Abraço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falou", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro sem tampa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Antes do jantar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Termos de uso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Flw", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco grande", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sucesso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixeira quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio danificado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igor Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco grande", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Dúvidas comuns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igor Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tabela: T789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formulário: F789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ticket: T123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Segunda-feira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até mais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Blz", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste com problema", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Resolvido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Características do produto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi, tudo bem?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entendido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Yuri Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tmj", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Quando usar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto a céu aberto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos falou do largo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Confirmado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igor Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Zara Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aceito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sucesso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste com problema", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste com problema", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Zara Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Data: 20/12/2023", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até amanhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por favor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beijo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada irregular", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mês que vem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Caso na vizinhança", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ano passado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Top", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Yuri Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Arquivo: A456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amanhã de manhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falou", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi, tudo bem?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto a céu aberto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Natália Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valor: 200 reais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Finalizado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beatriz Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igor Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Qual a diferença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste com problema", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Onde encontrar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Final de semana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedido: P789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Custa 100 reais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Emergência", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por que escolher", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na via", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixeira quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Atendimento: A456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio danificado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beleza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perguntas frequentes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo desligado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Show", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada irregular", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Atendimento ao cliente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na via", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como usar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Desculpe", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Com licença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Concluído", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Correto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na via", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gráfico: G456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por favor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beatriz Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Brigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Concluído", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Número: 789123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Desculpe", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beatriz Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entardecer", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como cancelar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Yuri Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na via", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste com problema", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Para que serve", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo desligado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Manual de instruções", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aprovado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema perto da escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Durante a noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R$ 150,00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João mora na rua de baixo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Prazo de entrega", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Instruções de uso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FAQ", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Condições de pagamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Situação na região", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ID: 456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aprovado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Madrugada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto a céu aberto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entendido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Zara Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro sem tampa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Show", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Abraço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Garantia do produto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "História da rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beleza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amanhecer", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como comprar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vlw", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Complicação no local", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até mais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como pagar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Relatório: R456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conversa da praça", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Depois do almoço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na via", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nos vemos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Documento: D789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Yuri Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta luz pública", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ordem: O456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beijo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Informações gerais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Urgente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada irregular", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Dificuldade na área", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro sem tampa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Brigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Urgente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Comentário do largo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Chamado: C789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fim do dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Finalizado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio danificado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Processo: 2024001", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio danificado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Guia do usuário", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixeira quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro sem tampa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daqui a pouco", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até amanhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Com licença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Socorro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo desligado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio danificado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agora mesmo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Yuri Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Suporte técnico", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Protocolo: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Começo da noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pasta: P123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Especificações técnicas", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passo a passo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Natália Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio da tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Notícia da avenida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Correto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto a céu aberto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Blz", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Referência: XYZ456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bacana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Massa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Zara Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão no bairro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Às 18h", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Flw", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preço: R$ 50", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "15/03/2024", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Assunto do bairro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Socorro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta luz pública", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "De nada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aceito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Planilha: P123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Natália Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hoje às 14h", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana passou pela travessa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Política de privacidade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bacana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tutorial", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até mais ver", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixeira quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Solicitação: S123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Central de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta luz pública", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário de funcionamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Top", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada irregular", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como funciona", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mês que vem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daqui a pouco", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Informações gerais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda conhece o centro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perguntas frequentes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nos vemos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Natália Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passo a passo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Emergência", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Documento: D789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Finalizado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bacana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Notícia da avenida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tabela: T789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Socorro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conversa da praça", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio da tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por que escolher", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio da tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até amanhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beatriz Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Brigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bacana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão próxima ao hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Correto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ordem: O456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igor Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste com problema", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Complicação no local", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igor Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro sem tampa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada irregular", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada irregular", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixeira quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema perto da escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até mais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Condições de pagamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como cancelar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Flw", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Especificações técnicas", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igor Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Flw", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi, tudo bem?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Complicação no local", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beatriz Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beleza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beatriz Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mais tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada irregular", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedro viu a alameda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedido: P789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Situação na avenida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Central de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na via", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ótimo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Madrugada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Chamado: C789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio danificado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como comprar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Às 18h", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Relatório: R456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixeira quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Central de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Referência: XYZ456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como cancelar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "15/03/2024", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fui", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bacana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como pagar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Finalizado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ID: 456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beatriz Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Abraço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Natália Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Dados importantes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Zara Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Durante a noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Concluído", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio da tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta luz pública", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preço: R$ 50", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Com licença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pasta: P123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Relatório: R456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Top", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "De nada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Legal", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entendido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "História da rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Blz", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aprovado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta luz pública", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta luz pública", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Correto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixeira quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Número: 789123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ordem: O456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Yuri Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana passou pela travessa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada irregular", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Dificuldade na área", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ticket: T123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Massa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Show", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Atendimento ao cliente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema perto da escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gráfico: G456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Custa 100 reais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até amanhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Data: 20/12/2023", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto a céu aberto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Assunto do bairro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo desligado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Para que serve", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário de funcionamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Solicitação: S123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fim de semana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ontem à noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Próxima semana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Começo da noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na via", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "ID: 456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igor Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Planilha: P123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão próxima ao hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Show", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R$ 150,00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste com problema", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ordem: O456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Para que serve", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Registro: R123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fim do dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R$ 150,00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ótimo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Urgente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Brigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aceito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana passou pela travessa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Com licença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos falou do largo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por que escolher", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Condições de pagamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "FAQ", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pasta: P123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Socorro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beijo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Onde encontrar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Desculpe", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "À tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Yuri Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Características do produto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por que escolher", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão no bairro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vlw", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tutorial", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "De manhã cedo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amanhecer", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda conhece o centro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olivia Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nos vemos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falou", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio danificado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Custa 100 reais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Parabéns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Instruções de uso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como pagar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meia-noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Arquivo: A456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Concluído", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Abraço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Emergência", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Desculpe", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Zara Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Zara Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Qual a diferença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tabela: T789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tmj", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Central de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preço: R$ 50", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Top", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Antes do jantar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Características do produto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo desligado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Oi, tudo bem?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco grande", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nos vemos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Detalhes do serviço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Complicação no local", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ótimo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mês que vem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto a céu aberto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio da tarde", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Prazo de entrega", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Com licença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CNH: 12345678901", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco grande", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Termos de uso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito bom", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário: 08:30", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão próxima ao hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Garantia do produto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário: 08:30", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Caso na vizinhança", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Manual de instruções", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Complicação no local", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Show", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entardecer", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ordem: O456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Boa noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "15/03/2024", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Política de privacidade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Comentário do largo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Massa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo desligado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Olá", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Próxima semana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio danificado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Marcos Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beleza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão no bairro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Durante a noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixeira quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Planilha: P123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pasta: P123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até mais ver", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Socorro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana passou pela travessa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na via", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Início da manhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Natália Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Comentário do largo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro sem tampa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto a céu aberto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Final de semana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada irregular", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Arquivo: A456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio danificado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entardecer", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Política de privacidade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nicolas Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cartão de crédito: final 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Correto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Confirmado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tudo certo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sucesso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Central de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Termos de uso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Hoje às 14h", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preciso de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Protocolo: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "RG: 12.345.678-9", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beatriz Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Começo da noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amanhã de manhã", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Prazo de entrega", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falou", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco grande", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sucesso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Beijo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Número: 789123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta luz pública", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Abraço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Questão próxima ao hospital", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Planilha: P123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro sem tampa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R$ 150,00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daqui a pouco", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aceito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "PIS: 987654321", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aceito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Zara Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lucas Ferreira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "De nada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Problema perto da escola", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formação: superior completo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Código: ABC789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo desligado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Garantia do produto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa danificada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Wagner Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Política de privacidade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na via", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fabio Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valor: 200 reais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entendido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore bloqueando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo desligado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo na via", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Giovana Alves", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste com problema", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Situação na região", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Central de ajuda", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pasta: P123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Caso na vizinhança", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agora mesmo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Especificações técnicas", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carla Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Karina Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Dúvidas comuns", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Data: 20/12/2023", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Altura: 1,75m", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Larissa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Especificações técnicas", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação solta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Segunda-feira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro sem tampa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como funciona", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "André Oliveira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Yuri Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Natália Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Natália Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até mais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Excelente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entardecer", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até mais ver", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como pagar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Urgente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conta: 56789-0", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Formulário: F789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento de gás", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meia-noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário: 08:30", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de iluminação", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por favor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Queila Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Muito obrigado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Depois do almoço", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Situação na região", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Dificuldade na área", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Onde encontrar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Qual a diferença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ano passado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Referência: XYZ456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Yuri Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Juliana Castro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entendido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos falou do largo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por favor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Blz", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Garantia do produto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto vazando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Rafael Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fiação exposta", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Guia do usuário", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carteira de trabalho: 123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco grande", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Notícia da avenida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Débora Pereira", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Suporte técnico", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta luz pública", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Qual a diferença", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Elisa Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como cancelar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bom dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Código: ABC789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Confirmado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-dia", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até mais", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perguntas frequentes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Otávio Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daqui a pouco", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Guia do usuário", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Calçada quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como usar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amanhecer", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perguntas frequentes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Árvore caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário de funcionamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro sem tampa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Processo: 2024001", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Massa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Experiência: 5 anos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Comentário do largo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Yuri Mendes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria conhece a praça", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixeira quebrada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Email: usuario@email.com", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Preço: R$ 50", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tmj", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Conversa da praça", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vanessa Lima", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tchau", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pasta: P123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Atendimento: A456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Suporte técnico", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Por favor", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Eduardo Nunes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada piscando", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Limite: R$ 2000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Notícia da avenida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste inclinado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "25 anos de idade", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entardecer", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pode me ajudar?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Salário: R$ 5000", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Manual de instruções", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Guia do usuário", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Igor Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como vai?", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Resolvido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho na calçada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Passaporte: AB123456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Registro: R123", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Urgente", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tampa de bueiro sumiu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Até logo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Atendimento: A456", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Termos de uso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Próxima semana", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Naturalidade: São Paulo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto a céu aberto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Estado civil: solteiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Profissão: engenheiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Isabela Moura", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Galho na rede elétrica", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Maria conhece a praça", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Henrique Dias", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Tiago Araújo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Desculpe", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bruno Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Resolvido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco no asfalto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Agência: 1234", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "R$ 150,00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Plano de saúde: Unimed", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meia-noite", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João Pedro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Entulho abandonado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Carlos Almeida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Amanhecer", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Banco: Itaú", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vazamento na rua", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ana Silva", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Fernanda Barbosa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Sofia Nascimento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falta de água", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Semáforo quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "João mora na rua de baixo", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Zara Santos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lâmpada queimada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Ximena Costa", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Vlw", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Assunto do bairro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Quando usar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Situação na avenida", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Perfeito", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste sem numeração", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Gabriel Martins", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste queimado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Pedido: P789", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Lixo acumulado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Confirmado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste com problema", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Peso: 70kg", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Daniel Rocha", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mês que vem", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aprovado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Nascido em 1985", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Bueiro entupido", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Como usar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Título de eleitor: 1234567890", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "CPF: 123.456.789-00", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio danificado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Kevin Souza", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Antes do jantar", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Mariana Gomes", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Cor dos olhos: castanhos", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Helena Cardoso", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Esgoto a céu aberto", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poste com problema", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Meio-fio quebrado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Aprovado", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Horário de funcionamento", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Valeu", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Poça d'água parada", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Buraco grande", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Telefone: (11) 99999-9999", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Paulo Ribeiro", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Placa de trânsito caída", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
+{"text": "Falou", "labels": {"IS_ADDRESS": 0, "NOT_ADDRESS": 1}}
