@@ -19,6 +19,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   const navigation = [
     { name: 'Dashboard', href: '/dashboard', icon: LayoutDashboard, color: currentTheme.colors.gradient },
     { name: 'Demandas', href: '/demandas', icon: FileText, color: currentTheme.colors.gradient },
+    { name: 'Mapas', href: '/mapas', icon: MapPin, color: currentTheme.colors.gradient },
     { name: 'Relatórios', href: '/relatorios', icon: BarChart3, color: currentTheme.colors.gradient },
     { name: 'Configurações', href: '/configuracoes', icon: Settings, color: currentTheme.colors.gradient },
   ]

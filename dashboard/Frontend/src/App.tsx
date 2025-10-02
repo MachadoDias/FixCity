@@ -8,6 +8,7 @@ import Layout from './components/Layout'
 import Login from './pages/Login'
 import Dashboard from './pages/Dashboard'
 import Demandas from './pages/Demandas'
+import Mapas from './pages/Mapas'
 import Relatorios from './pages/Relatorios'
 import Configuracoes from './pages/Configuracoes'
 
@@ -52,6 +53,7 @@ const AppContent: React.FC = () => {
                     <Route path="/" element={<Navigate to="/dashboard" replace />} />
                     <Route path="/dashboard" element={<Dashboard />} />
                     <Route path="/demandas" element={<Demandas />} />
+                    <Route path="/mapas" element={<Mapas />} />
                     <Route path="/relatorios" element={<Relatorios />} />
                     <Route path="/configuracoes" element={<Configuracoes />} />
                   </Routes>
