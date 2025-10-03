@@ -1,5 +1,4 @@
 const fetch = require('node-fetch');
-const client = require('../index.js');
 
 async function saveDemand(data) {
   const payload = {

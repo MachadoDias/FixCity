@@ -2,10 +2,20 @@ import sqlite3
 from sqlite3 import Connection, Row
 from typing import List, Dict, Any
 from config import Config
-import subprocess
+import requests
 import os
 
 DB_PATH = Config.DB_PATH
+
+def translate_status(status: str) -> str:
+    """Traduz status do inglês para português"""
+    translations = {
+        'pending': 'pendente',
+        'in_progress': 'em andamento',
+        'resolved': 'resolvida',
+        'cancelled': 'cancelada'
+    }
+    return translations.get(status, status)
 
 def get_connection() -> Connection:
          conn = sqlite3.connect(DB_PATH)
@@ -84,6 +94,28 @@ def update_demand(demand_id: int, data: Dict[str, Any]) -> Dict[str, Any]:
     
     # Retornar a demanda atualizada
     updated_demand = conn.execute('SELECT * FROM demands WHERE id = ?', (demand_id,)).fetchone()
+    
+    # Notificar usuário via HTTP se status foi alterado
+    if updated_demand and 'status' in data and updated_demand['requester_contact']:
+        try:
+            payload = {
+                'contact': updated_demand['requester_contact'],
+                'name': updated_demand['requester'],
+                'sector': updated_demand['title'],
+                'status': translate_status(data['status'])
+            }
+            
+            response = requests.post('http://localhost:3001/notify', 
+                                   json=payload, 
+                                   timeout=5)
+            
+            if response.status_code == 200:
+                print(f"✅ Notificação enviada para {updated_demand['requester']}")
+            else:
+                print(f"⚠️ Erro na notificação: {response.status_code}")
+                
+        except requests.exceptions.RequestException as e:
+            print(f"⚠️ Bot não disponível: {e}")
     
     conn.close()
     return dict(updated_demand) if updated_demand else None
