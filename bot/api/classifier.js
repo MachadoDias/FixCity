@@ -65,9 +65,10 @@ function runModel(script, text, sector = null) {
 }
 
 async function checkAddress(message) {
+  const formattedText = message.replace(/bairro\s*/i, "");
   const url = "https://nominatim.openstreetmap.org/search";
   const params = new URLSearchParams({
-    q: message,
+    q: formattedText,
     format: "json",
     addressdetails: 1,
     limit: 1
@@ -87,7 +88,7 @@ async function checkAddress(message) {
 
     const data = await response.json();
     if (!data || data.length === 0) {
-      return false;
+      return null;
     }
 
     const addr = data[0].address || {};
@@ -103,16 +104,18 @@ async function checkAddress(message) {
     ]);
     const city = addr.town.toLowerCase();
     if(!city.includes('santa rita'))
-      return false;
+      return null;
     const hasAddressKey = Object.keys(addr).some(key =>
       addressKeys.has(key)
     );
-
-    return hasAddressKey;
+    if(!hasAddressKey) 
+      return null;
+    const number = message.match(/\d+/)[0];
+    return `${addr.road}, ${number}, ${addr.suburb}`;
 
   } catch (err) {
     console.error("Erro ao consultar Nominatim:", err.message);
-    return false;
+    return null;
   }
 }
 

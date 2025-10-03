@@ -15,7 +15,10 @@ client.on('ready', () => {
 });
 client.on('message', msg => {
   if(msg.from.endsWith('@g.us')) return;
-  if(msg.type !== 'chat' && msg.type !== 'location' && msg.type !== 'image') return;
+  if(msg.type !== 'chat' && msg.type !== 'location' && msg.type !== 'image') {
+    client.sendMessage(msg.from, "Infelizmente não consigo entender esse tipo de mensagem");
+    return;
+  }
   if(msg.timestamp * 1000 >= startTime) messageHandler(client, msg);
 });
 client.initialize();

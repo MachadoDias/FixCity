@@ -25,7 +25,7 @@ export const useNotifications = () => {
             {
               duration: 5000,
               style: {
-                background: '#10B981',
+                background: '#ff8177',
                 color: 'white',
               },
             }

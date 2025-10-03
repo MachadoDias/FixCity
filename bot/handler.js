@@ -25,7 +25,7 @@ async function messageHandler(client, message) {
                 await client.sendMessage(userId, "⚠️ Caractere inválido detectado na mensagem. Por favor, evite usar os seguintes caracteres: ( ) { } ;");
                 return;
             } 
-            if(message.body.length < 3 && userState !== 'waitingSector' && userState !== 'waitingImage' && userState !== 'askingForImage'){
+            if(message.body.length < 3 && userState !== 'waitingSector' && userState !== 'waitingImage' && userState !== 'askingForImage' && userState !== 'waitingAddress'){
                 await client.sendMessage(userId, "Preciso de mais informações para te ajudar. Pode detalhar mais?");
                 return;
             }
@@ -75,7 +75,7 @@ async function messageHandler(client, message) {
                             const address = await getAddress(message.location.latitude, message.location.longitude);
                             setUserData(userId, "endereco", address);
                         }
-                        else setUserData(userId, "endereco", message.body);
+                        else setUserData(userId, "endereco", enderecoValido);
                         setUserData(userId, "numeroDeTentativas", 0);
                     }
                     break;
