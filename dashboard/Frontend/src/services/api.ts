@@ -28,7 +28,19 @@ class ApiService {
       const response = await fetch(url, config)
       
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`)
+        let errorMessage = `HTTP error! status: ${response.status}`
+        try {
+          const errorData = await response.json()
+          errorMessage = errorData.error || errorMessage
+        } catch {
+          // Se não conseguir parsear o JSON, usa a mensagem padrão
+        }
+        throw new Error(errorMessage)
+      }
+      
+      // Para DELETE, pode não ter conteúdo JSON
+      if (response.status === 204 || response.headers.get('content-length') === '0') {
+        return {} as T
       }
       
       return await response.json()
@@ -61,9 +73,14 @@ class ApiService {
   }
 
   async deleteDemand(id: number): Promise<void> {
-    await this.request<void>(`/demands/${id}`, {
-      method: 'DELETE',
-    })
+    try {
+      await this.request<any>(`/demands/${id}`, {
+        method: 'DELETE',
+      })
+    } catch (error) {
+      console.error(`Error deleting demand ${id}:`, error)
+      throw error
+    }
   }
 }
 

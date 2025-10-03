@@ -49,18 +49,37 @@ def post_demand():
 
 @app.route('/api/demands/<int:demand_id>', methods=['PUT'])
 def update_demand(demand_id):
-    payload = request.get_json()
-    updated_demand = db.update_demand(demand_id, payload)
-    if not updated_demand:
-        return jsonify({'error': 'Demand not found'}), 404
-    return jsonify(updated_demand), 200
+    try:
+        payload = request.get_json()
+        if not payload:
+            return jsonify({'error': 'No data provided'}), 400
+            
+        updated_demand = db.update_demand(demand_id, payload)
+        if not updated_demand:
+            return jsonify({'error': 'Demand not found'}), 404
+        
+        # Notificar clientes conectados sobre demanda atualizada
+        notify_clients('demand_updated', updated_demand)
+        
+        return jsonify(updated_demand), 200
+    except Exception as e:
+        print(f"Error updating demand {demand_id}: {str(e)}")
+        return jsonify({'error': 'Internal server error'}), 500
 
 @app.route('/api/demands/<int:demand_id>', methods=['DELETE'])
 def delete_demand(demand_id):
-    success = db.delete_demand(demand_id)
-    if not success:
-        return jsonify({'error': 'Demand not found'}), 404
-    return '', 204
+    try:
+        success = db.delete_demand(demand_id)
+        if not success:
+            return jsonify({'error': 'Demand not found'}), 404
+        
+        # Notificar clientes conectados sobre demanda removida
+        notify_clients('demand_deleted', {'id': demand_id})
+        
+        return jsonify({'message': 'Demand deleted successfully'}), 200
+    except Exception as e:
+        print(f"Error deleting demand {demand_id}: {str(e)}")
+        return jsonify({'error': 'Internal server error'}), 500
 
 @app.route('/uploads/<path:filename>')
 def serve_upload(filename):

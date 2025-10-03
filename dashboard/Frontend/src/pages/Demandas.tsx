@@ -111,10 +111,17 @@ const Demandas: React.FC = () => {
     const loadDemands = async () => {
       try {
         setLoading(true)
+        console.log('Carregando demandas da API...')
         const fetchedApiDemands = await apiService.getDemands()
+        console.log('Demandas recebidas da API:', fetchedApiDemands.length)
+        
         const mappedDemands = fetchedApiDemands.map(mapApiDemandToLocal)
+        console.log('Demandas mapeadas:', mappedDemands.length)
+        
         setApiDemands(fetchedApiDemands)
         setDemandas(mappedDemands)
+        
+        console.log('Estado atualizado com sucesso')
       } catch (error) {
         console.error('Erro ao carregar demandas:', error)
         toast.error('Erro ao carregar demandas')
@@ -127,6 +134,7 @@ const Demandas: React.FC = () => {
     
     // Listener para novas demandas
     const handleNewDemand = () => {
+      console.log('Evento newDemand recebido, recarregando dados...')
       loadDemands()
     }
     
@@ -209,11 +217,24 @@ const Demandas: React.FC = () => {
   }
 
   const handleStatusChange = async () => {
-    if (!selectedDemanda || !newStatus || !user) return
+    if (!selectedDemanda || !newStatus || !user) {
+      console.log('Validação falhou:', { selectedDemanda: !!selectedDemanda, newStatus, user: !!user })
+      return
+    }
+
+    console.log('Iniciando alteração de status:', {
+      demandaId: selectedDemanda.id,
+      statusAtual: selectedDemanda.status,
+      novoStatus: newStatus,
+      usuario: user.name
+    })
 
     try {
       const apiStatus = mapLocalStatusToApi(newStatus as any)
-      await apiService.updateDemand(selectedDemanda.id, { status: apiStatus })
+      console.log('Status mapeado para API:', apiStatus)
+      
+      const updatedApiDemand = await apiService.updateDemand(selectedDemanda.id, { status: apiStatus })
+      console.log('Resposta da API:', updatedApiDemand)
       
       const novaAlteracao: HistoricoAlteracao = {
         id: selectedDemanda.historico.length + 1,
@@ -234,31 +255,64 @@ const Demandas: React.FC = () => {
 
       setSelectedDemanda(demandaAtualizada)
       
-      // Atualizar lista local
+      // Atualizar lista local e API
       setDemandas(prev => prev.map(d => 
         d.id === selectedDemanda.id ? demandaAtualizada : d
+      ))
+      
+      setApiDemands(prev => prev.map(d => 
+        d.id === selectedDemanda.id ? updatedApiDemand : d
       ))
       
       setEditingStatus(false)
       setNewStatus('')
       setStatusObservacao('')
       
-      toast.success(`Status alterado para ${newStatus.replace('_', ' ')}`)
+      console.log('Status alterado com sucesso')
+      toast.success(`Status alterado para ${formatStatus(newStatus)}`)
     } catch (error) {
-      console.error('Erro ao atualizar status:', error)
-      toast.error('Erro ao atualizar status')
+      console.error('Erro detalhado ao atualizar status:', {
+        error,
+        demandaId: selectedDemanda.id,
+        newStatus,
+        stack: error instanceof Error ? error.stack : 'N/A'
+      })
+      const errorMessage = error instanceof Error ? error.message : 'Erro desconhecido'
+      toast.error(`Erro ao atualizar status: ${errorMessage}`)
     }
   }
 
   const handleDeleteDemand = async () => {
-    if (!selectedDemanda || !deleteReason) return
-    if (deleteReason === 'Outro motivo' && !customReason.trim()) return
+    if (!selectedDemanda || !deleteReason) {
+      console.log('Validação de exclusão falhou:', { selectedDemanda: !!selectedDemanda, deleteReason })
+      return
+    }
+    if (deleteReason === 'Outro motivo' && !customReason.trim()) {
+      console.log('Motivo customizado não fornecido')
+      return
+    }
+
+    console.log('Iniciando exclusão de demanda:', {
+      demandaId: selectedDemanda.id,
+      motivo: deleteReason === 'Outro motivo' ? customReason : deleteReason
+    })
 
     try {
       await apiService.deleteDemand(selectedDemanda.id)
+      console.log('Demanda excluída da API com sucesso')
       
-      // Remover da lista local
-      setDemandas(prev => prev.filter(d => d.id !== selectedDemanda.id))
+      // Remover da lista local e API
+      setDemandas(prev => {
+        const updated = prev.filter(d => d.id !== selectedDemanda.id)
+        console.log(`Lista local atualizada: ${prev.length} -> ${updated.length} demandas`)
+        return updated
+      })
+      
+      setApiDemands(prev => {
+        const updated = prev.filter(d => d.id !== selectedDemanda.id)
+        console.log(`Lista API atualizada: ${prev.length} -> ${updated.length} demandas`)
+        return updated
+      })
       
       const finalReason = deleteReason === 'Outro motivo' ? customReason : deleteReason
       
@@ -267,10 +321,16 @@ const Demandas: React.FC = () => {
       setCustomReason('')
       setSelectedDemanda(null)
       
+      console.log('Exclusão concluída com sucesso')
       toast.success(`Demanda excluída. Motivo: ${finalReason}`)
     } catch (error) {
-      console.error('Erro ao excluir demanda:', error)
-      toast.error('Erro ao excluir demanda')
+      console.error('Erro detalhado ao excluir demanda:', {
+        error,
+        demandaId: selectedDemanda.id,
+        stack: error instanceof Error ? error.stack : 'N/A'
+      })
+      const errorMessage = error instanceof Error ? error.message : 'Erro desconhecido'
+      toast.error(`Erro ao excluir demanda: ${errorMessage}`)
     }
   }
 
@@ -672,6 +732,20 @@ const Demandas: React.FC = () => {
           <div>
             <h1 className="text-2xl font-bold text-gray-900">Gestão de Demandas</h1>
             <p className="text-gray-600 mt-1">Gerencie todas as solicitações da cidade</p>
+          </div>
+          <div className="mt-4 md:mt-0">
+            <button
+              onClick={() => {
+                console.log('Recarregando dados manualmente...')
+                loadDemands()
+              }}
+              className={`bg-gradient-to-r ${currentTheme.colors.gradient} text-white px-4 py-2 rounded-lg hover:opacity-90 transition-all duration-200 flex items-center space-x-2`}
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+              </svg>
+              <span>Recarregar</span>
+            </button>
           </div>
         </div>
       </motion.div>
