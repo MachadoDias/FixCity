@@ -96,7 +96,7 @@ async function messageHandler(client, message) {
                 case "askingForImage":
                     if (message.body == 1) {
                         setUserState(userId, "waitingImage");
-                        client.sendMessage(userId, "Ok, envie sua imagem");
+                        client.sendMessage(userId, "Ok, pode enviar a sua imagem. Por favor, envie somente uma foto");
                         break;
                     }
                     else if (message.body == 2) {
@@ -138,9 +138,14 @@ async function messageHandler(client, message) {
                             local_demanda: userData.endereco,
                             image_path: filename
                         };
-                        saveDemand(demand);
+                        if(Object.values(demand).every(value => value !== null && value !== undefined)){
+                            saveDemand(demand);
+                            await client.sendMessage(userId, '✅ Sua demanda foi registrada com sucesso!');
+                        }
+                        else{
+                            await client.sendMessage(userId, '❌ Ocorreu um erro ao processar sua solicitação, por favor tente novamente');
+                        }
                         clearUserState(userId);
-                        await client.sendMessage(userId, '✅ Sua demanda foi registrada com sucesso!');
                         return;
                     }
                     VerifyNumberOfTries(client, message);
