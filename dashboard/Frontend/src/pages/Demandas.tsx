@@ -55,13 +55,13 @@ function mapApiDemandToLocal(apiDemand: Demand): Demanda {
     localizacao: apiDemand.location,
     solicitante: apiDemand.requester,
     telefone: apiDemand.requester_contact || 'Não informado',
-    dataAbertura: apiDemand.created_at ? new Date(apiDemand.created_at).toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
-    dataUltimaAtualizacao: apiDemand.created_at ? new Date(apiDemand.created_at).toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
+    dataAbertura: apiDemand.created_at || new Date().toISOString(),
+    dataUltimaAtualizacao: apiDemand.created_at || new Date().toISOString(),
     descricao: apiDemand.description || apiDemand.title,
     foto: apiDemand.image_path,
     historico: [{
       id: 1,
-      data: apiDemand.created_at ? new Date(apiDemand.created_at).toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
+      data: apiDemand.created_at || new Date().toISOString(),
       usuario: 'Sistema',
       statusAnterior: '',
       statusNovo: mapApiStatusToLocal(apiDemand.status || 'pending'),
@@ -401,7 +401,14 @@ const Demandas: React.FC = () => {
                   <label className="block text-sm font-medium text-gray-500 mb-1">Data de Abertura</label>
                   <div className="flex items-center text-gray-900">
                     <Calendar className="w-4 h-4 mr-2 text-gray-400" />
-                    {new Date(selectedDemanda.dataAbertura).toLocaleDateString('pt-BR')}
+                    {new Date(selectedDemanda.dataAbertura).toLocaleDateString('pt-BR', {
+                      day: '2-digit',
+                      month: '2-digit',
+                      year: 'numeric'
+                    })} às {new Date(selectedDemanda.dataAbertura).toLocaleTimeString('pt-BR', {
+                      hour: '2-digit',
+                      minute: '2-digit'
+                    })}
                   </div>
                 </div>
               </div>
@@ -569,7 +576,14 @@ const Demandas: React.FC = () => {
                   </div>
                   <div className="flex items-center text-sm text-gray-600">
                     <Calendar className="w-4 h-4 mr-2" />
-                    {new Date(selectedDemanda.dataUltimaAtualizacao).toLocaleDateString('pt-BR')}
+                    {new Date(selectedDemanda.dataUltimaAtualizacao).toLocaleDateString('pt-BR', {
+                      day: '2-digit',
+                      month: '2-digit',
+                      year: 'numeric'
+                    })} às {new Date(selectedDemanda.dataUltimaAtualizacao).toLocaleTimeString('pt-BR', {
+                      hour: '2-digit',
+                      minute: '2-digit'
+                    })}
                   </div>
                 </div>
               </motion.div>
@@ -593,7 +607,14 @@ const Demandas: React.FC = () => {
                     <div className="flex justify-between items-start mb-2">
                       <span className="text-sm font-medium text-gray-900">{item.usuario}</span>
                       <span className="text-xs text-gray-500">
-                        {new Date(item.data).toLocaleDateString('pt-BR')}
+                        {new Date(item.data).toLocaleDateString('pt-BR', {
+                          day: '2-digit',
+                          month: '2-digit',
+                          year: 'numeric'
+                        })} às {new Date(item.data).toLocaleTimeString('pt-BR', {
+                          hour: '2-digit',
+                          minute: '2-digit'
+                        })}
                       </span>
                     </div>
                     <div className="text-sm text-gray-600">
@@ -958,10 +979,17 @@ const Demandas: React.FC = () => {
                   </td>
                   <td className="px-6 py-4">
                     <div className="text-sm text-gray-900">
-                      {new Date(demanda.dataAbertura).toLocaleDateString('pt-BR')}
+                      {new Date(demanda.dataAbertura).toLocaleDateString('pt-BR', {
+                        day: '2-digit',
+                        month: '2-digit', 
+                        year: 'numeric'
+                      })}
                     </div>
                     <div className="text-xs text-gray-500">
-                      Atualizada: {new Date(demanda.dataUltimaAtualizacao).toLocaleDateString('pt-BR')}
+                      {new Date(demanda.dataAbertura).toLocaleTimeString('pt-BR', {
+                        hour: '2-digit',
+                        minute: '2-digit'
+                      })}
                     </div>
                   </td>
                   <td className="px-6 py-4">
