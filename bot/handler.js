@@ -94,12 +94,12 @@ async function messageHandler(client, message) {
                     }
                     break;
                 case "askingForImage":
-                    if (message.body == 1) {
+                    if (message.body === '1') {
                         setUserState(userId, "waitingImage");
                         await client.sendMessage(userId, "Ok, pode enviar a sua imagem. Por favor, envie somente uma foto");
                         break;
                     }
-                    else if (message.body == 2) {
+                    else if (message.body === '2') {
                         const userData = getUserData(userId);
                         const demand = {
                             setor: userData.setor,
@@ -113,12 +113,10 @@ async function messageHandler(client, message) {
                         await client.sendMessage(userId, '✅ Sua demanda foi registrada com sucesso!');
                         break;
                     }
-                    else{
-                        await client.sendMessage(userId, "Opção inválida, por favor digite somente 1 ou 2");
-                    }
+                    await client.sendMessage(userId, "Opção inválida, por favor digite somente 1 ou 2");
                     VerifyNumberOfTries(client, message);
+                    break;
                 case "waitingImage":
-                    console.log("entrou no switch");
                     const fs = require('fs');
                     const mime = require('mime-types');
                     if (message.hasMedia) {
@@ -151,9 +149,7 @@ async function messageHandler(client, message) {
                         clearUserState(userId);
                         return;
                     }
-                    else{
-                        await client.sendMessage("Por favor envie sua imagem");
-                    }
+                    await client.sendMessage(userId, "Por favor, envie a imagem");
                     VerifyNumberOfTries(client, message);
             }
         }
