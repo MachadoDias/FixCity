@@ -35,7 +35,7 @@ def init_db():
                  requester_contact TEXT,
                  location TEXT,
                  status TEXT DEFAULT 'pending',
-                 created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+                 created_at TEXT,
                  changes TEXT
              )
          ''')
@@ -49,16 +49,22 @@ def list_demands() -> List[Dict[str, Any]]:
          return [dict(row) for row in demands]
 
 def create_demand(data: Dict[str, Any]) -> Dict[str, Any]:
+    from datetime import datetime
+    
     conn = get_connection()
     cursor = conn.cursor()
+    
+    # Usar horário local do sistema
+    local_timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    
     cursor.execute(
-        'INSERT INTO demands (title, description, requester, requester_contact, location, image_path) VALUES (?, ?, ?, ?, ?, ?)',
-        (data['title'], data.get('description'), data.get('requester'), data.get('requester_contact'), data.get('location'), data.get('image_path'))
+        'INSERT INTO demands (title, description, requester, requester_contact, location, image_path, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)',
+        (data['title'], data.get('description'), data.get('requester'), data.get('requester_contact'), data.get('location'), data.get('image_path'), local_timestamp)
     )
     conn.commit()
     new_id = cursor.lastrowid
     conn.close()
-    return {**data, 'id': new_id}
+    return {**data, 'id': new_id, 'created_at': local_timestamp}
 
 def get_demand(demand_id: int) -> Dict[str, Any]:
     conn = get_connection()
