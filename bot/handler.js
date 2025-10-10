@@ -96,7 +96,7 @@ async function messageHandler(client, message) {
                 case "askingForImage":
                     if (message.body == 1) {
                         setUserState(userId, "waitingImage");
-                        client.sendMessage(userId, "Ok, pode enviar a sua imagem. Por favor, envie somente uma foto");
+                        await client.sendMessage(userId, "Ok, pode enviar a sua imagem. Por favor, envie somente uma foto");
                         break;
                     }
                     else if (message.body == 2) {
@@ -112,6 +112,9 @@ async function messageHandler(client, message) {
                         clearUserState(userId);
                         await client.sendMessage(userId, '✅ Sua demanda foi registrada com sucesso!');
                         break;
+                    }
+                    else{
+                        await client.sendMessage(userId, "Opção inválida, por favor digite somente 1 ou 2");
                     }
                     VerifyNumberOfTries(client, message);
                 case "waitingImage":
@@ -147,6 +150,9 @@ async function messageHandler(client, message) {
                         }
                         clearUserState(userId);
                         return;
+                    }
+                    else{
+                        await client.sendMessage("Por favor envie sua imagem");
                     }
                     VerifyNumberOfTries(client, message);
             }

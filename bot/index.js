@@ -27,7 +27,7 @@ client.on('ready', () => {
 client.on('message', msg => {
   console.log(msg.type);
   if (msg.from.endsWith('@g.us')) return;
-  if(msg.type === 'album') return;
+  if(msg.type === 'album' || msg.type === 'e2e_notification' || msg.type === 'notification_template') return;
   if (msg.type !== 'chat' && msg.type !== 'location' && msg.type !== 'image') {
     client.sendMessage(msg.from, "Infelizmente não consigo entender esse tipo de mensagem");
     return;
