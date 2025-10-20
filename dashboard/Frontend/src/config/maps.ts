@@ -23,5 +23,5 @@ export const GOOGLE_MAPS_CONFIG = {
 
 // Função para verificar se a API key está configurada
 export const isGoogleMapsConfigured = (): boolean => {
-  return GOOGLE_MAPS_CONFIG.API_KEY !== 'AIzaSyAlgUxT1CcSquGt859VGuXrE9-iq3KZoG0'
+  return GOOGLE_MAPS_CONFIG.API_KEY !== ''
 }
