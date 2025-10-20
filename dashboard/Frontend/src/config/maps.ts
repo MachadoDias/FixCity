@@ -1,7 +1,7 @@
 // Configuração do Google Maps
 export const GOOGLE_MAPS_CONFIG = {
   // Substitua pela sua chave da API do Google Maps
-  API_KEY: 'AIzaSyAlgUxT1CcSquGt859VGuXrE9-iq3KZoG0',
+  API_KEY: '',
   
   // Configurações padrão do mapa
   DEFAULT_CENTER: {
