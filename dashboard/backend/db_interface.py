@@ -8,7 +8,6 @@ import os
 DB_PATH = Config.DB_PATH
 
 def translate_status(status: str) -> str:
-    """Traduz status do inglês para português"""
     translations = {
         'pending': 'pendente',
         'in_progress': 'em andamento',

@@ -1,63 +1,12 @@
 # FixCity - Sistema Integrado de Gestão Municipal
 
-## Pré-requisitos
-- Instalar o miniforge para gerar um ambiente isolado (https://github.com/mamba-org/micromamba-releases)
-- Node.js (para o frontend React)
-- Python 3.8+ (para o backend Flask)
-
-## Instalação
-
-### 1. Clone o repositório
-```bash
-git clone <url-do-repositorio>
-cd FixCity
-```
-
-### 2. Configure o ambiente Python
-```bash
-# Crie o ambiente conda
-mamba env create -f environment.yml
-
-# Ative o ambiente
-conda activate chatbot
-
-# Instale o spaCy
-python -m spacy download pt_core_news_sm
-```
-
-### 3. Configure o bot (opcional)
-```bash
-# Instale dependências do bot
-npm install
-```
-
-## Executando o Sistema Integrado
-
-### Backend (Flask)
-```bash
-# Ative o ambiente conda
-conda activate chatbot
-
-# Execute o backend
-cd dashboard/backend
-python main.py
-```
-Backend disponível em: http://localhost:5000
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/6fbca375-c7d7-4536-b50c-89302a4ceb00" />
 
 
+## Objetivo
+FixCity é uma solução que visa à facilitação da comunicação entre cidadãos e prefeitura, trata-se de um chatbot no WhatsApp, ao qual a população pode relatar problemas na cidade como, por exemplo, postes quebrados, e um WebApp para os gestores, onde todas as demandas no município podem ser visualizadas, além de gráficos e informações úteis para a otimização do atendimento municipal. O sistema conta com verificação de informações por meio de modelos NLP e API externa para checagem de endereços.
 
-#### Frontend (React)
-```bash
-# Em outro terminal, vá para a pasta do frontend
-cd dashboard/Frontend
-
-# Instale dependências
-npm install
-
-# Execute o frontend
-npm run dev
-```
-Frontend disponível em: http://localhost:5173
+O projeto foi desenvolvido para a PROJETE 2025, feira de projetos da Escola Francisco Moreira da Costa e foi premiado na categoria "Prêmio de Inovação Municipal".
 
 ## Estrutura do Projeto
 
@@ -80,68 +29,4 @@ FixCity/
 └── API_DOCS.md          # Documentação da API
 ```
 
-## Funcionalidades Integradas
 
-### Backend (Flask)
-- ✅ API REST completa (GET, POST, PUT, DELETE)
-- ✅ Banco de dados SQLite
-- ✅ CORS configurado
-- ✅ Estrutura de dados padronizada
-- ✅ Suporte para upload de imagens
-
-### Frontend (React)
-- ✅ Interface moderna com Tailwind CSS
-- ✅ Gestão de demandas em tempo real
-- ✅ Gráficos dinâmicos baseados em dados reais
-- ✅ Exibição de fotos das demandas
-- ✅ Sistema de autenticação
-- ✅ Integração completa com API
-
-### Integração
-- ✅ Comunicação frontend ↔ backend via API REST
-- ✅ Mapeamento de dados automático
-- ✅ Tratamento de erros
-- ✅ Estados de loading
-- ✅ Gráficos com dados em tempo real
-
-## URLs do Sistema
-
-- **Frontend**: http://localhost:5173
-- **Backend API**: http://localhost:5000/api
-- **Documentação da API**: Ver API_DOCS.md
-
-## Correções Implementadas
-
-### ✅ Gráficos Corrigidos
-- **Demandas por Categoria**: Agora usa dados reais das demandas
-- **Atividades Recentes**: Baseado nas demandas reais do banco
-- **Dados Mensais**: Calculados dinamicamente dos últimos 6 meses
-- **Dados Semanais**: Baseados na distribuição real por dia da semana
-
-### ✅ Fotos das Demandas
-- **Lista de Demandas**: Coluna de foto adicionada na tabela
-- **Visualização Detalhada**: Exibição da foto em tamanho maior
-- **Tratamento de Erros**: Fallback quando imagem não carrega
-- **Placeholder**: Ícone quando não há foto disponível
-
-## Desenvolvimento
-
-### Testando a API
-```bash
-# Listar demandas
-curl http://localhost:5000/api/demands
-
-# Criar demanda com foto
-curl -X POST http://localhost:5000/api/demands \
-  -H "Content-Type: application/json" \
-  -d '{"title":"Iluminação","description":"Poste queimado","requester":"João","location":"Rua A","image_path":"https://example.com/foto.jpg"}'
-```
-
-### Logs
-- Backend: Console do terminal onde foi executado
-- Frontend: Console do navegador (F12)
-
-## Desativando o Ambiente
-```bash
-conda deactivate
-```  

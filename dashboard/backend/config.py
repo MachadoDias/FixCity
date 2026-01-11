@@ -1,12 +1,9 @@
-"""
-Configurações do backend FixCity
-"""
 import os
 
 class Config:
     # Configurações do Flask
     DEBUG = True
-    SECRET_KEY = os.environ.get('SECRET_KEY') or 'dev-secret-key-fixcity'
+    SECRET_KEY = os.environ.get('SECRET_KEY')
     
     # Configurações do banco de dados
     DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'demands.db')
